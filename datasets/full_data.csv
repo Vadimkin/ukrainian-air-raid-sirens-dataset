@@ -1,0 +1,1767 @@
+state,district,community,level,started_at,finished_at
+Vinnytska oblast,,,oblast,2022-03-15 16:10:34+00:00,2022-03-15 16:50:07+00:00
+Zhytomyrska oblast,,,oblast,2022-03-15 16:11:25+00:00,2022-03-15 16:54:23+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-15 16:11:50+00:00,2022-03-15 16:54:47+00:00
+Mykolaivska oblast,Pervomaiskyi raion,m. Pervomaisk ta Pervomaiska terytorialna hromada,hromada,2022-03-15 16:14:46+00:00,2022-03-15 16:57:08+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-15 16:14:46+00:00,2022-03-15 16:57:08+00:00
+Kirovohradska oblast,,,oblast,2022-03-15 16:15:11+00:00,2022-03-15 16:54:52+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-15 16:16:00+00:00,2022-03-15 17:21:04+00:00
+Kyivska oblast,Bilotserkivskyi raion,Skvyrska terytorialna hromada,hromada,2022-03-15 16:17:20+00:00,2022-03-15 16:55:55+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-15 16:17:28+00:00,2022-03-15 17:14:18+00:00
+Lvivska oblast,,,oblast,2022-03-15 16:17:29+00:00,2022-03-15 17:16:23+00:00
+Rivnenska oblast,,,oblast,2022-03-15 16:18:35+00:00,2022-03-15 17:13:47+00:00
+Volynska oblast,,,oblast,2022-03-15 16:19:13+00:00,2022-03-15 17:16:10+00:00
+Kyiv City,,,oblast,2022-03-15 16:19:20+00:00,2022-03-15 18:52:28+00:00
+Ternopilska oblast,,,oblast,2022-03-15 16:22:29+00:00,2022-03-15 17:18:11+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-15 16:26:26+00:00,2022-03-15 16:55:51+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-15 16:26:26+00:00,2022-03-15 16:55:51+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-15 16:26:42+00:00,2022-03-15 19:12:43+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-15 16:26:42+00:00,2022-03-15 19:12:43+00:00
+Chernihivska oblast,,,oblast,2022-03-15 16:30:17+00:00,2022-03-15 17:02:48+00:00
+Poltavska oblast,Lubenskyi raion,Hrebinkivska terytorialna hromada,hromada,2022-03-15 16:46:43+00:00,2022-03-15 16:58:17+00:00
+Poltavska oblast,Lubenskyi raion,m. Pyriatyn ta Pyriatynska terytorialna hromada,hromada,2022-03-15 16:46:55+00:00,2022-03-15 16:58:22+00:00
+Vinnytska oblast,,,oblast,2022-03-15 16:52:30+00:00,2022-03-15 17:24:19+00:00
+Chernihivska oblast,Nizhynskyi raion,,district,2022-03-15 16:54:51+00:00,2022-03-15 17:02:45+00:00
+Chernihivska oblast,Prylutskyi raion,,district,2022-03-15 16:54:58+00:00,2022-03-15 17:02:43+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-15 17:14:32+00:00,2022-03-15 17:31:06+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-15 17:18:14+00:00,2022-03-15 17:42:07+00:00
+Kyivska oblast,Vyshhorodskyi raion,Vyshhorodska terytorialna hromada,hromada,2022-03-15 17:43:26+00:00,2022-03-15 19:12:38+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-15 18:04:27+00:00,2022-03-15 18:35:27+00:00
+Cherkaska oblast,Umanskyi raion,Zhashkivska terytorialna hromada,hromada,2022-03-15 18:04:36+00:00,2022-03-15 18:35:23+00:00
+Kyivska oblast,,,oblast,2022-03-15 18:06:20+00:00,2022-03-15 19:12:29+00:00
+Zhytomyrska oblast,,,oblast,2022-03-15 18:08:22+00:00,2022-03-15 18:35:56+00:00
+Vinnytska oblast,,,oblast,2022-03-15 18:09:10+00:00,2022-03-15 18:24:49+00:00
+Kirovohradska oblast,,,oblast,2022-03-15 18:11:07+00:00,2022-03-15 18:35:59+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-15 18:17:40+00:00,2022-03-15 19:00:32+00:00
+Zhytomyrska oblast,Zhytomyrskyi raion,,district,2022-03-15 18:41:43+00:00,2022-03-16 03:40:29+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-15 18:57:48+00:00,2022-03-15 19:45:54+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-15 19:23:40+00:00,2022-03-15 19:41:59+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-15 19:23:43+00:00,2022-03-15 19:42:38+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-15 21:45:38+00:00,2022-03-15 22:03:56+00:00
+Kyiv City,,,oblast,2022-03-15 23:33:47+00:00,2022-03-16 03:41:56+00:00
+Zhytomyrska oblast,,,oblast,2022-03-15 23:34:54+00:00,2022-03-16 03:40:20+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-15 23:37:09+00:00,2022-03-16 05:35:06+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-15 23:37:09+00:00,2022-03-16 05:35:06+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-15 23:38:25+00:00,2022-03-16 03:33:08+00:00
+Volynska oblast,,,oblast,2022-03-15 23:43:58+00:00,2022-03-16 03:26:58+00:00
+Kharkivska oblast,,,oblast,2022-03-15 23:47:05+00:00,2022-03-16 04:23:09+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,,district,2022-03-15 23:48:28+00:00,2022-03-16 04:17:36+00:00
+Rivnenska oblast,,,oblast,2022-03-15 23:48:56+00:00,2022-03-16 03:51:23+00:00
+Ternopilska oblast,,,oblast,2022-03-15 23:49:19+00:00,2022-03-16 03:32:35+00:00
+Khmelnytska oblast,,,oblast,2022-03-15 23:57:21+00:00,2022-03-16 03:28:28+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-16 00:07:30+00:00,2022-03-16 04:23:05+00:00
+Poltavska oblast,Kremenchutskyi raion,m. Kremenchuk ta Kremenchutska terytorialna hromada,hromada,2022-03-16 00:12:33+00:00,2022-03-16 04:44:12+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-16 00:16:24+00:00,2022-03-16 04:22:23+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-16 00:17:27+00:00,2022-03-16 04:44:57+00:00
+Cherkaska oblast,,,oblast,2022-03-16 00:50:06+00:00,2022-03-16 04:42:26+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-16 00:50:45+00:00,2022-03-16 04:17:20+00:00
+Lvivska oblast,,,oblast,2022-03-16 00:50:53+00:00,2022-03-16 03:24:08+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-16 00:51:58+00:00,2022-03-16 04:18:10+00:00
+Kyivska oblast,,,oblast,2022-03-16 00:52:01+00:00,2022-03-16 05:34:58+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-16 00:53:19+00:00,2022-03-16 03:27:16+00:00
+Odeska oblast,,,oblast,2022-03-16 00:55:03+00:00,2022-03-16 02:35:50+00:00
+Vinnytska oblast,,,oblast,2022-03-16 00:57:14+00:00,2022-03-16 03:21:06+00:00
+Kirovohradska oblast,,,oblast,2022-03-16 00:57:18+00:00,2022-03-16 04:41:57+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-16 00:59:08+00:00,2022-03-16 04:22:49+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-16 03:41:19+00:00,2022-03-16 04:17:23+00:00
+Mykolaivska oblast,Voznesenskyi raion,m. Voznesensk ta Voznesenska terytorialna hromada,hromada,2022-03-16 03:42:02+00:00,2022-03-16 04:44:49+00:00
+Cherkaska oblast,Zolotoniskyi raion,Voznesenska terytorialna hromada,hromada,2022-03-16 03:42:02+00:00,2022-03-16 04:44:49+00:00
+Kyiv City,,,oblast,2022-03-16 04:12:47+00:00,2022-03-16 04:54:31+00:00
+Kyiv City,,,oblast,2022-03-16 05:31:53+00:00,2022-03-16 06:26:41+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-16 05:35:18+00:00,2022-03-16 06:30:47+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-16 05:35:18+00:00,2022-03-16 06:30:47+00:00
+Zhytomyrska oblast,,,oblast,2022-03-16 05:36:21+00:00,2022-03-16 06:27:24+00:00
+Chernihivska oblast,,,oblast,2022-03-16 06:08:41+00:00,2022-03-18 04:45:11+00:00
+Kyiv City,,,oblast,2022-03-16 07:09:47+00:00,2022-03-16 10:44:19+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-16 07:11:56+00:00,2022-03-16 10:50:25+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-16 07:11:56+00:00,2022-03-16 10:50:25+00:00
+Kharkivska oblast,Kharkivskyi raion,,district,2022-03-16 07:39:48+00:00,2022-03-16 07:48:30+00:00
+Kharkivska oblast,,,oblast,2022-03-16 07:39:56+00:00,2022-03-16 07:48:36+00:00
+Vinnytska oblast,,,oblast,2022-03-16 07:51:35+00:00,2022-03-16 09:04:12+00:00
+Zhytomyrska oblast,,,oblast,2022-03-16 07:53:10+00:00,2022-03-16 10:44:46+00:00
+Kyivska oblast,,,oblast,2022-03-16 07:54:12+00:00,2022-03-16 10:50:14+00:00
+Sumska oblast,Shostkynskyi raion,m. Shostka ta Shostkynska terytorialna hromada,hromada,2022-03-16 08:10:25+00:00,2022-03-16 13:16:34+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-16 08:46:53+00:00,2022-03-16 09:25:03+00:00
+Khmelnytska oblast,Shepetivskyi raion,,district,2022-03-16 08:47:16+00:00,2022-03-16 09:24:55+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-16 09:40:01+00:00,2022-03-16 10:22:12+00:00
+Odeska oblast,,,oblast,2022-03-16 09:40:57+00:00,2022-03-16 10:21:29+00:00
+Odeska oblast,Podilskyi raion,,district,2022-03-16 09:42:09+00:00,2022-03-16 10:21:44+00:00
+Odeska oblast,Berezivskyi raion,,district,2022-03-16 09:42:15+00:00,2022-03-16 10:21:53+00:00
+Odeska oblast,Izmailskyi raion,,district,2022-03-16 09:42:20+00:00,2022-03-16 10:21:58+00:00
+Odeska oblast,Bilhorod-Dnistrovskyi raion,,district,2022-03-16 09:42:24+00:00,2022-03-16 10:22:01+00:00
+Chernivetska oblast,Dnistrovskyi raion,,district,2022-03-16 09:42:24+00:00,2022-03-16 10:22:01+00:00
+Odeska oblast,Rozdilnianskyi raion,,district,2022-03-16 09:42:39+00:00,2022-03-16 10:22:05+00:00
+Odeska oblast,Bolhradskyi raion,,district,2022-03-16 09:42:42+00:00,2022-03-16 10:22:17+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-16 09:47:38+00:00,2022-03-16 10:45:18+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-16 09:54:13+00:00,2022-03-16 10:50:51+00:00
+Mykolaivska oblast,Voznesenskyi raion,m. Voznesensk ta Voznesenska terytorialna hromada,hromada,2022-03-16 10:05:04+00:00,2022-03-16 10:51:01+00:00
+Cherkaska oblast,Zolotoniskyi raion,Voznesenska terytorialna hromada,hromada,2022-03-16 10:05:04+00:00,2022-03-16 10:51:01+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-16 10:05:25+00:00,2022-03-16 10:50:54+00:00
+Vinnytska oblast,,,oblast,2022-03-16 10:08:00+00:00,2022-03-16 10:41:07+00:00
+Zhytomyrska oblast,Korostenskyi raion,,district,2022-03-16 10:08:31+00:00,2022-03-16 10:44:36+00:00
+Cherkaska oblast,Cherkaskyi raion,Smilianska terytorialna hromada,hromada,2022-03-16 10:11:49+00:00,2022-03-16 10:45:26+00:00
+Cherkaska oblast,Zvenyhorodskyi raion,m. Vatutine ta Vatutinska terytorialna hromada,hromada,2022-03-16 10:12:00+00:00,2022-03-16 10:45:11+00:00
+Mykolaivska oblast,Pervomaiskyi raion,m. Pervomaisk ta Pervomaiska terytorialna hromada,hromada,2022-03-16 10:13:34+00:00,2022-03-16 10:50:46+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-16 10:13:34+00:00,2022-03-16 10:50:46+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-16 11:28:16+00:00,2022-03-16 11:40:10+00:00
+Kyiv City,,,oblast,2022-03-16 11:33:24+00:00,2022-03-16 13:10:38+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-16 11:35:15+00:00,2022-03-16 13:12:46+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-16 11:35:15+00:00,2022-03-16 13:12:46+00:00
+Dnipropetrovska oblast,Dniprovskyi raion,m. Dnipro ta Dniprovska terytorialna hromada,hromada,2022-03-16 11:37:15+00:00,2022-03-16 11:56:27+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-16 11:37:40+00:00,2022-03-16 13:15:43+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-16 11:37:40+00:00,2022-03-16 13:15:43+00:00
+Kyivska oblast,Obukhivskyi raion,Myronivska terytorialna hromada,hromada,2022-03-16 11:37:48+00:00,2022-03-16 13:15:39+00:00
+Zaporizka oblast,Zaporizkyi raion,m. Zaporizhzhia ta Zaporizka terytorialna hromada,hromada,2022-03-16 11:40:24+00:00,2022-03-16 11:58:09+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-16 11:40:44+00:00,2022-03-16 13:15:31+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-16 11:40:44+00:00,2022-03-16 13:15:31+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-16 11:41:34+00:00,2022-03-16 11:56:19+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-16 11:43:34+00:00,2022-03-16 11:57:12+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-16 11:57:07+00:00,2022-03-16 12:22:07+00:00
+Poltavska oblast,Myrhorodskyi raion,m. Myrhorod ta Myrhorodska terytorialna hromada,hromada,2022-03-16 11:57:21+00:00,2022-03-16 12:21:57+00:00
+Zhytomyrska oblast,Zhytomyrskyi raion,,district,2022-03-16 13:29:28+00:00,2022-03-16 14:28:14+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-16 13:33:07+00:00,2022-03-16 14:33:04+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-16 13:33:07+00:00,2022-03-16 14:33:04+00:00
+Kyivska oblast,Fastivskyi raion,m. Fastiv ta Fastivska terytorialna hromada,hromada,2022-03-16 13:33:20+00:00,2022-03-16 14:33:18+00:00
+Zhytomyrska oblast,,,oblast,2022-03-16 13:33:47+00:00,2022-03-16 14:28:07+00:00
+Kyivska oblast,Obukhivskyi raion,Myronivska terytorialna hromada,hromada,2022-03-16 13:42:16+00:00,2022-03-16 14:33:11+00:00
+Kyivska oblast,Vyshhorodskyi raion,m. Slavutych ta Slavutytska terytorialna hromada,hromada,2022-03-16 13:49:11+00:00,2022-03-16 14:32:58+00:00
+Khmelnytska oblast,Shepetivskyi raion,,district,2022-03-16 13:58:16+00:00,2022-03-16 14:28:25+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-16 13:58:25+00:00,2022-03-16 14:28:34+00:00
+Rivnenska oblast,,,oblast,2022-03-16 14:01:46+00:00,2022-03-16 14:28:46+00:00
+Volynska oblast,,,oblast,2022-03-16 14:03:44+00:00,2022-03-16 14:33:55+00:00
+Ternopilska oblast,,,oblast,2022-03-16 14:07:10+00:00,2022-03-16 14:40:01+00:00
+Khmelnytska oblast,,,oblast,2022-03-16 14:18:18+00:00,2022-03-16 14:28:11+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-16 14:39:17+00:00,2022-03-16 15:22:27+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-16 14:50:18+00:00,2022-03-16 15:41:33+00:00
+Kharkivska oblast,Kharkivskyi raion,,district,2022-03-16 14:50:23+00:00,2022-03-16 15:41:29+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-16 14:51:00+00:00,2022-03-16 15:08:10+00:00
+Zhytomyrska oblast,,,oblast,2022-03-16 15:32:50+00:00,2022-03-16 17:23:53+00:00
+Kyivska oblast,Buchanskyi raion,Makarivska terytorialna hromada,hromada,2022-03-16 15:35:56+00:00,2022-03-16 21:05:03+00:00
+Kyiv City,,,oblast,2022-03-16 15:47:13+00:00,2022-03-16 17:24:46+00:00
+Vinnytska oblast,,,oblast,2022-03-16 15:49:07+00:00,2022-03-16 16:10:31+00:00
+Cherkaska oblast,Umanskyi raion,Zhashkivska terytorialna hromada,hromada,2022-03-16 15:51:11+00:00,2022-03-16 17:23:52+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-16 15:52:35+00:00,2022-03-16 21:04:53+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-16 15:52:35+00:00,2022-03-16 21:04:53+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-16 15:52:48+00:00,2022-03-16 21:05:09+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-16 15:52:48+00:00,2022-03-16 21:05:09+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-16 16:12:13+00:00,2022-03-16 16:33:13+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-16 17:12:51+00:00,2022-03-16 17:23:57+00:00
+Kyivska oblast,Boryspilskyi raion,m. Boryspil ta Boryspilska terytorialna hromada,hromada,2022-03-16 17:19:16+00:00,2022-03-16 21:05:24+00:00
+Kyivska oblast,Brovarskyi raion,m. Brovary ta Brovarska terytorialna hromada,hromada,2022-03-16 17:19:20+00:00,2022-03-16 21:05:30+00:00
+Zhytomyrska oblast,,,oblast,2022-03-16 17:33:10+00:00,2022-03-16 17:57:23+00:00
+Rivnenska oblast,Varaskyi raion,,district,2022-03-16 17:41:18+00:00,2022-03-16 17:57:58+00:00
+Rivnenska oblast,Sarnenskyi raion,,district,2022-03-16 17:41:25+00:00,2022-03-16 17:57:54+00:00
+Poltavska oblast,Lubenskyi raion,m. Pyriatyn ta Pyriatynska terytorialna hromada,hromada,2022-03-16 17:41:38+00:00,2022-03-17 02:11:12+00:00
+Rivnenska oblast,Sarnenskyi raion,Dubrovytska terytorialna hromada,hromada,2022-03-16 17:46:43+00:00,2022-03-16 17:57:47+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-16 18:22:16+00:00,2022-03-16 18:30:27+00:00
+Sumska oblast,Sumskyi raion,,district,2022-03-16 19:15:23+00:00,2022-03-16 20:38:02+00:00
+Sumska oblast,Okhtyrskyi raion,,district,2022-03-16 19:15:32+00:00,2022-03-16 20:38:15+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-16 19:15:38+00:00,2022-03-16 20:37:49+00:00
+Kharkivska oblast,,,oblast,2022-03-16 19:50:31+00:00,2022-03-16 21:49:08+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-16 20:04:06+00:00,2022-03-16 20:37:24+00:00
+Rivnenska oblast,,,oblast,2022-03-16 20:04:53+00:00,2022-03-16 20:34:20+00:00
+Ternopilska oblast,,,oblast,2022-03-16 20:06:48+00:00,2022-03-16 20:38:41+00:00
+Volynska oblast,,,oblast,2022-03-16 20:07:09+00:00,2022-03-16 20:36:09+00:00
+Zhytomyrska oblast,,,oblast,2022-03-16 20:21:09+00:00,2022-03-16 21:01:16+00:00
+Kyiv City,,,oblast,2022-03-16 20:31:22+00:00,2022-03-16 21:00:11+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-16 20:35:48+00:00,2022-03-16 21:01:29+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-16 20:36:05+00:00,2022-03-16 21:15:40+00:00
+Kyivska oblast,,,oblast,2022-03-16 20:36:23+00:00,2022-03-16 21:04:41+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-16 20:36:38+00:00,2022-03-16 21:17:03+00:00
+Sumska oblast,Konotopskyi raion,m. Konotop ta Konotopska terytorialna hromada,hromada,2022-03-16 20:38:36+00:00,2022-03-16 21:07:49+00:00
+Zaporizka oblast,,,oblast,2022-03-16 20:42:47+00:00,2022-03-16 21:15:55+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-16 21:21:22+00:00,2022-03-16 21:47:58+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-16 21:22:15+00:00,2022-03-16 22:21:50+00:00
+Zhytomyrska oblast,Zhytomyrskyi raion,,district,2022-03-16 21:26:04+00:00,2022-03-16 22:00:58+00:00
+Kyiv City,,,oblast,2022-03-16 21:43:17+00:00,2022-03-16 22:21:03+00:00
+Sumska oblast,Sumskyi raion,,district,2022-03-16 23:10:32+00:00,2022-03-17 00:05:02+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-16 23:11:18+00:00,2022-03-17 00:04:52+00:00
+Kharkivska oblast,,,oblast,2022-03-16 23:13:18+00:00,2022-03-16 23:37:14+00:00
+Kyiv City,,,oblast,2022-03-17 01:21:29+00:00,2022-03-17 03:09:54+00:00
+Zhytomyrska oblast,,,oblast,2022-03-17 01:22:25+00:00,2022-03-17 03:10:34+00:00
+Cherkaska oblast,,,oblast,2022-03-17 01:33:50+00:00,2022-03-17 03:10:31+00:00
+Vinnytska oblast,,,oblast,2022-03-17 02:00:34+00:00,2022-03-17 02:50:11+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-17 02:14:05+00:00,2022-03-17 03:12:06+00:00
+Khmelnytska oblast,,,oblast,2022-03-17 02:14:37+00:00,2022-03-17 03:10:17+00:00
+Rivnenska oblast,,,oblast,2022-03-17 02:15:29+00:00,2022-03-17 02:48:51+00:00
+Volynska oblast,,,oblast,2022-03-17 02:16:43+00:00,2022-03-17 02:48:00+00:00
+Lvivska oblast,,,oblast,2022-03-17 02:16:46+00:00,2022-03-17 02:53:45+00:00
+Chernivetska oblast,,,oblast,2022-03-17 02:19:43+00:00,2022-03-17 03:13:16+00:00
+Ternopilska oblast,,,oblast,2022-03-17 02:19:47+00:00,2022-03-17 02:50:27+00:00
+Zakarpatska oblast,,,oblast,2022-03-17 02:21:31+00:00,2022-03-17 03:12:58+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-17 03:38:07+00:00,2022-03-17 03:55:30+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-17 03:52:11+00:00,2022-03-17 04:10:32+00:00
+Zaporizka oblast,Zaporizkyi raion,m. Zaporizhzhia ta Zaporizka terytorialna hromada,hromada,2022-03-17 03:52:18+00:00,2022-03-17 04:08:47+00:00
+Zhytomyrska oblast,,,oblast,2022-03-17 04:54:28+00:00,2022-03-17 05:09:57+00:00
+Vinnytska oblast,,,oblast,2022-03-17 04:54:30+00:00,2022-03-17 05:08:50+00:00
+Volynska oblast,,,oblast,2022-03-17 04:55:30+00:00,2022-03-17 05:12:08+00:00
+Rivnenska oblast,,,oblast,2022-03-17 04:58:50+00:00,2022-03-17 05:10:30+00:00
+Ternopilska oblast,,,oblast,2022-03-17 05:02:20+00:00,2022-03-17 05:17:05+00:00
+Sumska oblast,Shostkynskyi raion,m. Shostka ta Shostkynska terytorialna hromada,hromada,2022-03-17 06:42:34+00:00,2022-03-17 06:53:57+00:00
+Kharkivska oblast,,,oblast,2022-03-17 06:53:32+00:00,2022-03-17 08:00:29+00:00
+Kyiv City,,,oblast,2022-03-17 08:19:05+00:00,2022-03-17 08:49:39+00:00
+Sumska oblast,,,oblast,2022-03-17 08:23:26+00:00,2022-03-17 09:06:47+00:00
+Kyivska oblast,,,oblast,2022-03-17 08:29:15+00:00,2022-03-17 08:57:39+00:00
+Kyiv City,,,oblast,2022-03-17 09:06:00+00:00,2022-03-17 10:20:03+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-17 09:11:12+00:00,2022-03-17 11:52:17+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-17 09:11:12+00:00,2022-03-17 11:52:17+00:00
+Vinnytska oblast,,,oblast,2022-03-17 09:14:21+00:00,2022-03-17 09:50:04+00:00
+Zhytomyrska oblast,,,oblast,2022-03-17 09:15:22+00:00,2022-03-17 09:53:46+00:00
+Cherkaska oblast,,,oblast,2022-03-17 09:16:09+00:00,2022-03-17 09:16:44+00:00
+Kyivska oblast,,,oblast,2022-03-17 09:25:21+00:00,2022-03-17 11:52:12+00:00
+Kharkivska oblast,,,oblast,2022-03-17 10:29:45+00:00,2022-03-17 10:34:27+00:00
+Sumska oblast,Sumskyi raion,,district,2022-03-17 10:37:54+00:00,2022-03-17 12:30:28+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-17 10:38:04+00:00,2022-03-17 12:30:24+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-17 10:45:17+00:00,2022-03-17 11:50:03+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-17 10:45:24+00:00,2022-03-17 11:47:18+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-17 10:45:28+00:00,2022-03-17 11:50:14+00:00
+Kharkivska oblast,,,oblast,2022-03-17 10:45:29+00:00,2022-03-17 12:49:30+00:00
+Kyiv City,,,oblast,2022-03-17 10:45:54+00:00,2022-03-17 11:46:45+00:00
+Poltavska oblast,,,oblast,2022-03-17 10:46:39+00:00,2022-03-17 11:46:12+00:00
+Zaporizka oblast,,,oblast,2022-03-17 10:47:30+00:00,2022-03-17 11:45:59+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-17 10:47:33+00:00,2022-03-17 12:01:31+00:00
+Zhytomyrska oblast,,,oblast,2022-03-17 10:47:35+00:00,2022-03-17 11:45:50+00:00
+Sumska oblast,,,oblast,2022-03-17 10:48:50+00:00,2022-03-17 12:30:06+00:00
+Odeska oblast,,,oblast,2022-03-17 10:49:00+00:00,2022-03-17 11:47:38+00:00
+Odeska oblast,Podilskyi raion,,district,2022-03-17 10:49:34+00:00,2022-03-17 11:47:33+00:00
+Odeska oblast,Berezivskyi raion,,district,2022-03-17 10:49:38+00:00,2022-03-17 11:47:30+00:00
+Odeska oblast,Izmailskyi raion,,district,2022-03-17 10:49:41+00:00,2022-03-17 11:47:27+00:00
+Odeska oblast,Bilhorod-Dnistrovskyi raion,,district,2022-03-17 10:49:44+00:00,2022-03-17 11:47:24+00:00
+Chernivetska oblast,Dnistrovskyi raion,,district,2022-03-17 10:49:44+00:00,2022-03-17 11:47:24+00:00
+Odeska oblast,Rozdilnianskyi raion,,district,2022-03-17 10:49:48+00:00,2022-03-17 11:47:21+00:00
+Odeska oblast,Bolhradskyi raion,,district,2022-03-17 10:49:51+00:00,2022-03-17 11:47:15+00:00
+Mykolaivska oblast,,,oblast,2022-03-17 10:50:49+00:00,2022-03-17 11:50:45+00:00
+Vinnytska oblast,,,oblast,2022-03-17 10:58:36+00:00,2022-03-17 12:11:10+00:00
+Poltavska oblast,Kremenchutskyi raion,m. Kremenchuk ta Kremenchutska terytorialna hromada,hromada,2022-03-17 11:13:38+00:00,2022-03-17 11:46:08+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-17 11:18:22+00:00,2022-03-17 11:23:16+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-17 11:52:00+00:00,2022-03-17 12:18:51+00:00
+Kyiv City,,,oblast,2022-03-17 12:14:59+00:00,2022-03-17 13:18:59+00:00
+Kyivska oblast,,,oblast,2022-03-17 12:28:50+00:00,2022-03-17 13:31:07+00:00
+Kirovohradska oblast,Holovanivskyi raion,,district,2022-03-17 12:56:20+00:00,2022-03-17 15:49:42+00:00
+Kyiv City,,,oblast,2022-03-17 14:17:30+00:00,2022-03-17 14:34:14+00:00
+Vinnytska oblast,,,oblast,2022-03-17 14:18:41+00:00,2022-03-17 15:02:08+00:00
+Zhytomyrska oblast,,,oblast,2022-03-17 14:21:18+00:00,2022-03-17 14:35:19+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-17 14:21:28+00:00,2022-03-17 14:37:09+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-17 14:21:42+00:00,2022-03-17 14:36:42+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-17 14:23:20+00:00,2022-03-17 14:41:01+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-17 14:23:20+00:00,2022-03-17 14:41:01+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-17 14:23:32+00:00,2022-03-17 14:41:06+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-17 14:23:32+00:00,2022-03-17 14:41:06+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-17 15:04:42+00:00,2022-03-17 15:24:45+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-17 15:05:12+00:00,2022-03-17 15:24:32+00:00
+Donetska oblast,Kramatorskyi raion,Druzhkivska terytorialna hromada,hromada,2022-03-17 15:08:36+00:00,2022-03-17 15:24:39+00:00
+Kharkivska oblast,,,oblast,2022-03-17 15:18:12+00:00,2022-03-17 15:30:01+00:00
+Zhytomyrska oblast,,,oblast,2022-03-17 16:14:06+00:00,2022-03-17 21:51:10+00:00
+Kyivska oblast,Boryspilskyi raion,m. Boryspil ta Boryspilska terytorialna hromada,hromada,2022-03-17 17:01:39+00:00,2022-03-17 17:34:11+00:00
+Kyivska oblast,Brovarskyi raion,m. Brovary ta Brovarska terytorialna hromada,hromada,2022-03-17 17:01:49+00:00,2022-03-17 17:34:03+00:00
+Zaporizka oblast,Melitopolskyi raion,m. Melitopol ta Melitopolska terytorialna hromada,hromada,2022-03-17 17:55:14+00:00,2022-03-17 18:38:54+00:00
+Zaporizka oblast,Zaporizkyi raion,,district,2022-03-17 18:13:04+00:00,2022-03-17 18:33:25+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-17 19:38:00+00:00,2022-03-17 20:01:17+00:00
+Mykolaivska oblast,Bashtanskyi raion,Shyrokivska terytorialna hromada,hromada,2022-03-17 19:38:27+00:00,2022-03-17 20:03:08+00:00
+Zaporizka oblast,Melitopolskyi raion,m. Melitopol ta Melitopolska terytorialna hromada,hromada,2022-03-17 19:45:42+00:00,2022-03-17 20:04:31+00:00
+Kyiv City,,,oblast,2022-03-17 21:19:48+00:00,2022-03-17 21:50:03+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-17 21:24:36+00:00,2022-03-17 21:56:32+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-17 21:24:36+00:00,2022-03-17 21:56:32+00:00
+Kyivska oblast,Fastivskyi raion,m. Fastiv ta Fastivska terytorialna hromada,hromada,2022-03-17 21:25:09+00:00,2022-03-17 21:56:50+00:00
+Kyivska oblast,Brovarskyi raion,m. Brovary ta Brovarska terytorialna hromada,hromada,2022-03-17 21:26:06+00:00,2022-03-17 21:56:56+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-17 21:26:34+00:00,2022-03-17 21:56:41+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-17 21:26:34+00:00,2022-03-17 21:56:41+00:00
+Donetska oblast,Mariupolskyi raion,,district,2022-03-17 22:26:43+00:00,2022-03-17 22:53:17+00:00
+Zaporizka oblast,,,oblast,2022-03-17 22:59:31+00:00,2022-03-17 23:37:50+00:00
+Kharkivska oblast,,,oblast,2022-03-17 23:05:40+00:00,2022-03-17 23:37:10+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-17 23:42:43+00:00,2022-03-17 23:48:26+00:00
+Vinnytska oblast,,,oblast,2022-03-18 01:28:26+00:00,2022-03-18 02:11:54+00:00
+Kyiv City,,,oblast,2022-03-18 01:28:26+00:00,2022-03-18 02:12:00+00:00
+Zhytomyrska oblast,,,oblast,2022-03-18 01:31:27+00:00,2022-03-18 02:12:48+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-18 01:34:06+00:00,2022-03-18 02:16:35+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-18 01:34:06+00:00,2022-03-18 02:16:35+00:00
+Kharkivska oblast,,,oblast,2022-03-18 02:57:40+00:00,2022-03-18 04:15:48+00:00
+Kyiv City,,,oblast,2022-03-18 03:18:25+00:00,2022-03-18 04:37:34+00:00
+Zhytomyrska oblast,,,oblast,2022-03-18 03:19:21+00:00,2022-03-18 04:38:44+00:00
+Vinnytska oblast,,,oblast,2022-03-18 03:21:06+00:00,2022-03-18 04:34:48+00:00
+Kyivska oblast,,,oblast,2022-03-18 03:27:32+00:00,2022-03-18 04:45:30+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-18 03:33:24+00:00,2022-03-18 04:38:52+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-18 03:33:50+00:00,2022-03-18 04:39:05+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-18 03:33:50+00:00,2022-03-18 04:39:05+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-18 03:53:56+00:00,2022-03-18 04:23:02+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-18 03:55:29+00:00,2022-03-18 04:23:19+00:00
+Khmelnytska oblast,,,oblast,2022-03-18 04:00:13+00:00,2022-03-18 04:37:43+00:00
+Rivnenska oblast,,,oblast,2022-03-18 04:07:40+00:00,2022-03-18 04:47:06+00:00
+Volynska oblast,,,oblast,2022-03-18 04:08:08+00:00,2022-03-18 04:47:52+00:00
+Lvivska oblast,,,oblast,2022-03-18 04:08:35+00:00,2022-03-18 04:47:51+00:00
+Ternopilska oblast,,,oblast,2022-03-18 04:13:09+00:00,2022-03-18 05:17:10+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-18 04:17:03+00:00,2022-03-18 04:51:29+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-18 05:26:50+00:00,2022-03-18 07:02:42+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-18 05:29:00+00:00,2022-03-18 07:03:07+00:00
+Kharkivska oblast,,,oblast,2022-03-18 05:29:27+00:00,2022-03-18 07:55:56+00:00
+Zaporizka oblast,,,oblast,2022-03-18 05:30:12+00:00,2022-03-18 07:36:07+00:00
+Mykolaivska oblast,Pervomaiskyi raion,m. Pervomaisk ta Pervomaiska terytorialna hromada,hromada,2022-03-18 05:33:27+00:00,2022-03-18 07:03:52+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-18 05:33:27+00:00,2022-03-18 07:03:52+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-18 05:35:56+00:00,2022-03-18 08:38:05+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-18 05:45:10+00:00,2022-03-18 05:55:25+00:00
+Kyiv City,,,oblast,2022-03-18 05:48:05+00:00,2022-03-18 06:56:13+00:00
+Zhytomyrska oblast,,,oblast,2022-03-18 05:48:48+00:00,2022-03-18 07:04:59+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-18 05:51:41+00:00,2022-03-18 08:18:02+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-18 05:51:41+00:00,2022-03-18 08:18:02+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-18 05:52:42+00:00,2022-03-18 08:38:00+00:00
+Odeska oblast,,,oblast,2022-03-18 06:07:37+00:00,2022-03-18 06:14:20+00:00
+Vinnytska oblast,,,oblast,2022-03-18 06:09:25+00:00,2022-03-18 06:54:02+00:00
+Cherkaska oblast,Zvenyhorodskyi raion,,district,2022-03-18 06:11:14+00:00,2022-03-18 06:56:57+00:00
+Cherkaska oblast,Umanskyi raion,,district,2022-03-18 06:11:20+00:00,2022-03-18 06:57:00+00:00
+Cherkaska oblast,Cherkaskyi raion,,district,2022-03-18 06:11:24+00:00,2022-03-18 06:57:06+00:00
+Cherkaska oblast,Zolotoniskyi raion,,district,2022-03-18 06:11:28+00:00,2022-03-18 06:57:09+00:00
+Cherkaska oblast,,,oblast,2022-03-18 06:12:37+00:00,2022-03-18 06:56:54+00:00
+Rivnenska oblast,,,oblast,2022-03-18 06:19:38+00:00,2022-03-18 06:40:41+00:00
+Volynska oblast,,,oblast,2022-03-18 06:20:00+00:00,2022-03-18 06:41:21+00:00
+Ternopilska oblast,,,oblast,2022-03-18 06:22:31+00:00,2022-03-18 06:43:32+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-18 06:24:26+00:00,2022-03-18 06:42:04+00:00
+Poltavska oblast,,,oblast,2022-03-18 06:29:25+00:00,2022-03-18 08:37:50+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-18 07:02:59+00:00,2022-03-18 07:54:39+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-18 07:03:17+00:00,2022-03-18 08:35:10+00:00
+Dnipropetrovska oblast,Dniprovskyi raion,m. Dnipro ta Dniprovska terytorialna hromada,hromada,2022-03-18 07:12:15+00:00,2022-03-18 07:31:52+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-18 07:18:09+00:00,2022-03-18 07:33:30+00:00
+Kharkivska oblast,,,oblast,2022-03-18 07:55:59+00:00,2022-03-18 09:05:01+00:00
+Kyiv City,,,oblast,2022-03-18 08:46:58+00:00,2022-03-18 09:50:48+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-18 08:48:40+00:00,2022-03-18 09:30:18+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-18 08:48:40+00:00,2022-03-18 09:30:18+00:00
+Cherkaska oblast,,,oblast,2022-03-18 08:50:19+00:00,2022-03-18 09:29:56+00:00
+Kyivska oblast,Boryspilskyi raion,m. Boryspil ta Boryspilska terytorialna hromada,hromada,2022-03-18 08:55:18+00:00,2022-03-18 09:32:30+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-18 08:55:21+00:00,2022-03-18 09:09:44+00:00
+Chernihivska oblast,,,oblast,2022-03-18 09:19:44+00:00,2022-03-18 10:13:06+00:00
+Kharkivska oblast,,,oblast,2022-03-18 09:25:00+00:00,2022-03-18 09:32:14+00:00
+Kharkivska oblast,,,oblast,2022-03-18 10:03:58+00:00,2022-03-18 11:33:51+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-18 10:39:30+00:00,2022-03-18 11:29:58+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-18 10:40:30+00:00,2022-03-18 11:31:09+00:00
+Zaporizka oblast,,,oblast,2022-03-18 10:43:00+00:00,2022-03-18 11:34:56+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-18 10:53:37+00:00,2022-03-18 12:11:29+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-18 10:56:02+00:00,2022-03-18 11:35:20+00:00
+Kyivska oblast,Buchanskyi raion,Makarivska terytorialna hromada,hromada,2022-03-18 11:01:09+00:00,2022-03-18 11:44:29+00:00
+Zhytomyrska oblast,Korostenskyi raion,,district,2022-03-18 11:01:17+00:00,2022-03-18 11:42:47+00:00
+Zhytomyrska oblast,Zhytomyrskyi raion,,district,2022-03-18 11:01:23+00:00,2022-03-18 11:42:51+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-18 11:03:30+00:00,2022-03-18 11:44:19+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-18 11:03:30+00:00,2022-03-18 11:44:19+00:00
+Kharkivska oblast,,,oblast,2022-03-18 11:39:30+00:00,2022-03-18 12:22:19+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-18 11:39:45+00:00,2022-03-18 12:14:01+00:00
+Zhytomyrska oblast,Zhytomyrskyi raion,Radomyshlska terytorialna hromada,hromada,2022-03-18 14:08:24+00:00,2022-03-18 16:38:07+00:00
+Donetska oblast,Donetskyi raion,,district,2022-03-18 14:13:55+00:00,2022-03-18 14:52:22+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-18 14:13:58+00:00,2022-03-18 14:52:30+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-18 14:14:17+00:00,2022-03-18 14:52:53+00:00
+Zhytomyrska oblast,,,oblast,2022-03-18 14:14:18+00:00,2022-03-18 16:37:49+00:00
+Kharkivska oblast,,,oblast,2022-03-18 14:37:01+00:00,2022-03-18 15:15:57+00:00
+Donetska oblast,Kramatorskyi raion,Druzhkivska terytorialna hromada,hromada,2022-03-18 14:43:44+00:00,2022-03-18 14:52:48+00:00
+Khersonska oblast,Kakhovskyi raion,Kostiantynivska terytorialna hromada,hromada,2022-03-18 14:43:51+00:00,2022-03-18 14:52:45+00:00
+Donetska oblast,Pokrovskyi raion,Pokrovska terytorialna hromada,hromada,2022-03-18 14:44:35+00:00,2022-03-18 14:52:41+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-18 14:53:04+00:00,2022-03-18 16:32:39+00:00
+Kyiv City,,,oblast,2022-03-18 15:00:13+00:00,2022-03-18 15:42:13+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-18 15:02:42+00:00,2022-03-18 16:30:13+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-18 15:02:42+00:00,2022-03-18 16:30:13+00:00
+Donetska oblast,Kramatorskyi raion,Sviatohirska terytorialna hromada,hromada,2022-03-18 15:40:25+00:00,2022-03-18 17:00:06+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Slovianska terytorialna hromada,hromada,2022-03-18 15:40:33+00:00,2022-03-18 17:00:12+00:00
+Donetska oblast,Kramatorskyi raion,m. Sloviansk ta Slovianska terytorialna hromada,hromada,2022-03-18 15:40:33+00:00,2022-03-18 17:00:12+00:00
+Kyiv City,,,oblast,2022-03-18 15:48:15+00:00,2022-03-18 16:27:19+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-18 15:49:29+00:00,2022-03-18 16:27:32+00:00
+Poltavska oblast,Lubenskyi raion,m. Pyriatyn ta Pyriatynska terytorialna hromada,hromada,2022-03-18 15:49:36+00:00,2022-03-18 16:27:38+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-18 15:50:39+00:00,2022-03-18 16:28:21+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-18 15:50:39+00:00,2022-03-18 16:28:21+00:00
+Cherkaska oblast,Cherkaskyi raion,Smilianska terytorialna hromada,hromada,2022-03-18 15:50:45+00:00,2022-03-18 16:28:18+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-18 15:51:04+00:00,2022-03-18 16:28:11+00:00
+Cherkaska oblast,Zvenyhorodskyi raion,m. Vatutine ta Vatutinska terytorialna hromada,hromada,2022-03-18 15:51:12+00:00,2022-03-18 16:28:04+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-18 15:52:15+00:00,2022-03-18 16:30:07+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-18 15:52:15+00:00,2022-03-18 16:30:07+00:00
+Mykolaivska oblast,Mykolaivskyi raion,,district,2022-03-18 15:53:49+00:00,2022-03-18 16:30:23+00:00
+Mykolaivska oblast,Voznesenskyi raion,m. Voznesensk ta Voznesenska terytorialna hromada,hromada,2022-03-18 15:54:00+00:00,2022-03-18 16:30:17+00:00
+Cherkaska oblast,Zolotoniskyi raion,Voznesenska terytorialna hromada,hromada,2022-03-18 15:54:00+00:00,2022-03-18 16:30:17+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-18 15:55:22+00:00,2022-03-18 16:28:47+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-18 16:39:31+00:00,2022-03-18 16:47:22+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-18 16:39:31+00:00,2022-03-18 16:47:22+00:00
+Kyivska oblast,Bilotserkivskyi raion,Uzynska terytorialna hromada,hromada,2022-03-18 16:39:38+00:00,2022-03-18 16:47:33+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-18 16:39:54+00:00,2022-03-18 16:47:39+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-18 16:39:54+00:00,2022-03-18 16:47:39+00:00
+Vinnytska oblast,,,oblast,2022-03-18 17:00:58+00:00,2022-03-18 17:46:54+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-18 17:02:11+00:00,2022-03-18 17:51:31+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-18 17:02:11+00:00,2022-03-18 17:51:31+00:00
+Kyiv City,,,oblast,2022-03-18 17:02:16+00:00,2022-03-18 17:47:16+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-18 17:02:20+00:00,2022-03-18 17:51:34+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-18 17:02:20+00:00,2022-03-18 17:51:34+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-18 17:04:32+00:00,2022-03-18 17:49:14+00:00
+Zhytomyrska oblast,,,oblast,2022-03-18 17:04:37+00:00,2022-03-18 17:49:23+00:00
+Kirovohradska oblast,Holovanivskyi raion,,district,2022-03-18 17:05:30+00:00,2022-03-18 18:46:49+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-18 17:09:39+00:00,2022-03-18 17:58:50+00:00
+Khmelnytska oblast,Shepetivskyi raion,,district,2022-03-18 17:09:55+00:00,2022-03-18 17:58:56+00:00
+Zhytomyrska oblast,Korostenskyi raion,m. Korosten ta Korostenska terytorialna hromada,hromada,2022-03-18 18:26:23+00:00,2022-03-18 20:02:51+00:00
+Kharkivska oblast,,,oblast,2022-03-18 18:26:36+00:00,2022-03-18 19:56:15+00:00
+Zhytomyrska oblast,,,oblast,2022-03-18 18:27:18+00:00,2022-03-18 20:02:59+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-18 19:08:01+00:00,2022-03-18 20:09:11+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-18 19:08:01+00:00,2022-03-18 20:09:11+00:00
+Kyiv City,,,oblast,2022-03-18 19:12:42+00:00,2022-03-18 20:02:17+00:00
+Kyivska oblast,Boryspilskyi raion,m. Boryspil ta Boryspilska terytorialna hromada,hromada,2022-03-18 19:21:28+00:00,2022-03-18 20:09:04+00:00
+Kyivska oblast,Brovarskyi raion,m. Brovary ta Brovarska terytorialna hromada,hromada,2022-03-18 19:21:33+00:00,2022-03-18 20:08:54+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-18 19:29:55+00:00,2022-03-18 19:50:37+00:00
+Zhytomyrska oblast,,,oblast,2022-03-18 20:19:33+00:00,2022-03-18 20:50:51+00:00
+Chernihivska oblast,,,oblast,2022-03-18 22:24:44+00:00,2022-03-19 00:04:39+00:00
+Kyiv City,,,oblast,2022-03-19 02:29:05+00:00,2022-03-19 04:06:19+00:00
+Zhytomyrska oblast,,,oblast,2022-03-19 02:29:50+00:00,2022-03-19 04:07:10+00:00
+Chernihivska oblast,,,oblast,2022-03-19 02:40:08+00:00,2022-03-19 16:54:42+00:00
+Kyivska oblast,,,oblast,2022-03-19 02:43:08+00:00,2022-03-19 04:17:51+00:00
+Kyiv City,,,oblast,2022-03-19 04:45:46+00:00,2022-03-19 05:19:40+00:00
+Zhytomyrska oblast,,,oblast,2022-03-19 04:46:50+00:00,2022-03-19 05:20:36+00:00
+Donetska oblast,Kramatorskyi raion,Sviatohirska terytorialna hromada,hromada,2022-03-19 05:21:37+00:00,2022-03-19 06:05:15+00:00
+Zhytomyrska oblast,,,oblast,2022-03-19 05:39:44+00:00,2022-03-19 05:59:31+00:00
+Kharkivska oblast,,,oblast,2022-03-19 07:06:28+00:00,2022-03-19 07:10:50+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-19 07:16:32+00:00,2022-03-19 07:51:46+00:00
+Kyiv City,,,oblast,2022-03-19 08:03:46+00:00,2022-03-19 08:42:57+00:00
+Zhytomyrska oblast,,,oblast,2022-03-19 08:04:23+00:00,2022-03-19 08:43:35+00:00
+Kyivska oblast,,,oblast,2022-03-19 08:07:39+00:00,2022-03-19 08:52:47+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-19 09:30:31+00:00,2022-03-19 09:45:50+00:00
+Volynska oblast,,,oblast,2022-03-19 09:30:48+00:00,2022-03-19 09:47:18+00:00
+Rivnenska oblast,,,oblast,2022-03-19 09:30:55+00:00,2022-03-19 09:47:24+00:00
+Khmelnytska oblast,,,oblast,2022-03-19 09:32:52+00:00,2022-03-19 09:49:35+00:00
+Lvivska oblast,,,oblast,2022-03-19 09:33:47+00:00,2022-03-19 09:54:29+00:00
+Ternopilska oblast,,,oblast,2022-03-19 09:34:41+00:00,2022-03-19 09:51:05+00:00
+Kyiv City,,,oblast,2022-03-19 09:45:40+00:00,2022-03-19 11:35:09+00:00
+Zhytomyrska oblast,,,oblast,2022-03-19 09:46:16+00:00,2022-03-19 11:37:09+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-19 09:49:55+00:00,2022-03-19 10:37:51+00:00
+Kyivska oblast,,,oblast,2022-03-19 10:01:13+00:00,2022-03-19 11:47:17+00:00
+Cherkaska oblast,,,oblast,2022-03-19 10:06:50+00:00,2022-03-19 10:58:17+00:00
+Kharkivska oblast,,,oblast,2022-03-19 12:28:28+00:00,2022-03-19 13:00:15+00:00
+Poltavska oblast,,,oblast,2022-03-19 12:31:23+00:00,2022-03-19 12:46:07+00:00
+Vinnytska oblast,,,oblast,2022-03-19 13:06:44+00:00,2022-03-19 14:30:07+00:00
+Odeska oblast,,,oblast,2022-03-19 13:06:57+00:00,2022-03-19 14:37:11+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-19 13:09:52+00:00,2022-03-19 14:01:52+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-19 13:10:35+00:00,2022-03-19 14:02:26+00:00
+Volynska oblast,,,oblast,2022-03-19 13:11:02+00:00,2022-03-19 14:35:15+00:00
+Khmelnytska oblast,,,oblast,2022-03-19 13:11:15+00:00,2022-03-19 14:31:46+00:00
+Rivnenska oblast,,,oblast,2022-03-19 13:11:17+00:00,2022-03-19 14:34:42+00:00
+Zaporizka oblast,,,oblast,2022-03-19 13:11:46+00:00,2022-03-19 14:03:56+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-19 13:12:10+00:00,2022-03-19 14:31:50+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-19 13:14:13+00:00,2022-03-19 14:04:37+00:00
+Ternopilska oblast,,,oblast,2022-03-19 13:14:51+00:00,2022-03-19 14:39:49+00:00
+Lvivska oblast,,,oblast,2022-03-19 13:15:55+00:00,2022-03-19 14:33:32+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-19 13:16:44+00:00,2022-03-19 14:16:22+00:00
+Kharkivska oblast,,,oblast,2022-03-19 13:30:54+00:00,2022-03-19 14:52:13+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-19 15:44:30+00:00,2022-03-19 16:07:48+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-19 16:19:43+00:00,2022-03-19 16:26:39+00:00
+Kharkivska oblast,,,oblast,2022-03-19 17:02:29+00:00,2022-03-19 18:00:02+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-19 17:02:36+00:00,2022-03-19 18:08:33+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-19 17:07:40+00:00,2022-03-19 18:06:12+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-19 17:08:35+00:00,2022-03-19 18:06:17+00:00
+Zaporizka oblast,,,oblast,2022-03-19 17:22:23+00:00,2022-03-19 18:10:34+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-19 17:40:59+00:00,2022-03-19 17:59:40+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-19 17:45:41+00:00,2022-03-19 18:35:44+00:00
+Chernihivska oblast,,,oblast,2022-03-19 18:19:42+00:00,2022-03-19 18:38:28+00:00
+Kharkivska oblast,,,oblast,2022-03-19 18:19:57+00:00,2022-03-20 03:31:37+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-19 19:23:34+00:00,2022-03-19 19:36:11+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Slovianska terytorialna hromada,hromada,2022-03-19 19:23:41+00:00,2022-03-19 19:36:19+00:00
+Donetska oblast,Kramatorskyi raion,m. Sloviansk ta Slovianska terytorialna hromada,hromada,2022-03-19 19:23:41+00:00,2022-03-19 19:36:19+00:00
+Volynska oblast,,,oblast,2022-03-19 20:32:00+00:00,2022-03-19 21:30:47+00:00
+Rivnenska oblast,,,oblast,2022-03-19 20:36:09+00:00,2022-03-19 21:30:16+00:00
+Ternopilska oblast,,,oblast,2022-03-19 20:39:39+00:00,2022-03-19 21:45:57+00:00
+Khmelnytska oblast,,,oblast,2022-03-19 20:40:42+00:00,2022-03-19 21:35:58+00:00
+Zhytomyrska oblast,,,oblast,2022-03-19 20:50:06+00:00,2022-03-19 22:10:02+00:00
+Kyiv City,,,oblast,2022-03-19 21:00:59+00:00,2022-03-19 21:28:42+00:00
+Kyivska oblast,,,oblast,2022-03-19 21:17:22+00:00,2022-03-19 22:14:48+00:00
+Kyiv City,,,oblast,2022-03-19 21:30:38+00:00,2022-03-19 22:09:34+00:00
+Chernihivska oblast,Nizhynskyi raion,,district,2022-03-19 21:52:52+00:00,2022-03-20 04:33:24+00:00
+Chernihivska oblast,Prylutskyi raion,,district,2022-03-19 21:53:19+00:00,2022-03-20 04:33:27+00:00
+Kyiv City,,,oblast,2022-03-19 23:04:57+00:00,2022-03-19 23:26:23+00:00
+Chernihivska oblast,,,oblast,2022-03-20 02:57:09+00:00,2022-03-20 04:33:19+00:00
+Kyiv City,,,oblast,2022-03-20 02:59:12+00:00,2022-03-20 04:31:42+00:00
+Khmelnytska oblast,,,oblast,2022-03-20 03:14:08+00:00,2022-03-20 04:32:46+00:00
+Odeska oblast,,,oblast,2022-03-20 03:19:45+00:00,2022-03-20 04:05:15+00:00
+Vinnytska oblast,,,oblast,2022-03-20 03:20:32+00:00,2022-03-20 04:30:25+00:00
+Zhytomyrska oblast,,,oblast,2022-03-20 03:24:06+00:00,2022-03-20 04:32:33+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-20 03:24:10+00:00,2022-03-20 04:31:29+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-20 03:24:10+00:00,2022-03-20 04:31:29+00:00
+Cherkaska oblast,,,oblast,2022-03-20 03:25:06+00:00,2022-03-20 04:31:35+00:00
+Volynska oblast,,,oblast,2022-03-20 03:25:19+00:00,2022-03-20 04:35:10+00:00
+Rivnenska oblast,,,oblast,2022-03-20 03:25:39+00:00,2022-03-20 04:33:24+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-20 03:26:25+00:00,2022-03-20 04:26:44+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-20 03:26:48+00:00,2022-03-20 04:32:56+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-20 03:27:15+00:00,2022-03-20 04:27:42+00:00
+Lvivska oblast,,,oblast,2022-03-20 03:27:17+00:00,2022-03-20 04:34:15+00:00
+Kyivska oblast,,,oblast,2022-03-20 03:27:29+00:00,2022-03-20 04:41:26+00:00
+Zaporizka oblast,,,oblast,2022-03-20 03:30:43+00:00,2022-03-20 04:28:46+00:00
+Kharkivska oblast,,,oblast,2022-03-20 03:31:41+00:00,2022-03-20 04:28:56+00:00
+Kirovohradska oblast,,,oblast,2022-03-20 03:32:27+00:00,2022-03-20 04:31:02+00:00
+Poltavska oblast,,,oblast,2022-03-20 03:32:53+00:00,2022-03-20 04:31:22+00:00
+Ternopilska oblast,,,oblast,2022-03-20 03:32:58+00:00,2022-03-20 04:37:22+00:00
+Mykolaivska oblast,,,oblast,2022-03-20 03:37:52+00:00,2022-03-20 04:36:23+00:00
+Sumska oblast,,,oblast,2022-03-20 03:57:34+00:00,2022-03-20 04:32:22+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-20 04:38:57+00:00,2022-03-20 05:07:57+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-20 04:39:45+00:00,2022-03-20 05:07:56+00:00
+Kyiv City,,,oblast,2022-03-20 09:31:07+00:00,2022-03-20 10:54:29+00:00
+Vinnytska oblast,,,oblast,2022-03-20 09:34:35+00:00,2022-03-20 10:14:41+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-20 09:36:29+00:00,2022-03-20 10:15:50+00:00
+Zhytomyrska oblast,,,oblast,2022-03-20 09:38:05+00:00,2022-03-20 10:15:04+00:00
+Chernihivska oblast,,,oblast,2022-03-20 09:41:51+00:00,2022-03-20 10:07:23+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-20 09:46:23+00:00,2022-03-20 10:18:10+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-20 09:46:23+00:00,2022-03-20 10:18:10+00:00
+Kyivska oblast,Obukhivskyi raion,Myronivska terytorialna hromada,hromada,2022-03-20 09:46:40+00:00,2022-03-20 10:18:04+00:00
+Zhytomyrska oblast,Zhytomyrskyi raion,,district,2022-03-20 11:23:35+00:00,2022-03-20 12:48:05+00:00
+Kyivska oblast,Buchanskyi raion,Makarivska terytorialna hromada,hromada,2022-03-20 11:43:38+00:00,2022-03-20 12:55:54+00:00
+Zhytomyrska oblast,Novohrad-Volynskyi raion,,district,2022-03-20 12:04:04+00:00,2022-03-20 12:48:12+00:00
+Volynska oblast,Kovelskyi raion,Rivnenska terytorialna hromada,hromada,2022-03-20 12:05:20+00:00,2022-03-20 12:43:59+00:00
+Rivnenska oblast,Rivnenskyi raion,m. Rivne ta Rivnenska terytorialna hromada,hromada,2022-03-20 12:05:20+00:00,2022-03-20 12:43:59+00:00
+Rivnenska oblast,Sarnenskyi raion,m. Sarny ta Sarnenska terytorialna hromada,hromada,2022-03-20 12:05:30+00:00,2022-03-20 12:44:06+00:00
+Volynska oblast,,,oblast,2022-03-20 12:06:03+00:00,2022-03-20 12:46:47+00:00
+Ternopilska oblast,,,oblast,2022-03-20 12:08:27+00:00,2022-03-20 12:50:14+00:00
+Khmelnytska oblast,,,oblast,2022-03-20 12:29:04+00:00,2022-03-20 12:39:05+00:00
+Zhytomyrska oblast,,,oblast,2022-03-20 14:07:49+00:00,2022-03-20 14:22:54+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-20 14:11:24+00:00,2022-03-20 15:30:50+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-20 14:31:12+00:00,2022-03-20 15:00:13+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-20 14:31:37+00:00,2022-03-20 15:07:10+00:00
+Kyiv City,,,oblast,2022-03-20 14:32:35+00:00,2022-03-20 14:59:13+00:00
+Vinnytska oblast,,,oblast,2022-03-20 14:36:24+00:00,2022-03-20 15:02:28+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-20 14:39:33+00:00,2022-03-20 15:03:05+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-20 14:39:33+00:00,2022-03-20 15:03:05+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-20 14:42:56+00:00,2022-03-20 15:07:20+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-20 14:44:27+00:00,2022-03-20 15:36:52+00:00
+Poltavska oblast,Kremenchutskyi raion,m. Kremenchuk ta Kremenchutska terytorialna hromada,hromada,2022-03-20 16:32:53+00:00,2022-03-20 17:22:27+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-20 16:36:32+00:00,2022-03-20 17:04:52+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-20 16:37:32+00:00,2022-03-20 17:04:17+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-20 16:37:46+00:00,2022-03-20 17:05:00+00:00
+Zaporizka oblast,,,oblast,2022-03-20 16:44:52+00:00,2022-03-20 17:15:26+00:00
+Chernihivska oblast,,,oblast,2022-03-20 16:48:05+00:00,2022-03-20 17:05:49+00:00
+Zhytomyrska oblast,,,oblast,2022-03-20 16:49:49+00:00,2022-03-20 17:23:23+00:00
+Sumska oblast,,,oblast,2022-03-20 18:32:24+00:00,2022-03-20 22:04:32+00:00
+Zhytomyrska oblast,,,oblast,2022-03-20 18:48:50+00:00,2022-03-20 22:06:42+00:00
+Kharkivska oblast,,,oblast,2022-03-20 18:50:27+00:00,2022-03-20 19:36:15+00:00
+Zhytomyrska oblast,Korostenskyi raion,,district,2022-03-20 18:55:16+00:00,2022-03-20 20:49:35+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-20 19:11:00+00:00,2022-03-20 22:14:51+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-20 19:11:00+00:00,2022-03-20 22:14:51+00:00
+Kyivska oblast,Fastivskyi raion,m. Fastiv ta Fastivska terytorialna hromada,hromada,2022-03-20 19:11:17+00:00,2022-03-20 22:15:09+00:00
+Kyivska oblast,Bilotserkivskyi raion,Uzynska terytorialna hromada,hromada,2022-03-20 19:11:46+00:00,2022-03-20 22:14:54+00:00
+Chernihivska oblast,,,oblast,2022-03-20 19:14:10+00:00,2022-03-21 05:05:09+00:00
+Kyiv City,,,oblast,2022-03-20 19:18:01+00:00,2022-03-20 22:05:32+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-20 19:20:16+00:00,2022-03-20 22:15:03+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-20 19:20:16+00:00,2022-03-20 22:15:03+00:00
+Zhytomyrska oblast,Korostenskyi raion,,district,2022-03-20 20:49:41+00:00,2022-03-20 22:06:52+00:00
+Kyivska oblast,Obukhivskyi raion,Myronivska terytorialna hromada,hromada,2022-03-20 20:51:44+00:00,2022-03-20 22:15:05+00:00
+Kharkivska oblast,Kharkivskyi raion,,district,2022-03-20 22:02:12+00:00,2022-03-20 23:27:38+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-20 22:04:43+00:00,2022-03-20 23:20:00+00:00
+Sumska oblast,Okhtyrskyi raion,m. Okhtyrka ta Okhtyrska terytorialna hromada,hromada,2022-03-20 22:04:54+00:00,2022-03-20 23:19:52+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-20 22:12:22+00:00,2022-03-20 22:34:47+00:00
+Poltavska oblast,Myrhorodskyi raion,m. Myrhorod ta Myrhorodska terytorialna hromada,hromada,2022-03-20 22:12:46+00:00,2022-03-20 23:00:39+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-20 22:33:41+00:00,2022-03-20 23:23:12+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-20 22:35:29+00:00,2022-03-20 23:13:55+00:00
+Kharkivska oblast,Lozivskyi raion,,district,2022-03-20 22:37:49+00:00,2022-03-20 23:27:49+00:00
+Khmelnytska oblast,,,oblast,2022-03-20 23:31:37+00:00,2022-03-21 00:37:58+00:00
+Lvivska oblast,,,oblast,2022-03-20 23:32:27+00:00,2022-03-21 00:45:31+00:00
+Kyiv City,,,oblast,2022-03-20 23:32:29+00:00,2022-03-21 00:17:19+00:00
+Rivnenska oblast,,,oblast,2022-03-20 23:35:31+00:00,2022-03-21 00:44:11+00:00
+Volynska oblast,,,oblast,2022-03-20 23:35:34+00:00,2022-03-21 00:45:45+00:00
+Ternopilska oblast,,,oblast,2022-03-20 23:36:37+00:00,2022-03-21 00:49:54+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-20 23:36:42+00:00,2022-03-21 00:18:39+00:00
+Kyivska oblast,,,oblast,2022-03-20 23:49:29+00:00,2022-03-21 00:23:25+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-21 00:00:05+00:00,2022-03-21 02:11:29+00:00
+Zhytomyrska oblast,,,oblast,2022-03-21 02:54:58+00:00,2022-03-21 04:08:08+00:00
+Kyiv City,,,oblast,2022-03-21 02:55:52+00:00,2022-03-21 04:06:47+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-21 03:04:38+00:00,2022-03-21 03:55:29+00:00
+Kyivska oblast,,,oblast,2022-03-21 03:09:32+00:00,2022-03-21 04:17:48+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-21 03:41:27+00:00,2022-03-21 04:10:04+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-21 03:42:21+00:00,2022-03-21 05:16:42+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-21 03:42:53+00:00,2022-03-21 05:51:45+00:00
+Volynska oblast,,,oblast,2022-03-21 03:45:29+00:00,2022-03-21 04:08:10+00:00
+Rivnenska oblast,,,oblast,2022-03-21 03:46:37+00:00,2022-03-21 04:07:17+00:00
+Ternopilska oblast,,,oblast,2022-03-21 03:49:21+00:00,2022-03-21 04:11:27+00:00
+Vinnytska oblast,,,oblast,2022-03-21 04:04:48+00:00,2022-03-21 04:42:39+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-21 04:05:40+00:00,2022-03-21 05:01:46+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-21 04:09:24+00:00,2022-03-21 05:02:01+00:00
+Mykolaivska oblast,Voznesenskyi raion,,district,2022-03-21 04:13:35+00:00,2022-03-21 05:02:06+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Voskresenska terytorialna hromada,hromada,2022-03-21 04:14:08+00:00,2022-03-21 04:14:17+00:00
+Mykolaivska oblast,Pervomaiskyi raion,,district,2022-03-21 04:15:06+00:00,2022-03-21 05:02:20+00:00
+Kyiv City,,,oblast,2022-03-21 04:49:07+00:00,2022-03-21 05:44:24+00:00
+Poltavska oblast,Myrhorodskyi raion,m. Myrhorod ta Myrhorodska terytorialna hromada,hromada,2022-03-21 04:51:28+00:00,2022-03-21 05:46:27+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-21 04:51:38+00:00,2022-03-21 05:46:35+00:00
+Kharkivska oblast,,,oblast,2022-03-21 04:51:39+00:00,2022-03-21 05:49:23+00:00
+Zhytomyrska oblast,,,oblast,2022-03-21 04:52:08+00:00,2022-03-21 05:46:12+00:00
+Volynska oblast,Kovelskyi raion,Rivnenska terytorialna hromada,hromada,2022-03-21 04:52:09+00:00,2022-03-21 05:46:28+00:00
+Rivnenska oblast,Rivnenskyi raion,m. Rivne ta Rivnenska terytorialna hromada,hromada,2022-03-21 04:52:09+00:00,2022-03-21 05:46:28+00:00
+Lvivska oblast,,,oblast,2022-03-21 04:52:48+00:00,2022-03-21 05:41:13+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-21 04:53:01+00:00,2022-03-21 05:47:04+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-21 04:53:01+00:00,2022-03-21 05:47:04+00:00
+Volynska oblast,,,oblast,2022-03-21 04:53:41+00:00,2022-03-21 05:47:55+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-21 04:55:42+00:00,2022-03-21 05:56:25+00:00
+Ternopilska oblast,,,oblast,2022-03-21 04:56:20+00:00,2022-03-21 05:52:31+00:00
+Chernihivska oblast,,,oblast,2022-03-21 05:10:27+00:00,2022-03-21 10:05:49+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-21 05:26:33+00:00,2022-03-21 05:53:46+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-21 06:37:19+00:00,2022-03-21 06:56:15+00:00
+Kharkivska oblast,,,oblast,2022-03-21 06:59:48+00:00,2022-03-21 07:37:10+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-21 07:36:22+00:00,2022-03-21 10:30:10+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-21 07:50:57+00:00,2022-03-21 08:48:45+00:00
+Zhytomyrska oblast,,,oblast,2022-03-21 08:19:41+00:00,2022-03-21 09:43:46+00:00
+Volynska oblast,,,oblast,2022-03-21 08:20:26+00:00,2022-03-21 08:58:49+00:00
+Rivnenska oblast,,,oblast,2022-03-21 08:20:55+00:00,2022-03-21 08:58:13+00:00
+Khmelnytska oblast,,,oblast,2022-03-21 08:22:59+00:00,2022-03-21 08:59:06+00:00
+Ternopilska oblast,,,oblast,2022-03-21 08:23:44+00:00,2022-03-21 09:02:35+00:00
+Vinnytska oblast,,,oblast,2022-03-21 08:32:14+00:00,2022-03-21 09:40:04+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-21 08:38:18+00:00,2022-03-21 09:45:14+00:00
+Lvivska oblast,,,oblast,2022-03-21 08:39:51+00:00,2022-03-21 09:00:15+00:00
+Kyiv City,,,oblast,2022-03-21 08:41:31+00:00,2022-03-21 09:42:47+00:00
+Cherkaska oblast,,,oblast,2022-03-21 08:43:10+00:00,2022-03-21 09:44:08+00:00
+Kyivska oblast,,,oblast,2022-03-21 08:47:30+00:00,2022-03-21 09:48:42+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-21 08:48:14+00:00,2022-03-21 09:46:13+00:00
+Rivnenska oblast,,,oblast,2022-03-21 09:14:03+00:00,2022-03-21 09:41:59+00:00
+Khmelnytska oblast,,,oblast,2022-03-21 09:14:04+00:00,2022-03-21 09:42:22+00:00
+Volynska oblast,,,oblast,2022-03-21 09:14:13+00:00,2022-03-21 09:42:53+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-21 09:15:55+00:00,2022-03-21 09:44:45+00:00
+Lvivska oblast,,,oblast,2022-03-21 09:16:07+00:00,2022-03-21 09:44:07+00:00
+Ternopilska oblast,,,oblast,2022-03-21 09:18:07+00:00,2022-03-21 09:45:17+00:00
+Kharkivska oblast,,,oblast,2022-03-21 10:20:06+00:00,2022-03-21 10:29:49+00:00
+Kharkivska oblast,Kupianskyi raion,,district,2022-03-21 10:22:23+00:00,2022-03-21 10:30:04+00:00
+Kharkivska oblast,Chuhuivskyi raion,,district,2022-03-21 10:22:36+00:00,2022-03-21 10:29:57+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-21 10:40:57+00:00,2022-03-21 11:14:37+00:00
+Odeska oblast,,,oblast,2022-03-21 10:41:18+00:00,2022-03-21 11:03:47+00:00
+Vinnytska oblast,,,oblast,2022-03-21 10:42:55+00:00,2022-03-21 11:00:42+00:00
+Mykolaivska oblast,,,oblast,2022-03-21 10:42:56+00:00,2022-03-21 11:46:01+00:00
+Kyiv City,,,oblast,2022-03-21 10:44:15+00:00,2022-03-21 12:18:28+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-21 10:46:37+00:00,2022-03-21 11:01:15+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-21 10:47:20+00:00,2022-03-21 11:01:51+00:00
+Cherkaska oblast,,,oblast,2022-03-21 10:47:46+00:00,2022-03-21 10:54:06+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-21 10:48:24+00:00,2022-03-21 12:20:09+00:00
+Zaporizka oblast,,,oblast,2022-03-21 10:49:53+00:00,2022-03-21 11:08:02+00:00
+Kyivska oblast,,,oblast,2022-03-21 10:52:18+00:00,2022-03-21 12:23:37+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-21 10:54:12+00:00,2022-03-21 11:02:59+00:00
+Kharkivska oblast,,,oblast,2022-03-21 11:15:46+00:00,2022-03-21 11:34:25+00:00
+Zhytomyrska oblast,,,oblast,2022-03-21 11:21:19+00:00,2022-03-21 12:18:19+00:00
+Vinnytska oblast,,,oblast,2022-03-21 11:52:20+00:00,2022-03-21 12:19:11+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-21 13:51:29+00:00,2022-03-21 17:02:53+00:00
+Kyiv City,,,oblast,2022-03-21 14:13:16+00:00,2022-03-21 16:56:06+00:00
+Vinnytska oblast,,,oblast,2022-03-21 14:13:59+00:00,2022-03-21 16:56:20+00:00
+Zhytomyrska oblast,,,oblast,2022-03-21 14:14:01+00:00,2022-03-21 16:56:38+00:00
+Poltavska oblast,,,oblast,2022-03-21 14:14:13+00:00,2022-03-21 16:56:33+00:00
+Khmelnytska oblast,,,oblast,2022-03-21 14:14:16+00:00,2022-03-21 16:56:35+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-21 14:14:30+00:00,2022-03-21 16:58:00+00:00
+Volynska oblast,,,oblast,2022-03-21 14:14:39+00:00,2022-03-21 17:00:31+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-21 14:14:56+00:00,2022-03-21 16:58:47+00:00
+Rivnenska oblast,,,oblast,2022-03-21 14:15:12+00:00,2022-03-21 16:57:48+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-21 14:15:14+00:00,2022-03-21 17:04:05+00:00
+Cherkaska oblast,,,oblast,2022-03-21 14:15:27+00:00,2022-03-21 16:56:54+00:00
+Chernivetska oblast,,,oblast,2022-03-21 14:15:29+00:00,2022-03-21 16:58:35+00:00
+Kirovohradska oblast,,,oblast,2022-03-21 14:15:38+00:00,2022-03-21 16:57:00+00:00
+Kharkivska oblast,,,oblast,2022-03-21 14:15:53+00:00,2022-03-21 16:59:37+00:00
+Lvivska oblast,,,oblast,2022-03-21 14:16:24+00:00,2022-03-21 16:59:51+00:00
+Odeska oblast,,,oblast,2022-03-21 14:16:26+00:00,2022-03-21 16:58:53+00:00
+Zakarpatska oblast,,,oblast,2022-03-21 14:17:40+00:00,2022-03-21 16:59:23+00:00
+Mykolaivska oblast,,,oblast,2022-03-21 14:18:27+00:00,2022-03-21 17:01:14+00:00
+Zaporizka oblast,,,oblast,2022-03-21 14:20:04+00:00,2022-03-21 17:00:23+00:00
+Sumska oblast,,,oblast,2022-03-21 14:20:08+00:00,2022-03-21 17:00:07+00:00
+Ternopilska oblast,,,oblast,2022-03-21 14:20:22+00:00,2022-03-21 17:03:44+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-21 14:21:41+00:00,2022-03-21 15:52:20+00:00
+Kyivska oblast,,,oblast,2022-03-21 14:22:43+00:00,2022-03-21 17:02:16+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-21 16:04:14+00:00,2022-03-21 16:39:25+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-21 17:00:56+00:00,2022-03-21 17:36:13+00:00
+Rivnenska oblast,,,oblast,2022-03-21 17:38:05+00:00,2022-03-21 17:57:49+00:00
+Volynska oblast,,,oblast,2022-03-21 17:38:27+00:00,2022-03-21 17:58:30+00:00
+Ternopilska oblast,,,oblast,2022-03-21 17:40:54+00:00,2022-03-21 18:01:17+00:00
+Khmelnytska oblast,,,oblast,2022-03-21 17:42:15+00:00,2022-03-21 19:03:33+00:00
+Zhytomyrska oblast,,,oblast,2022-03-21 17:45:25+00:00,2022-03-21 19:03:21+00:00
+Kyiv City,,,oblast,2022-03-21 17:47:44+00:00,2022-03-21 19:03:39+00:00
+Vinnytska oblast,,,oblast,2022-03-21 17:49:27+00:00,2022-03-21 17:59:52+00:00
+Donetska oblast,Mariupolskyi raion,,district,2022-03-21 18:06:13+00:00,2022-03-21 18:07:51+00:00
+Donetska oblast,Mariupolskyi raion,m. Mariupol ta Mariupolska terytorialna hromada,hromada,2022-03-21 18:07:41+00:00,2022-03-21 18:12:21+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-21 18:49:25+00:00,2022-03-21 19:06:06+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-21 18:49:25+00:00,2022-03-21 19:06:06+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-21 18:49:40+00:00,2022-03-21 19:06:03+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-21 18:49:40+00:00,2022-03-21 19:06:03+00:00
+Kharkivska oblast,,,oblast,2022-03-21 19:03:11+00:00,2022-03-21 19:54:55+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-21 19:52:33+00:00,2022-03-21 20:46:00+00:00
+Kyiv City,,,oblast,2022-03-21 21:30:09+00:00,2022-03-21 22:17:18+00:00
+Kyivska oblast,,,oblast,2022-03-21 21:36:14+00:00,2022-03-21 22:22:28+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-21 21:36:34+00:00,2022-03-21 22:08:56+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Slovianska terytorialna hromada,hromada,2022-03-21 21:37:30+00:00,2022-03-21 22:01:01+00:00
+Donetska oblast,Kramatorskyi raion,m. Sloviansk ta Slovianska terytorialna hromada,hromada,2022-03-21 21:37:30+00:00,2022-03-21 22:01:01+00:00
+Donetska oblast,Kramatorskyi raion,Druzhkivska terytorialna hromada,hromada,2022-03-21 21:43:34+00:00,2022-03-21 22:01:18+00:00
+Odeska oblast,,,oblast,2022-03-21 22:24:05+00:00,2022-03-21 22:41:56+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 00:28:32+00:00,2022-03-22 00:44:41+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-22 00:32:45+00:00,2022-03-22 00:44:30+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Slovianska terytorialna hromada,hromada,2022-03-22 00:33:00+00:00,2022-03-22 00:33:44+00:00
+Donetska oblast,Kramatorskyi raion,m. Sloviansk ta Slovianska terytorialna hromada,hromada,2022-03-22 00:33:00+00:00,2022-03-22 00:33:44+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 01:06:59+00:00,2022-03-22 01:22:13+00:00
+Kyiv City,,,oblast,2022-03-22 02:33:51+00:00,2022-03-22 03:16:08+00:00
+Kyivska oblast,,,oblast,2022-03-22 02:41:47+00:00,2022-03-22 03:20:41+00:00
+Vinnytska oblast,,,oblast,2022-03-22 02:50:01+00:00,2022-03-22 03:12:33+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-22 03:23:56+00:00,2022-03-22 04:21:40+00:00
+Kharkivska oblast,,,oblast,2022-03-22 03:29:22+00:00,2022-03-22 04:21:32+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 03:55:29+00:00,2022-03-22 04:11:44+00:00
+Kyiv City,,,oblast,2022-03-22 04:13:33+00:00,2022-03-22 06:16:51+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-22 04:14:16+00:00,2022-03-22 06:17:48+00:00
+Zhytomyrska oblast,,,oblast,2022-03-22 04:15:05+00:00,2022-03-22 06:17:24+00:00
+Kyivska oblast,,,oblast,2022-03-22 04:21:40+00:00,2022-03-22 06:21:01+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 04:23:42+00:00,2022-03-22 04:57:36+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-22 04:28:26+00:00,2022-03-22 04:34:18+00:00
+Vinnytska oblast,,,oblast,2022-03-22 04:48:01+00:00,2022-03-22 06:17:09+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-22 04:51:15+00:00,2022-03-22 06:23:43+00:00
+Poltavska oblast,,,oblast,2022-03-22 04:51:30+00:00,2022-03-22 06:17:57+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-22 04:51:36+00:00,2022-03-22 06:24:09+00:00
+Khmelnytska oblast,,,oblast,2022-03-22 04:52:01+00:00,2022-03-22 06:17:54+00:00
+Cherkaska oblast,,,oblast,2022-03-22 04:52:40+00:00,2022-03-22 06:18:07+00:00
+Kirovohradska oblast,,,oblast,2022-03-22 04:53:00+00:00,2022-03-22 06:18:47+00:00
+Zaporizka oblast,,,oblast,2022-03-22 04:53:12+00:00,2022-03-22 06:18:48+00:00
+Mykolaivska oblast,,,oblast,2022-03-22 04:53:17+00:00,2022-03-22 06:21:29+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-22 04:53:25+00:00,2022-03-22 06:19:40+00:00
+Volynska oblast,,,oblast,2022-03-22 04:53:31+00:00,2022-03-22 06:23:17+00:00
+Chernivetska oblast,,,oblast,2022-03-22 04:53:47+00:00,2022-03-22 06:19:52+00:00
+Lvivska oblast,,,oblast,2022-03-22 04:53:47+00:00,2022-03-22 06:19:55+00:00
+Kharkivska oblast,,,oblast,2022-03-22 04:53:54+00:00,2022-03-22 06:21:23+00:00
+Rivnenska oblast,,,oblast,2022-03-22 04:54:08+00:00,2022-03-22 06:22:29+00:00
+Odeska oblast,,,oblast,2022-03-22 04:54:11+00:00,2022-03-22 06:22:46+00:00
+Zakarpatska oblast,,,oblast,2022-03-22 04:55:07+00:00,2022-03-22 06:19:47+00:00
+Ternopilska oblast,,,oblast,2022-03-22 04:57:31+00:00,2022-03-22 06:25:04+00:00
+Sumska oblast,,,oblast,2022-03-22 04:58:55+00:00,2022-03-22 06:21:34+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 04:59:43+00:00,2022-03-22 06:25:22+00:00
+Chernihivska oblast,,,oblast,2022-03-22 05:38:50+00:00,2022-03-22 07:12:00+00:00
+Kyiv City,,,oblast,2022-03-22 06:33:20+00:00,2022-03-22 07:07:52+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-22 06:35:57+00:00,2022-03-22 07:14:42+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-22 06:36:10+00:00,2022-03-22 07:08:36+00:00
+Mykolaivska oblast,Voznesenskyi raion,,district,2022-03-22 06:36:51+00:00,2022-03-22 07:14:37+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-22 06:37:05+00:00,2022-03-22 07:10:18+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-22 06:37:49+00:00,2022-03-22 07:09:33+00:00
+Chernihivska oblast,Nizhynskyi raion,,district,2022-03-22 06:38:12+00:00,2022-03-22 07:11:57+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-22 06:49:54+00:00,2022-03-22 07:12:41+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-22 08:19:19+00:00,2022-03-22 08:47:15+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-22 08:19:19+00:00,2022-03-22 08:47:15+00:00
+Kyiv City,,,oblast,2022-03-22 08:46:31+00:00,2022-03-22 09:56:31+00:00
+Chernihivska oblast,,,oblast,2022-03-22 09:06:38+00:00,2022-03-22 12:52:47+00:00
+Kyivska oblast,,,oblast,2022-03-22 09:06:50+00:00,2022-03-22 10:01:28+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-22 09:12:13+00:00,2022-03-22 09:36:47+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 09:13:01+00:00,2022-03-22 09:36:41+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-22 09:41:07+00:00,2022-03-22 09:48:32+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-22 09:51:12+00:00,2022-03-22 11:42:39+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-22 10:03:39+00:00,2022-03-22 10:41:17+00:00
+Kyiv City,,,oblast,2022-03-22 10:05:35+00:00,2022-03-22 12:30:27+00:00
+Cherkaska oblast,Zvenyhorodskyi raion,m. Vatutine ta Vatutinska terytorialna hromada,hromada,2022-03-22 10:07:13+00:00,2022-03-22 12:32:11+00:00
+Kyivska oblast,Obukhivskyi raion,Myronivska terytorialna hromada,hromada,2022-03-22 10:11:58+00:00,2022-03-22 12:35:59+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-22 10:20:21+00:00,2022-03-22 10:41:21+00:00
+Chernihivska oblast,Chernihivskyi raion,,district,2022-03-22 10:20:39+00:00,2022-03-22 12:52:29+00:00
+Chernihivska oblast,Nizhynskyi raion,,district,2022-03-22 10:20:45+00:00,2022-03-22 12:52:23+00:00
+Mykolaivska oblast,Voznesenskyi raion,,district,2022-03-22 10:20:49+00:00,2022-03-22 10:41:02+00:00
+Mykolaivska oblast,Pervomaiskyi raion,,district,2022-03-22 10:21:05+00:00,2022-03-22 10:41:12+00:00
+Kharkivska oblast,,,oblast,2022-03-22 10:22:34+00:00,2022-03-22 10:27:17+00:00
+Vinnytska oblast,,,oblast,2022-03-22 10:46:32+00:00,2022-03-22 12:01:59+00:00
+Dnipropetrovska oblast,Dniprovskyi raion,Obukhivska terytorialna hromada,hromada,2022-03-22 10:50:57+00:00,2022-03-22 12:36:01+00:00
+Kyivska oblast,Obukhivskyi raion,m. Obukhiv ta Obukhivska terytorialna hromada,hromada,2022-03-22 10:50:57+00:00,2022-03-22 12:36:01+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-22 10:51:03+00:00,2022-03-22 12:35:55+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-22 10:51:03+00:00,2022-03-22 12:35:55+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-22 10:51:09+00:00,2022-03-22 12:35:44+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-22 10:51:09+00:00,2022-03-22 12:35:44+00:00
+Zhytomyrska oblast,,,oblast,2022-03-22 10:53:09+00:00,2022-03-22 12:31:50+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-22 10:58:23+00:00,2022-03-22 12:25:56+00:00
+Cherkaska oblast,Umanskyi raion,Zhashkivska terytorialna hromada,hromada,2022-03-22 11:09:03+00:00,2022-03-22 12:32:03+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-22 11:10:06+00:00,2022-03-22 12:32:06+00:00
+Odeska oblast,,,oblast,2022-03-22 11:17:01+00:00,2022-03-22 11:57:09+00:00
+Kyivska oblast,Obukhivskyi raion,Ukrainska terytorialna hromada,hromada,2022-03-22 11:17:06+00:00,2022-03-22 12:36:05+00:00
+Kyivska oblast,Fastivskyi raion,m. Fastiv ta Fastivska terytorialna hromada,hromada,2022-03-22 11:17:12+00:00,2022-03-22 12:36:11+00:00
+Kyivska oblast,Boryspilskyi raion,m. Pereiaslav ta Pereiaslavska terytorialna hromada,hromada,2022-03-22 11:17:15+00:00,2022-03-22 12:36:15+00:00
+Kyivska oblast,Bilotserkivskyi raion,Skvyrska terytorialna hromada,hromada,2022-03-22 11:17:50+00:00,2022-03-22 12:35:48+00:00
+Volynska oblast,,,oblast,2022-03-22 11:20:38+00:00,2022-03-22 11:36:56+00:00
+Khmelnytska oblast,,,oblast,2022-03-22 11:20:40+00:00,2022-03-22 11:42:33+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-22 11:21:07+00:00,2022-03-22 11:54:12+00:00
+Rivnenska oblast,,,oblast,2022-03-22 11:21:20+00:00,2022-03-22 11:35:52+00:00
+Lvivska oblast,,,oblast,2022-03-22 11:23:20+00:00,2022-03-22 11:35:32+00:00
+Ternopilska oblast,,,oblast,2022-03-22 11:24:10+00:00,2022-03-22 11:39:19+00:00
+Chernivetska oblast,,,oblast,2022-03-22 11:26:56+00:00,2022-03-22 11:56:09+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-22 11:55:55+00:00,2022-03-22 12:31:03+00:00
+Kharkivska oblast,,,oblast,2022-03-22 12:07:34+00:00,2022-03-22 12:31:51+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-22 12:36:48+00:00,2022-03-22 14:36:17+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-22 12:37:25+00:00,2022-03-22 14:36:35+00:00
+Zaporizka oblast,,,oblast,2022-03-22 12:42:49+00:00,2022-03-22 14:32:17+00:00
+Kharkivska oblast,,,oblast,2022-03-22 13:11:40+00:00,2022-03-22 14:36:12+00:00
+Vinnytska oblast,,,oblast,2022-03-22 13:13:44+00:00,2022-03-22 14:34:01+00:00
+Kyiv City,,,oblast,2022-03-22 13:15:16+00:00,2022-03-22 14:29:51+00:00
+Zhytomyrska oblast,,,oblast,2022-03-22 13:15:42+00:00,2022-03-22 14:30:34+00:00
+Cherkaska oblast,,,oblast,2022-03-22 13:15:46+00:00,2022-03-22 14:30:34+00:00
+Khmelnytska oblast,,,oblast,2022-03-22 13:15:46+00:00,2022-03-22 14:30:41+00:00
+Volynska oblast,,,oblast,2022-03-22 13:16:03+00:00,2022-03-22 14:30:29+00:00
+Poltavska oblast,,,oblast,2022-03-22 13:16:20+00:00,2022-03-22 14:30:46+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-22 13:16:52+00:00,2022-03-22 14:30:40+00:00
+Lvivska oblast,,,oblast,2022-03-22 13:17:15+00:00,2022-03-22 14:31:37+00:00
+Odeska oblast,,,oblast,2022-03-22 13:17:28+00:00,2022-03-22 15:00:10+00:00
+Kirovohradska oblast,,,oblast,2022-03-22 13:17:32+00:00,2022-03-22 14:31:20+00:00
+Mykolaivska oblast,,,oblast,2022-03-22 13:17:40+00:00,2022-03-22 15:01:07+00:00
+Rivnenska oblast,,,oblast,2022-03-22 13:18:16+00:00,2022-03-22 14:33:21+00:00
+Chernivetska oblast,,,oblast,2022-03-22 13:18:28+00:00,2022-03-22 14:32:22+00:00
+Zakarpatska oblast,,,oblast,2022-03-22 13:18:31+00:00,2022-03-22 14:32:00+00:00
+Donetska oblast,,,oblast,2022-03-22 13:19:54+00:00,2022-03-22 17:11:27+00:00
+Kyivska oblast,,,oblast,2022-03-22 13:20:31+00:00,2022-03-22 14:34:22+00:00
+Chernihivska oblast,,,oblast,2022-03-22 13:20:36+00:00,2022-03-22 14:39:44+00:00
+Ternopilska oblast,,,oblast,2022-03-22 13:21:24+00:00,2022-03-22 14:40:32+00:00
+Sumska oblast,,,oblast,2022-03-22 13:22:48+00:00,2022-03-22 14:36:20+00:00
+Kharkivska oblast,,,oblast,2022-03-22 15:01:51+00:00,2022-03-22 15:11:15+00:00
+Vinnytska oblast,,,oblast,2022-03-22 15:30:38+00:00,2022-03-22 15:47:13+00:00
+Kyiv City,,,oblast,2022-03-22 15:31:24+00:00,2022-03-22 17:46:51+00:00
+Zhytomyrska oblast,,,oblast,2022-03-22 15:31:31+00:00,2022-03-22 17:47:43+00:00
+Volynska oblast,,,oblast,2022-03-22 15:31:48+00:00,2022-03-22 17:47:51+00:00
+Poltavska oblast,,,oblast,2022-03-22 15:31:49+00:00,2022-03-22 17:47:43+00:00
+Khmelnytska oblast,,,oblast,2022-03-22 15:31:51+00:00,2022-03-22 17:47:33+00:00
+Cherkaska oblast,,,oblast,2022-03-22 15:32:05+00:00,2022-03-22 17:48:10+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-22 15:32:24+00:00,2022-03-22 17:51:54+00:00
+Zakarpatska oblast,,,oblast,2022-03-22 15:32:48+00:00,2022-03-22 17:48:52+00:00
+Kirovohradska oblast,,,oblast,2022-03-22 15:32:49+00:00,2022-03-22 17:49:39+00:00
+Mykolaivska oblast,,,oblast,2022-03-22 15:32:55+00:00,2022-03-22 17:49:32+00:00
+Kharkivska oblast,,,oblast,2022-03-22 15:32:59+00:00,2022-03-22 17:45:05+00:00
+Chernivetska oblast,,,oblast,2022-03-22 15:33:04+00:00,2022-03-22 17:49:00+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-22 15:33:21+00:00,2022-03-22 17:45:29+00:00
+Rivnenska oblast,,,oblast,2022-03-22 15:33:45+00:00,2022-03-22 17:48:41+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-22 15:33:57+00:00,2022-03-22 17:45:54+00:00
+Zaporizka oblast,,,oblast,2022-03-22 15:34:34+00:00,2022-03-22 16:38:22+00:00
+Odeska oblast,,,oblast,2022-03-22 15:34:54+00:00,2022-03-22 17:48:29+00:00
+Ternopilska oblast,,,oblast,2022-03-22 15:35:42+00:00,2022-03-22 17:55:13+00:00
+Kyivska oblast,,,oblast,2022-03-22 15:36:12+00:00,2022-03-22 17:52:25+00:00
+Sumska oblast,,,oblast,2022-03-22 15:41:20+00:00,2022-03-22 17:54:56+00:00
+Lvivska oblast,,,oblast,2022-03-22 15:42:47+00:00,2022-03-22 17:49:59+00:00
+Chernihivska oblast,,,oblast,2022-03-22 15:44:29+00:00,2022-03-22 17:08:09+00:00
+Vinnytska oblast,,,oblast,2022-03-22 16:48:51+00:00,2022-03-22 17:42:53+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 17:26:45+00:00,2022-03-22 17:52:24+00:00
+Kharkivska oblast,,,oblast,2022-03-22 18:15:13+00:00,2022-03-22 18:22:25+00:00
+Rivnenska oblast,,,oblast,2022-03-22 18:20:55+00:00,2022-03-22 18:56:29+00:00
+Volynska oblast,,,oblast,2022-03-22 18:21:03+00:00,2022-03-22 18:57:54+00:00
+Ternopilska oblast,,,oblast,2022-03-22 18:23:11+00:00,2022-03-22 19:01:58+00:00
+Vinnytska oblast,,,oblast,2022-03-22 18:25:59+00:00,2022-03-22 19:06:53+00:00
+Kyiv City,,,oblast,2022-03-22 18:27:07+00:00,2022-03-22 19:07:19+00:00
+Poltavska oblast,,,oblast,2022-03-22 18:28:19+00:00,2022-03-22 19:08:08+00:00
+Khmelnytska oblast,,,oblast,2022-03-22 18:28:19+00:00,2022-03-22 19:08:09+00:00
+Zhytomyrska oblast,,,oblast,2022-03-22 18:28:19+00:00,2022-03-22 19:08:10+00:00
+Cherkaska oblast,,,oblast,2022-03-22 18:29:22+00:00,2022-03-22 19:08:40+00:00
+Chernivetska oblast,,,oblast,2022-03-22 18:29:49+00:00,2022-03-22 19:09:06+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-22 18:29:52+00:00,2022-03-22 19:09:37+00:00
+Kirovohradska oblast,,,oblast,2022-03-22 18:29:57+00:00,2022-03-22 19:09:02+00:00
+Kharkivska oblast,,,oblast,2022-03-22 18:30:14+00:00,2022-03-22 19:09:23+00:00
+Lvivska oblast,,,oblast,2022-03-22 18:30:33+00:00,2022-03-22 19:11:06+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-22 18:30:34+00:00,2022-03-22 19:10:39+00:00
+Mykolaivska oblast,,,oblast,2022-03-22 18:30:40+00:00,2022-03-22 19:10:02+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-22 18:30:55+00:00,2022-03-22 19:10:11+00:00
+Zakarpatska oblast,,,oblast,2022-03-22 18:31:11+00:00,2022-03-22 19:11:03+00:00
+Odeska oblast,,,oblast,2022-03-22 18:31:14+00:00,2022-03-22 19:14:15+00:00
+Zaporizka oblast,,,oblast,2022-03-22 18:32:21+00:00,2022-03-22 19:10:05+00:00
+Kyivska oblast,,,oblast,2022-03-22 18:33:35+00:00,2022-03-22 19:11:33+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-22 18:35:17+00:00,2022-03-22 19:48:28+00:00
+Sumska oblast,,,oblast,2022-03-22 18:35:18+00:00,2022-03-22 19:15:23+00:00
+Zaporizka oblast,,,oblast,2022-03-22 20:55:25+00:00,2022-03-22 21:45:59+00:00
+Zhytomyrska oblast,,,oblast,2022-03-22 21:07:45+00:00,2022-03-22 21:44:27+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-23 00:32:32+00:00,2022-03-23 00:52:19+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-23 00:35:58+00:00,2022-03-23 00:46:53+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-23 00:45:13+00:00,2022-03-23 01:15:57+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Ochakiv ta Ochakivska terytorialna hromada,hromada,2022-03-23 00:45:35+00:00,2022-03-23 01:16:05+00:00
+Mykolaivska oblast,Voznesenskyi raion,,district,2022-03-23 00:46:07+00:00,2022-03-23 01:15:51+00:00
+Kharkivska oblast,,,oblast,2022-03-23 02:44:57+00:00,2022-03-23 02:55:55+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 03:20:26+00:00,2022-03-23 04:19:55+00:00
+Kirovohradska oblast,,,oblast,2022-03-23 03:30:28+00:00,2022-03-23 04:06:23+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-23 03:47:40+00:00,2022-03-23 04:31:25+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-23 03:48:18+00:00,2022-03-23 04:31:40+00:00
+Kharkivska oblast,,,oblast,2022-03-23 03:48:57+00:00,2022-03-23 04:18:44+00:00
+Zaporizka oblast,,,oblast,2022-03-23 03:50:06+00:00,2022-03-23 04:33:04+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-23 03:50:19+00:00,2022-03-23 06:14:23+00:00
+Donetska oblast,,,oblast,2022-03-23 03:54:09+00:00,2022-03-23 04:33:52+00:00
+Sumska oblast,,,oblast,2022-03-23 04:03:20+00:00,2022-03-23 05:27:24+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-23 04:41:21+00:00,2022-03-23 05:51:27+00:00
+Kyiv City,,,oblast,2022-03-23 04:45:38+00:00,2022-03-23 05:48:43+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 04:46:08+00:00,2022-03-23 05:50:31+00:00
+Kyivska oblast,,,oblast,2022-03-23 04:50:48+00:00,2022-03-23 05:53:28+00:00
+Donetska oblast,Volnovaskyi raion,Velykonovosilkivska terytorialna hromada,hromada,2022-03-23 05:07:26+00:00,2022-03-23 06:23:08+00:00
+Donetska oblast,Volnovaskyi raion,Vuhledarska terytorialna hromada,hromada,2022-03-23 05:07:28+00:00,2022-03-23 06:23:11+00:00
+Donetska oblast,Pokrovskyi raion,Kurakhivska terytorialna hromada,hromada,2022-03-23 05:08:05+00:00,2022-03-23 06:23:02+00:00
+Donetska oblast,Pokrovskyi raion,Marinska terytorialna hromada,hromada,2022-03-23 05:08:15+00:00,2022-03-23 06:22:56+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-23 05:30:00+00:00,2022-03-23 05:56:38+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-23 05:31:45+00:00,2022-03-23 05:56:48+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Ochakiv ta Ochakivska terytorialna hromada,hromada,2022-03-23 05:33:09+00:00,2022-03-23 05:57:03+00:00
+Mykolaivska oblast,Voznesenskyi raion,,district,2022-03-23 05:33:16+00:00,2022-03-23 05:56:40+00:00
+Mykolaivska oblast,,,oblast,2022-03-23 05:37:43+00:00,2022-03-23 05:56:33+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-23 08:39:43+00:00,2022-03-23 09:02:27+00:00
+Kyiv City,,,oblast,2022-03-23 08:54:39+00:00,2022-03-23 09:53:05+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 08:55:17+00:00,2022-03-23 09:53:25+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-23 08:56:47+00:00,2022-03-23 09:11:40+00:00
+Kyivska oblast,,,oblast,2022-03-23 08:59:05+00:00,2022-03-23 09:55:45+00:00
+Chernihivska oblast,,,oblast,2022-03-23 09:00:49+00:00,2022-03-23 13:34:28+00:00
+Kharkivska oblast,,,oblast,2022-03-23 09:17:35+00:00,2022-03-23 09:30:25+00:00
+Kyiv City,,,oblast,2022-03-23 10:20:19+00:00,2022-03-23 11:33:09+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-23 10:25:11+00:00,2022-03-23 11:36:47+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-23 10:25:11+00:00,2022-03-23 11:36:47+00:00
+Vinnytska oblast,,,oblast,2022-03-23 10:43:13+00:00,2022-03-23 11:30:02+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-23 10:47:08+00:00,2022-03-23 11:05:45+00:00
+Kirovohradska oblast,Holovanivskyi raion,,district,2022-03-23 10:48:09+00:00,2022-03-23 14:36:51+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 10:48:55+00:00,2022-03-23 11:34:02+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-23 10:49:58+00:00,2022-03-23 11:36:44+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-23 10:49:58+00:00,2022-03-23 11:36:44+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-23 10:49:59+00:00,2022-03-23 11:35:40+00:00
+Mykolaivska oblast,Voznesenskyi raion,m. Voznesensk ta Voznesenska terytorialna hromada,hromada,2022-03-23 10:50:11+00:00,2022-03-23 11:35:25+00:00
+Cherkaska oblast,Zolotoniskyi raion,Voznesenska terytorialna hromada,hromada,2022-03-23 10:50:11+00:00,2022-03-23 11:35:25+00:00
+Mykolaivska oblast,Pervomaiskyi raion,m. Pervomaisk ta Pervomaiska terytorialna hromada,hromada,2022-03-23 10:50:35+00:00,2022-03-23 11:35:35+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-23 10:50:35+00:00,2022-03-23 11:35:35+00:00
+Odeska oblast,Podilskyi raion,,district,2022-03-23 10:52:53+00:00,2022-03-23 12:10:31+00:00
+Zaporizka oblast,,,oblast,2022-03-23 10:58:38+00:00,2022-03-23 11:16:29+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-23 11:05:59+00:00,2022-03-23 12:10:16+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-23 11:31:30+00:00,2022-03-23 11:50:00+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 11:57:50+00:00,2022-03-23 13:32:36+00:00
+Kyiv City,,,oblast,2022-03-23 11:59:33+00:00,2022-03-23 13:02:02+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-23 12:04:58+00:00,2022-03-23 13:09:14+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-23 12:04:58+00:00,2022-03-23 13:09:14+00:00
+Dnipropetrovska oblast,Dniprovskyi raion,Obukhivska terytorialna hromada,hromada,2022-03-23 12:05:00+00:00,2022-03-23 13:07:40+00:00
+Kyivska oblast,Obukhivskyi raion,m. Obukhiv ta Obukhivska terytorialna hromada,hromada,2022-03-23 12:05:00+00:00,2022-03-23 13:07:40+00:00
+Kyivska oblast,Boryspilskyi raion,m. Boryspil ta Boryspilska terytorialna hromada,hromada,2022-03-23 12:05:10+00:00,2022-03-23 13:08:02+00:00
+Kyivska oblast,Brovarskyi raion,m. Brovary ta Brovarska terytorialna hromada,hromada,2022-03-23 12:05:16+00:00,2022-03-23 13:08:23+00:00
+Kyivska oblast,Buchanskyi raion,Hostomelska terytorialna hromada,hromada,2022-03-23 12:05:39+00:00,2022-03-23 13:07:08+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-23 12:24:20+00:00,2022-03-23 12:29:51+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-23 12:40:51+00:00,2022-03-23 13:35:27+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-23 12:40:51+00:00,2022-03-23 13:35:27+00:00
+Kyivska oblast,Fastivskyi raion,m. Fastiv ta Fastivska terytorialna hromada,hromada,2022-03-23 12:41:17+00:00,2022-03-23 13:35:18+00:00
+Kyivska oblast,Bilotserkivskyi raion,Uzynska terytorialna hromada,hromada,2022-03-23 12:41:28+00:00,2022-03-23 13:35:29+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-23 12:43:46+00:00,2022-03-23 16:00:40+00:00
+Kharkivska oblast,,,oblast,2022-03-23 14:27:04+00:00,2022-03-23 15:54:35+00:00
+Kyiv City,,,oblast,2022-03-23 16:37:52+00:00,2022-03-23 18:34:23+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 16:44:51+00:00,2022-03-23 18:39:57+00:00
+Kyivska oblast,,,oblast,2022-03-23 16:44:53+00:00,2022-03-23 18:39:42+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-23 17:28:17+00:00,2022-03-23 18:32:22+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-23 17:28:27+00:00,2022-03-23 18:32:50+00:00
+Zaporizka oblast,,,oblast,2022-03-23 17:28:49+00:00,2022-03-23 18:38:22+00:00
+Poltavska oblast,,,oblast,2022-03-23 17:29:36+00:00,2022-03-23 18:36:11+00:00
+Kharkivska oblast,,,oblast,2022-03-23 17:29:48+00:00,2022-03-23 18:38:47+00:00
+Vinnytska oblast,,,oblast,2022-03-23 17:30:09+00:00,2022-03-23 18:17:29+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-23 17:33:58+00:00,2022-03-23 18:43:09+00:00
+Sumska oblast,,,oblast,2022-03-23 17:39:52+00:00,2022-03-23 18:52:29+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-23 18:56:46+00:00,2022-03-24 07:55:47+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-23 19:12:32+00:00,2022-03-23 19:57:00+00:00
+Mykolaivska oblast,,,oblast,2022-03-23 19:15:43+00:00,2022-03-23 20:50:52+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-23 19:17:05+00:00,2022-03-23 20:45:00+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-23 19:17:36+00:00,2022-03-23 20:45:11+00:00
+Zaporizka oblast,,,oblast,2022-03-23 19:18:15+00:00,2022-03-23 20:48:52+00:00
+Poltavska oblast,,,oblast,2022-03-23 19:19:25+00:00,2022-03-23 20:47:16+00:00
+Sumska oblast,,,oblast,2022-03-23 19:20:21+00:00,2022-03-23 20:28:09+00:00
+Kharkivska oblast,,,oblast,2022-03-23 19:24:22+00:00,2022-03-24 01:01:57+00:00
+Vinnytska oblast,,,oblast,2022-03-23 19:41:11+00:00,2022-03-23 20:21:33+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-23 19:44:52+00:00,2022-03-23 19:56:52+00:00
+Kirovohradska oblast,Novoukrainskyi raion,,district,2022-03-23 19:48:10+00:00,2022-03-23 20:47:28+00:00
+Kyiv City,,,oblast,2022-03-23 19:49:23+00:00,2022-03-23 20:46:22+00:00
+Odeska oblast,,,oblast,2022-03-23 19:52:42+00:00,2022-03-23 20:16:50+00:00
+Kyivska oblast,,,oblast,2022-03-23 19:53:10+00:00,2022-03-23 20:49:09+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 19:57:54+00:00,2022-03-23 20:50:33+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-23 20:04:01+00:00,2022-03-23 20:45:55+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-23 20:09:39+00:00,2022-03-23 20:48:28+00:00
+Sumska oblast,,,oblast,2022-03-23 22:13:44+00:00,2022-03-23 23:22:24+00:00
+Cherkaska oblast,,,oblast,2022-03-23 22:28:18+00:00,2022-03-23 22:53:09+00:00
+Kirovohradska oblast,,,oblast,2022-03-23 22:28:51+00:00,2022-03-23 22:52:22+00:00
+Poltavska oblast,Myrhorodskyi raion,m. Myrhorod ta Myrhorodska terytorialna hromada,hromada,2022-03-23 22:29:14+00:00,2022-03-23 22:52:09+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-23 22:30:41+00:00,2022-03-23 22:52:56+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-23 22:30:41+00:00,2022-03-23 22:52:56+00:00
+Kyiv City,,,oblast,2022-03-23 22:32:57+00:00,2022-03-23 23:54:01+00:00
+Kyivska oblast,,,oblast,2022-03-23 22:35:35+00:00,2022-03-23 23:56:35+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-23 22:55:04+00:00,2022-03-24 00:32:19+00:00
+Zhytomyrska oblast,,,oblast,2022-03-23 22:56:54+00:00,2022-03-23 23:54:37+00:00
+Volynska oblast,,,oblast,2022-03-23 23:21:48+00:00,2022-03-24 00:06:57+00:00
+Mykolaivska oblast,,,oblast,2022-03-24 00:33:39+00:00,2022-03-24 07:03:31+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-24 03:37:42+00:00,2022-03-24 04:53:22+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-24 03:38:01+00:00,2022-03-24 04:53:36+00:00
+Zaporizka oblast,,,oblast,2022-03-24 03:38:44+00:00,2022-03-24 04:31:25+00:00
+Odeska oblast,,,oblast,2022-03-24 04:30:12+00:00,2022-03-24 04:49:15+00:00
+Zaporizka oblast,Polohivskyi raion,,district,2022-03-24 04:49:01+00:00,2022-03-24 12:06:12+00:00
+Zaporizka oblast,Berdianskyi raion,,district,2022-03-24 04:49:13+00:00,2022-03-24 12:06:06+00:00
+Kyiv City,,,oblast,2022-03-24 05:49:48+00:00,2022-03-24 06:47:46+00:00
+Kyivska oblast,,,oblast,2022-03-24 05:53:02+00:00,2022-03-24 06:52:53+00:00
+Zhytomyrska oblast,,,oblast,2022-03-24 05:53:25+00:00,2022-03-24 06:47:55+00:00
+Chernihivska oblast,,,oblast,2022-03-24 05:54:15+00:00,2022-03-24 13:20:20+00:00
+Kharkivska oblast,,,oblast,2022-03-24 07:56:11+00:00,2022-03-24 08:39:31+00:00
+Zaporizka oblast,,,oblast,2022-03-24 07:59:55+00:00,2022-03-24 08:52:04+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-24 08:04:38+00:00,2022-03-24 08:42:09+00:00
+Rivnenska oblast,,,oblast,2022-03-24 08:29:58+00:00,2022-03-24 08:44:14+00:00
+Volynska oblast,,,oblast,2022-03-24 08:30:13+00:00,2022-03-24 08:44:29+00:00
+Ternopilska oblast,,,oblast,2022-03-24 08:32:32+00:00,2022-03-24 08:48:15+00:00
+Kharkivska oblast,Kupianskyi raion,,district,2022-03-24 08:58:39+00:00,2022-03-24 10:09:10+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-24 08:58:45+00:00,2022-03-24 10:09:12+00:00
+Kharkivska oblast,,,oblast,2022-03-24 09:00:48+00:00,2022-03-24 10:09:03+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-24 09:03:32+00:00,2022-03-24 09:50:17+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-24 09:17:17+00:00,2022-03-25 05:00:07+00:00
+Poltavska oblast,,,oblast,2022-03-24 09:22:12+00:00,2022-03-24 11:06:02+00:00
+Zaporizka oblast,,,oblast,2022-03-24 09:23:06+00:00,2022-03-24 10:27:14+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-24 09:23:52+00:00,2022-03-24 10:07:10+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-24 09:24:35+00:00,2022-03-24 10:09:49+00:00
+Kyiv City,,,oblast,2022-03-24 09:27:54+00:00,2022-03-24 10:04:13+00:00
+Kyivska oblast,,,oblast,2022-03-24 09:30:50+00:00,2022-03-24 10:08:45+00:00
+Sumska oblast,,,oblast,2022-03-24 09:33:15+00:00,2022-03-24 10:16:32+00:00
+Kyiv City,,,oblast,2022-03-24 10:14:17+00:00,2022-03-24 10:27:41+00:00
+Kyiv City,,,oblast,2022-03-24 10:31:31+00:00,2022-03-24 10:45:36+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-24 10:34:03+00:00,2022-03-24 10:47:58+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-24 10:34:03+00:00,2022-03-24 10:47:58+00:00
+Dnipropetrovska oblast,Dniprovskyi raion,Obukhivska terytorialna hromada,hromada,2022-03-24 10:34:07+00:00,2022-03-24 10:47:45+00:00
+Kyivska oblast,Obukhivskyi raion,m. Obukhiv ta Obukhivska terytorialna hromada,hromada,2022-03-24 10:34:07+00:00,2022-03-24 10:47:45+00:00
+Kharkivska oblast,,,oblast,2022-03-24 10:47:19+00:00,2022-03-24 11:04:04+00:00
+Zaporizka oblast,,,oblast,2022-03-24 11:08:35+00:00,2022-03-24 12:06:18+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-24 11:10:24+00:00,2022-03-24 11:46:03+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-24 11:15:51+00:00,2022-03-24 11:48:24+00:00
+Zhytomyrska oblast,,,oblast,2022-03-24 11:27:01+00:00,2022-03-24 11:44:39+00:00
+Luhanska oblast,,,oblast,2022-03-24 11:28:27+00:00,2022-03-28 03:22:00+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-24 11:44:48+00:00,2022-03-24 11:58:49+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-24 11:53:42+00:00,2022-03-24 12:01:37+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-24 12:18:13+00:00,2022-03-24 13:15:59+00:00
+Zaporizka oblast,,,oblast,2022-03-24 12:48:47+00:00,2022-03-24 14:13:05+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-24 13:44:08+00:00,2022-03-24 14:21:27+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-24 13:54:10+00:00,2022-03-24 14:23:30+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-24 14:31:04+00:00,2022-03-24 14:57:58+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-24 15:12:48+00:00,2022-03-24 15:38:48+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-24 16:01:15+00:00,2022-03-24 16:17:29+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-24 16:06:48+00:00,2022-03-24 16:20:14+00:00
+Odeska oblast,Odeskyi raion,,district,2022-03-24 16:56:57+00:00,2022-03-24 17:15:43+00:00
+Cherkaska oblast,,,oblast,2022-03-24 17:01:04+00:00,2022-03-24 18:20:07+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-24 17:01:19+00:00,2022-03-24 17:44:14+00:00
+Kirovohradska oblast,,,oblast,2022-03-24 17:01:38+00:00,2022-03-24 18:20:05+00:00
+Mykolaivska oblast,,,oblast,2022-03-24 17:03:48+00:00,2022-03-24 18:07:18+00:00
+Zaporizka oblast,,,oblast,2022-03-24 17:04:38+00:00,2022-03-24 17:45:39+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-24 17:04:42+00:00,2022-03-24 17:43:57+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-24 17:05:26+00:00,2022-03-24 18:07:09+00:00
+Vinnytska oblast,,,oblast,2022-03-24 17:16:31+00:00,2022-03-24 17:42:20+00:00
+Zhytomyrska oblast,,,oblast,2022-03-24 17:20:23+00:00,2022-03-24 19:03:45+00:00
+Kyivska oblast,Bilotserkivskyi raion,m. Bila Tserkva ta Bilotserkivska terytorialna hromada,hromada,2022-03-24 17:31:00+00:00,2022-03-24 19:07:31+00:00
+Poltavska oblast,Myrhorodskyi raion,Bilotserkivska terytorialna hromada,hromada,2022-03-24 17:31:00+00:00,2022-03-24 19:07:31+00:00
+Kyiv City,,,oblast,2022-03-24 17:31:01+00:00,2022-03-24 19:03:02+00:00
+Kyivska oblast,,,oblast,2022-03-24 17:33:26+00:00,2022-03-24 19:07:26+00:00
+Kharkivska oblast,,,oblast,2022-03-24 18:53:36+00:00,2022-03-25 01:24:21+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-24 20:38:11+00:00,2022-03-24 21:56:23+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-24 20:38:27+00:00,2022-03-24 21:56:37+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-24 20:53:08+00:00,2022-03-24 21:14:04+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-24 20:56:49+00:00,2022-03-24 21:18:03+00:00
+Cherkaska oblast,,,oblast,2022-03-24 21:07:11+00:00,2022-03-24 22:32:14+00:00
+Kirovohradska oblast,,,oblast,2022-03-24 21:07:37+00:00,2022-03-24 22:32:21+00:00
+Mykolaivska oblast,,,oblast,2022-03-24 21:09:15+00:00,2022-03-25 04:50:04+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-24 21:09:38+00:00,2022-03-25 04:50:15+00:00
+Volynska oblast,,,oblast,2022-03-24 21:48:21+00:00,2022-03-24 22:26:14+00:00
+Rivnenska oblast,,,oblast,2022-03-24 21:50:09+00:00,2022-03-24 21:58:43+00:00
+Ternopilska oblast,,,oblast,2022-03-24 21:52:57+00:00,2022-03-24 22:23:26+00:00
+Zhytomyrska oblast,,,oblast,2022-03-24 21:57:11+00:00,2022-03-24 22:31:49+00:00
+Vinnytska oblast,,,oblast,2022-03-24 21:57:16+00:00,2022-03-24 22:28:50+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-24 22:01:42+00:00,2022-03-24 22:31:18+00:00
+Kyiv City,,,oblast,2022-03-24 22:08:46+00:00,2022-03-24 22:30:54+00:00
+Kyivska oblast,,,oblast,2022-03-24 22:12:45+00:00,2022-03-24 22:35:28+00:00
+Kharkivska oblast,,,oblast,2022-03-25 02:07:45+00:00,2022-03-25 02:49:19+00:00
+Zhytomyrska oblast,Korostenskyi raion,,district,2022-03-25 03:46:04+00:00,2022-03-25 04:33:12+00:00
+Kyiv City,,,oblast,2022-03-25 04:39:56+00:00,2022-03-25 07:06:23+00:00
+Kyivska oblast,,,oblast,2022-03-25 04:41:47+00:00,2022-03-25 07:20:03+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-25 04:42:02+00:00,2022-03-25 05:48:17+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-25 04:42:02+00:00,2022-03-25 05:48:17+00:00
+Vinnytska oblast,,,oblast,2022-03-25 04:51:07+00:00,2022-03-25 05:14:07+00:00
+Cherkaska oblast,,,oblast,2022-03-25 04:54:26+00:00,2022-03-25 05:48:10+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-25 04:58:33+00:00,2022-03-25 05:27:36+00:00
+Ternopilska oblast,,,oblast,2022-03-25 05:01:54+00:00,2022-03-25 05:32:42+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 05:30:34+00:00,2022-03-25 05:47:59+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-25 05:38:41+00:00,2022-03-25 11:09:35+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-25 05:41:29+00:00,2022-03-25 07:21:09+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-25 05:44:08+00:00,2022-03-25 06:07:20+00:00
+Kharkivska oblast,,,oblast,2022-03-25 05:44:43+00:00,2022-03-25 10:36:10+00:00
+Zhytomyrska oblast,,,oblast,2022-03-25 05:51:48+00:00,2022-03-25 07:07:57+00:00
+Odeska oblast,,,oblast,2022-03-25 05:54:39+00:00,2022-03-25 06:05:18+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 06:57:18+00:00,2022-03-25 07:42:44+00:00
+Zaporizka oblast,,,oblast,2022-03-25 08:26:45+00:00,2022-03-25 10:16:07+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-25 08:48:21+00:00,2022-03-25 08:55:46+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 09:09:25+00:00,2022-03-25 09:26:22+00:00
+Sumska oblast,Okhtyrskyi raion,m. Okhtyrka ta Okhtyrska terytorialna hromada,hromada,2022-03-25 10:05:28+00:00,2022-03-25 10:37:02+00:00
+Sumska oblast,Sumskyi raion,m. Sumy ta Sumska terytorialna hromada,hromada,2022-03-25 10:06:25+00:00,2022-03-25 10:36:48+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 10:10:12+00:00,2022-03-25 11:15:23+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-25 10:11:04+00:00,2022-03-25 11:11:34+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-25 10:48:09+00:00,2022-03-25 11:31:52+00:00
+Kyiv City,,,oblast,2022-03-25 10:56:26+00:00,2022-03-25 11:52:35+00:00
+Zhytomyrska oblast,,,oblast,2022-03-25 10:57:13+00:00,2022-03-25 11:53:24+00:00
+Kyivska oblast,,,oblast,2022-03-25 11:06:26+00:00,2022-03-25 13:21:17+00:00
+Zaporizka oblast,,,oblast,2022-03-25 11:59:47+00:00,2022-03-25 13:07:17+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,,district,2022-03-25 12:03:23+00:00,2022-03-25 13:02:51+00:00
+Dnipropetrovska oblast,Pavlohradskyi raion,,district,2022-03-25 12:03:34+00:00,2022-03-25 13:02:40+00:00
+Zhytomyrska oblast,,,oblast,2022-03-25 12:05:32+00:00,2022-03-25 13:13:20+00:00
+Dnipropetrovska oblast,Dniprovskyi raion,m. Dnipro ta Dniprovska terytorialna hromada,hromada,2022-03-25 12:08:47+00:00,2022-03-25 13:02:46+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-25 12:09:10+00:00,2022-03-25 13:02:58+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-25 12:09:11+00:00,2022-03-25 13:06:20+00:00
+Kharkivska oblast,,,oblast,2022-03-25 12:09:51+00:00,2022-03-25 13:04:00+00:00
+Poltavska oblast,,,oblast,2022-03-25 12:09:55+00:00,2022-03-25 15:32:08+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-25 12:10:41+00:00,2022-03-25 13:02:48+00:00
+Cherkaska oblast,,,oblast,2022-03-25 12:19:37+00:00,2022-03-25 13:13:34+00:00
+Kyiv City,,,oblast,2022-03-25 12:22:36+00:00,2022-03-25 13:14:15+00:00
+Chernihivska oblast,,,oblast,2022-03-25 12:37:26+00:00,2022-03-25 16:38:12+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 12:52:31+00:00,2022-03-25 12:59:50+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 13:06:01+00:00,2022-03-25 13:42:22+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-25 13:06:17+00:00,2022-03-25 15:17:14+00:00
+Vinnytska oblast,,,oblast,2022-03-25 13:31:01+00:00,2022-03-25 14:57:05+00:00
+Kyiv City,,,oblast,2022-03-25 13:34:40+00:00,2022-03-25 15:32:43+00:00
+Zhytomyrska oblast,,,oblast,2022-03-25 13:35:12+00:00,2022-03-25 16:07:24+00:00
+Mykolaivska oblast,,,oblast,2022-03-25 13:41:07+00:00,2022-03-25 16:44:41+00:00
+Odeska oblast,,,oblast,2022-03-25 13:41:39+00:00,2022-03-25 14:56:04+00:00
+Kyivska oblast,,,oblast,2022-03-25 13:42:17+00:00,2022-03-25 15:45:15+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-25 14:09:18+00:00,2022-03-25 15:31:34+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-25 14:12:58+00:00,2022-03-25 15:32:04+00:00
+Cherkaska oblast,,,oblast,2022-03-25 14:13:11+00:00,2022-03-25 15:31:38+00:00
+Khmelnytska oblast,,,oblast,2022-03-25 14:13:19+00:00,2022-03-25 15:31:28+00:00
+Volynska oblast,,,oblast,2022-03-25 14:13:32+00:00,2022-03-25 15:09:34+00:00
+Kirovohradska oblast,,,oblast,2022-03-25 14:13:58+00:00,2022-03-25 15:32:14+00:00
+Zakarpatska oblast,,,oblast,2022-03-25 14:14:29+00:00,2022-03-25 15:32:50+00:00
+Chernivetska oblast,,,oblast,2022-03-25 14:15:18+00:00,2022-03-25 15:33:44+00:00
+Lvivska oblast,,,oblast,2022-03-25 14:16:29+00:00,2022-03-25 15:28:27+00:00
+Rivnenska oblast,,,oblast,2022-03-25 14:17:25+00:00,2022-03-25 15:08:00+00:00
+Ternopilska oblast,,,oblast,2022-03-25 14:19:37+00:00,2022-03-25 15:13:18+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 14:30:09+00:00,2022-03-25 15:17:17+00:00
+Vinnytska oblast,,,oblast,2022-03-25 15:05:29+00:00,2022-03-25 15:35:47+00:00
+Kharkivska oblast,,,oblast,2022-03-25 15:35:02+00:00,2022-03-25 16:42:52+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,,district,2022-03-25 15:38:38+00:00,2022-03-25 16:42:58+00:00
+Dnipropetrovska oblast,Pavlohradskyi raion,,district,2022-03-25 15:38:42+00:00,2022-03-25 16:42:50+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-25 15:39:51+00:00,2022-03-25 16:44:15+00:00
+Kyiv City,,,oblast,2022-03-25 15:43:40+00:00,2022-03-25 19:35:33+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 15:43:50+00:00,2022-03-25 16:44:18+00:00
+Kyivska oblast,,,oblast,2022-03-25 15:51:13+00:00,2022-03-25 19:42:47+00:00
+Vinnytska oblast,,,oblast,2022-03-25 16:03:25+00:00,2022-03-25 16:39:13+00:00
+Cherkaska oblast,,,oblast,2022-03-25 16:07:12+00:00,2022-03-25 16:41:48+00:00
+Zhytomyrska oblast,,,oblast,2022-03-25 16:07:33+00:00,2022-03-25 16:41:33+00:00
+Kirovohradska oblast,,,oblast,2022-03-25 16:07:41+00:00,2022-03-25 16:42:02+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-25 16:09:47+00:00,2022-03-25 16:42:41+00:00
+Zhytomyrska oblast,,,oblast,2022-03-25 16:47:18+00:00,2022-03-25 19:37:32+00:00
+Vinnytska oblast,,,oblast,2022-03-25 16:47:44+00:00,2022-03-25 17:02:14+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-25 16:48:37+00:00,2022-03-25 17:18:33+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 17:16:43+00:00,2022-03-25 17:33:18+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-25 17:18:04+00:00,2022-03-25 17:31:22+00:00
+Kharkivska oblast,,,oblast,2022-03-25 18:15:09+00:00,2022-03-25 19:25:29+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-25 18:18:19+00:00,2022-03-25 19:33:56+00:00
+Dnipropetrovska oblast,Pavlohradskyi raion,,district,2022-03-25 18:18:57+00:00,2022-03-25 19:30:31+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,,district,2022-03-25 18:19:03+00:00,2022-03-25 19:30:34+00:00
+Zaporizka oblast,,,oblast,2022-03-25 18:19:24+00:00,2022-03-25 19:38:56+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-25 18:21:31+00:00,2022-03-25 20:24:10+00:00
+Sumska oblast,,,oblast,2022-03-25 18:21:34+00:00,2022-03-25 20:40:16+00:00
+Kharkivska oblast,,,oblast,2022-03-25 19:30:27+00:00,2022-03-25 20:52:11+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-25 19:46:27+00:00,2022-03-25 20:10:28+00:00
+Odeska oblast,,,oblast,2022-03-25 21:11:14+00:00,2022-03-25 21:52:48+00:00
+Cherkaska oblast,,,oblast,2022-03-25 21:12:44+00:00,2022-03-25 21:57:26+00:00
+Kirovohradska oblast,,,oblast,2022-03-25 21:13:11+00:00,2022-03-25 21:57:35+00:00
+Mykolaivska oblast,,,oblast,2022-03-25 21:13:53+00:00,2022-03-25 21:58:26+00:00
+Kyiv City,,,oblast,2022-03-25 21:25:08+00:00,2022-03-25 22:35:16+00:00
+Vinnytska oblast,,,oblast,2022-03-25 21:25:36+00:00,2022-03-25 21:41:35+00:00
+Zhytomyrska oblast,,,oblast,2022-03-25 21:28:08+00:00,2022-03-25 22:35:25+00:00
+Kyivska oblast,,,oblast,2022-03-25 21:31:58+00:00,2022-03-25 22:40:13+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 03:34:19+00:00,2022-03-26 04:31:45+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-26 03:40:20+00:00,2022-03-26 04:23:20+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-26 03:40:59+00:00,2022-03-26 04:23:31+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-26 03:41:28+00:00,2022-03-26 03:59:10+00:00
+Kharkivska oblast,,,oblast,2022-03-26 03:41:53+00:00,2022-03-26 04:26:00+00:00
+Zaporizka oblast,,,oblast,2022-03-26 03:43:49+00:00,2022-03-26 04:27:25+00:00
+Kyiv City,,,oblast,2022-03-26 03:48:13+00:00,2022-03-26 04:39:01+00:00
+Sumska oblast,,,oblast,2022-03-26 03:51:43+00:00,2022-03-26 04:28:28+00:00
+Cherkaska oblast,,,oblast,2022-03-26 03:57:59+00:00,2022-03-26 04:39:20+00:00
+Kyivska oblast,,,oblast,2022-03-26 03:58:03+00:00,2022-03-26 05:21:21+00:00
+Kirovohradska oblast,,,oblast,2022-03-26 03:58:28+00:00,2022-03-26 04:40:31+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-26 03:58:59+00:00,2022-03-26 04:43:49+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-26 04:04:41+00:00,2022-03-26 04:31:46+00:00
+Zhytomyrska oblast,,,oblast,2022-03-26 04:04:55+00:00,2022-03-26 04:39:39+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-26 04:55:00+00:00,2022-03-26 05:48:30+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 05:18:24+00:00,2022-03-26 05:31:05+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-26 05:18:49+00:00,2022-03-26 05:29:59+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-26 06:54:14+00:00,2022-03-26 08:08:11+00:00
+Chernihivska oblast,,,oblast,2022-03-26 06:56:43+00:00,2022-03-26 07:26:41+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-26 07:25:29+00:00,2022-03-26 09:06:39+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 07:27:42+00:00,2022-03-26 08:24:46+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-26 07:33:34+00:00,2022-03-26 09:13:15+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-26 08:32:06+00:00,2022-03-26 09:55:10+00:00
+Kyiv City,,,oblast,2022-03-26 08:59:28+00:00,2022-03-26 09:54:29+00:00
+Cherkaska oblast,Zvenyhorodskyi raion,m. Vatutine ta Vatutinska terytorialna hromada,hromada,2022-03-26 09:00:55+00:00,2022-03-26 14:31:02+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-26 09:04:54+00:00,2022-03-26 09:12:03+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-26 09:14:11+00:00,2022-03-26 09:55:31+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-26 09:16:01+00:00,2022-03-26 09:57:25+00:00
+Kharkivska oblast,Lozivskyi raion,,district,2022-03-26 09:18:30+00:00,2022-03-26 09:55:13+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-26 09:18:35+00:00,2022-03-26 09:57:28+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 09:18:40+00:00,2022-03-26 09:57:21+00:00
+Kharkivska oblast,,,oblast,2022-03-26 09:19:08+00:00,2022-03-26 09:55:15+00:00
+Zaporizka oblast,Polohivskyi raion,,district,2022-03-26 09:27:09+00:00,2022-03-26 09:56:06+00:00
+Kharkivska oblast,,,oblast,2022-03-26 09:56:05+00:00,2022-03-26 12:57:06+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-26 10:26:23+00:00,2022-03-26 12:57:10+00:00
+Kharkivska oblast,Lozivskyi raion,,district,2022-03-26 10:26:28+00:00,2022-03-26 12:57:17+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-26 10:27:36+00:00,2022-03-26 14:29:05+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 10:29:28+00:00,2022-03-26 13:50:04+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-26 10:30:41+00:00,2022-03-26 13:50:08+00:00
+Zaporizka oblast,Zaporizkyi raion,,district,2022-03-26 10:50:09+00:00,2022-03-26 14:31:15+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-26 11:16:20+00:00,2022-03-26 14:28:57+00:00
+Kyiv City,,,oblast,2022-03-26 11:16:36+00:00,2022-03-26 14:28:56+00:00
+Poltavska oblast,,,oblast,2022-03-26 11:16:57+00:00,2022-03-26 14:30:14+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-26 11:17:12+00:00,2022-03-26 14:29:25+00:00
+Zhytomyrska oblast,,,oblast,2022-03-26 11:17:22+00:00,2022-03-26 14:30:28+00:00
+Vinnytska oblast,,,oblast,2022-03-26 11:18:08+00:00,2022-03-26 14:27:43+00:00
+Cherkaska oblast,,,oblast,2022-03-26 11:18:40+00:00,2022-03-26 14:31:07+00:00
+Kirovohradska oblast,,,oblast,2022-03-26 11:18:47+00:00,2022-03-26 14:31:17+00:00
+Zaporizka oblast,,,oblast,2022-03-26 11:19:41+00:00,2022-03-26 14:31:19+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-26 11:24:51+00:00,2022-03-26 13:50:15+00:00
+Kyivska oblast,,,oblast,2022-03-26 11:25:15+00:00,2022-03-26 14:36:21+00:00
+Sumska oblast,,,oblast,2022-03-26 11:27:26+00:00,2022-03-26 14:43:38+00:00
+Mykolaivska oblast,,,oblast,2022-03-26 12:16:47+00:00,2022-03-26 14:32:54+00:00
+Odeska oblast,,,oblast,2022-03-26 12:18:04+00:00,2022-03-26 14:19:15+00:00
+Kharkivska oblast,,,oblast,2022-03-26 13:41:54+00:00,2022-03-26 14:33:40+00:00
+Khmelnytska oblast,,,oblast,2022-03-26 14:08:37+00:00,2022-03-26 18:04:56+00:00
+Zakarpatska oblast,,,oblast,2022-03-26 14:08:54+00:00,2022-03-26 18:05:28+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-26 14:10:11+00:00,2022-03-26 17:16:55+00:00
+Rivnenska oblast,,,oblast,2022-03-26 14:11:18+00:00,2022-03-26 17:18:10+00:00
+Lvivska oblast,,,oblast,2022-03-26 14:12:11+00:00,2022-03-26 18:00:32+00:00
+Volynska oblast,,,oblast,2022-03-26 14:12:30+00:00,2022-03-26 17:18:58+00:00
+Chernivetska oblast,,,oblast,2022-03-26 14:13:06+00:00,2022-03-26 18:06:45+00:00
+Ternopilska oblast,,,oblast,2022-03-26 14:14:12+00:00,2022-03-26 17:22:57+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-26 14:25:34+00:00,2022-03-26 14:35:34+00:00
+Zhytomyrska oblast,,,oblast,2022-03-26 14:34:57+00:00,2022-03-26 16:57:57+00:00
+Odeska oblast,,,oblast,2022-03-26 14:44:40+00:00,2022-03-26 16:44:08+00:00
+Kyiv City,,,oblast,2022-03-26 14:47:14+00:00,2022-03-26 16:56:54+00:00
+Kirovohradska oblast,,,oblast,2022-03-26 14:49:00+00:00,2022-03-26 16:58:28+00:00
+Vinnytska oblast,,,oblast,2022-03-26 14:49:15+00:00,2022-03-26 16:54:58+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-26 14:50:48+00:00,2022-03-26 17:00:05+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-26 14:51:17+00:00,2022-03-26 17:00:52+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-26 14:51:23+00:00,2022-03-26 17:01:25+00:00
+Mykolaivska oblast,,,oblast,2022-03-26 14:51:28+00:00,2022-03-26 16:48:16+00:00
+Zaporizka oblast,,,oblast,2022-03-26 14:52:52+00:00,2022-03-26 16:43:48+00:00
+Kharkivska oblast,,,oblast,2022-03-26 14:53:16+00:00,2022-03-26 17:01:31+00:00
+Poltavska oblast,,,oblast,2022-03-26 14:53:20+00:00,2022-03-26 16:57:47+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-26 14:53:27+00:00,2022-03-26 16:30:18+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 14:54:55+00:00,2022-03-26 16:38:23+00:00
+Cherkaska oblast,,,oblast,2022-03-26 14:54:57+00:00,2022-03-26 16:58:19+00:00
+Donetska oblast,Volnovaskyi raion,,district,2022-03-26 14:55:04+00:00,2022-03-26 16:38:29+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-26 14:55:08+00:00,2022-03-26 16:38:37+00:00
+Chernihivska oblast,,,oblast,2022-03-26 14:57:47+00:00,2022-03-26 17:08:04+00:00
+Sumska oblast,,,oblast,2022-03-26 14:58:12+00:00,2022-03-26 17:10:17+00:00
+Kyivska oblast,,,oblast,2022-03-26 14:58:31+00:00,2022-03-26 17:03:31+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-26 16:45:29+00:00,2022-03-26 18:25:58+00:00
+Rivnenska oblast,,,oblast,2022-03-26 18:46:22+00:00,2022-03-26 19:33:19+00:00
+Volynska oblast,,,oblast,2022-03-26 18:47:08+00:00,2022-03-26 19:34:14+00:00
+Khmelnytska oblast,,,oblast,2022-03-26 18:48:43+00:00,2022-03-26 19:42:06+00:00
+Ternopilska oblast,,,oblast,2022-03-26 18:48:50+00:00,2022-03-26 19:37:23+00:00
+Lvivska oblast,,,oblast,2022-03-26 18:50:00+00:00,2022-03-26 19:34:14+00:00
+Zakarpatska oblast,,,oblast,2022-03-26 18:50:17+00:00,2022-03-26 19:43:25+00:00
+Chernivetska oblast,,,oblast,2022-03-26 18:57:58+00:00,2022-03-26 19:45:47+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-26 19:04:13+00:00,2022-03-26 19:42:39+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-26 20:58:17+00:00,2022-03-26 21:32:03+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-26 20:58:58+00:00,2022-03-26 21:32:26+00:00
+Kharkivska oblast,,,oblast,2022-03-26 21:00:35+00:00,2022-03-26 21:46:47+00:00
+Kirovohradska oblast,,,oblast,2022-03-26 21:00:46+00:00,2022-03-26 21:32:57+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-26 21:02:10+00:00,2022-03-27 00:16:27+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-26 21:03:57+00:00,2022-03-26 21:34:10+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-26 21:04:53+00:00,2022-03-26 21:34:13+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 21:17:01+00:00,2022-03-26 21:35:34+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-26 22:46:20+00:00,2022-03-26 23:47:27+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-26 22:47:08+00:00,2022-03-26 23:47:46+00:00
+Kharkivska oblast,,,oblast,2022-03-26 22:47:09+00:00,2022-03-26 23:47:37+00:00
+Poltavska oblast,,,oblast,2022-03-26 22:48:03+00:00,2022-03-26 23:46:29+00:00
+Zaporizka oblast,,,oblast,2022-03-26 22:49:23+00:00,2022-03-26 23:27:49+00:00
+Mykolaivska oblast,,,oblast,2022-03-26 22:50:25+00:00,2022-03-26 23:28:04+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-26 22:50:58+00:00,2022-03-26 23:47:03+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-26 22:51:25+00:00,2022-03-26 23:47:43+00:00
+Kirovohradska oblast,,,oblast,2022-03-26 23:00:05+00:00,2022-03-26 23:20:31+00:00
+Cherkaska oblast,,,oblast,2022-03-26 23:00:37+00:00,2022-03-27 00:00:18+00:00
+Odeska oblast,,,oblast,2022-03-26 23:01:27+00:00,2022-03-26 23:22:17+00:00
+Kyiv City,,,oblast,2022-03-26 23:29:58+00:00,2022-03-27 00:02:26+00:00
+Vinnytska oblast,,,oblast,2022-03-26 23:30:07+00:00,2022-03-26 23:50:33+00:00
+Zhytomyrska oblast,,,oblast,2022-03-26 23:31:03+00:00,2022-03-27 03:11:54+00:00
+Chernihivska oblast,,,oblast,2022-03-26 23:32:23+00:00,2022-03-27 03:25:46+00:00
+Kyivska oblast,,,oblast,2022-03-26 23:44:58+00:00,2022-03-27 00:05:42+00:00
+Odeska oblast,,,oblast,2022-03-27 02:57:15+00:00,2022-03-27 03:22:50+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-27 05:59:18+00:00,2022-03-27 08:11:25+00:00
+Zaporizka oblast,Polohivskyi raion,,district,2022-03-27 06:06:07+00:00,2022-03-27 10:49:47+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-27 06:08:42+00:00,2022-03-27 07:26:10+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-27 06:09:33+00:00,2022-03-27 07:53:48+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-27 06:29:34+00:00,2022-03-27 07:55:15+00:00
+Kharkivska oblast,,,oblast,2022-03-27 06:51:10+00:00,2022-03-27 08:09:53+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-27 08:39:05+00:00,2022-03-27 08:59:11+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-27 08:40:29+00:00,2022-03-27 08:46:23+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-27 08:41:48+00:00,2022-03-27 09:02:47+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-27 08:48:33+00:00,2022-03-27 09:07:09+00:00
+Zhytomyrska oblast,,,oblast,2022-03-27 12:33:45+00:00,2022-03-27 14:00:27+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-27 13:25:33+00:00,2022-03-27 13:36:02+00:00
+Kyiv City,,,oblast,2022-03-27 13:27:11+00:00,2022-03-27 13:59:55+00:00
+Kyivska oblast,,,oblast,2022-03-27 13:34:25+00:00,2022-03-27 14:06:34+00:00
+Kyiv City,,,oblast,2022-03-27 14:17:52+00:00,2022-03-27 14:44:08+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-27 14:21:00+00:00,2022-03-27 14:47:07+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-27 14:21:00+00:00,2022-03-27 14:47:07+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-27 16:16:58+00:00,2022-03-27 16:42:48+00:00
+Zaporizka oblast,Polohivskyi raion,,district,2022-03-27 16:19:04+00:00,2022-03-27 16:45:33+00:00
+Donetska oblast,Pokrovskyi raion,Marinska terytorialna hromada,hromada,2022-03-27 16:21:36+00:00,2022-03-27 17:19:16+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-27 16:23:38+00:00,2022-03-27 16:58:41+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-27 16:25:31+00:00,2022-03-27 16:57:03+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-27 16:31:20+00:00,2022-03-27 16:59:44+00:00
+Kyiv City,,,oblast,2022-03-27 17:15:41+00:00,2022-03-27 19:55:17+00:00
+Zhytomyrska oblast,,,oblast,2022-03-27 17:17:54+00:00,2022-03-27 19:56:10+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-27 17:20:54+00:00,2022-03-27 20:20:39+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-27 17:20:54+00:00,2022-03-27 20:20:39+00:00
+Kyivska oblast,Buchanskyi raion,Makarivska terytorialna hromada,hromada,2022-03-27 17:20:57+00:00,2022-03-27 20:20:32+00:00
+Kyivska oblast,Buchanskyi raion,Borodianska terytorialna hromada,hromada,2022-03-27 17:21:02+00:00,2022-03-27 20:20:28+00:00
+Donetska oblast,,,oblast,2022-03-27 17:24:55+00:00,2022-03-27 17:54:24+00:00
+Odeska oblast,,,oblast,2022-03-27 18:01:12+00:00,2022-03-27 19:35:24+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-27 18:06:59+00:00,2022-03-27 19:55:48+00:00
+Zaporizka oblast,,,oblast,2022-03-27 18:07:45+00:00,2022-03-27 19:56:46+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-27 18:08:01+00:00,2022-03-27 19:56:34+00:00
+Kirovohradska oblast,Kropyvnytskyi raion,,district,2022-03-27 18:08:16+00:00,2022-03-27 19:57:39+00:00
+Mykolaivska oblast,,,oblast,2022-03-27 18:08:34+00:00,2022-03-27 19:54:05+00:00
+Poltavska oblast,Kremenchutskyi raion,m. Kremenchuk ta Kremenchutska terytorialna hromada,hromada,2022-03-27 18:24:54+00:00,2022-03-27 19:56:15+00:00
+Poltavska oblast,Myrhorodskyi raion,m. Myrhorod ta Myrhorodska terytorialna hromada,hromada,2022-03-27 18:25:01+00:00,2022-03-27 19:56:25+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-27 18:28:53+00:00,2022-03-27 19:59:10+00:00
+Vinnytska oblast,,,oblast,2022-03-27 18:35:57+00:00,2022-03-27 19:56:29+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-27 18:40:33+00:00,2022-03-27 19:57:09+00:00
+Rivnenska oblast,,,oblast,2022-03-27 18:41:54+00:00,2022-03-27 19:58:23+00:00
+Lvivska oblast,,,oblast,2022-03-27 18:41:56+00:00,2022-03-27 20:00:47+00:00
+Khmelnytska oblast,,,oblast,2022-03-27 18:42:56+00:00,2022-03-27 19:56:33+00:00
+Kharkivska oblast,,,oblast,2022-03-27 18:45:00+00:00,2022-03-27 19:53:29+00:00
+Poltavska oblast,,,oblast,2022-03-27 18:46:09+00:00,2022-03-27 19:56:04+00:00
+Zakarpatska oblast,,,oblast,2022-03-27 18:46:26+00:00,2022-03-27 19:57:39+00:00
+Kirovohradska oblast,,,oblast,2022-03-27 18:48:15+00:00,2022-03-27 19:57:43+00:00
+Chernihivska oblast,,,oblast,2022-03-27 18:58:51+00:00,2022-03-28 05:51:42+00:00
+Sumska oblast,,,oblast,2022-03-27 19:02:47+00:00,2022-03-27 19:57:55+00:00
+Donetska oblast,,,oblast,2022-03-27 19:03:42+00:00,2022-03-27 19:57:19+00:00
+Volynska oblast,,,oblast,2022-03-27 19:07:32+00:00,2022-03-27 19:56:37+00:00
+Ternopilska oblast,,,oblast,2022-03-27 19:07:43+00:00,2022-03-27 20:07:03+00:00
+Chernivetska oblast,,,oblast,2022-03-27 19:11:03+00:00,2022-03-27 19:58:38+00:00
+Kyivska oblast,,,oblast,2022-03-27 19:11:48+00:00,2022-03-27 20:20:23+00:00
+Cherkaska oblast,,,oblast,2022-03-27 19:21:30+00:00,2022-03-27 19:57:47+00:00
+Khersonska oblast,,,oblast,2022-03-27 19:21:36+00:00,2022-03-27 20:13:01+00:00
+Kyiv City,,,oblast,2022-03-27 20:00:35+00:00,2022-03-27 21:05:12+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-27 20:12:27+00:00,2022-03-27 20:46:22+00:00
+Kharkivska oblast,,,oblast,2022-03-27 20:12:44+00:00,2022-03-27 20:38:25+00:00
+Poltavska oblast,Myrhorodskyi raion,m. Myrhorod ta Myrhorodska terytorialna hromada,hromada,2022-03-27 20:16:57+00:00,2022-03-27 21:06:27+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-27 20:17:11+00:00,2022-03-27 21:06:33+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-27 20:19:20+00:00,2022-03-27 20:46:50+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-27 20:20:54+00:00,2022-03-27 21:08:49+00:00
+Kyiv City,,,oblast,2022-03-27 21:12:05+00:00,2022-03-27 22:56:20+00:00
+Kyivska oblast,,,oblast,2022-03-27 21:28:21+00:00,2022-03-27 23:05:22+00:00
+Zhytomyrska oblast,,,oblast,2022-03-27 21:37:39+00:00,2022-03-27 22:56:55+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-27 22:12:59+00:00,2022-03-27 22:58:01+00:00
+Poltavska oblast,,,oblast,2022-03-28 00:36:03+00:00,2022-03-28 01:37:53+00:00
+Zaporizka oblast,,,oblast,2022-03-28 00:36:54+00:00,2022-03-28 01:39:02+00:00
+Kharkivska oblast,,,oblast,2022-03-28 00:37:40+00:00,2022-03-28 01:37:00+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-28 00:37:54+00:00,2022-03-28 01:37:18+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-28 00:38:01+00:00,2022-03-28 01:37:52+00:00
+Kyiv City,,,oblast,2022-03-28 00:40:32+00:00,2022-03-28 02:07:58+00:00
+Sumska oblast,,,oblast,2022-03-28 00:44:50+00:00,2022-03-28 01:43:35+00:00
+Zhytomyrska oblast,,,oblast,2022-03-28 00:48:21+00:00,2022-03-28 02:07:11+00:00
+Kyivska oblast,,,oblast,2022-03-28 01:00:29+00:00,2022-03-28 04:51:40+00:00
+Kharkivska oblast,,,oblast,2022-03-28 02:20:26+00:00,2022-03-28 03:02:24+00:00
+Kharkivska oblast,,,oblast,2022-03-28 03:14:57+00:00,2022-03-28 04:01:36+00:00
+Donetska oblast,Bakhmutskyi raion,Toretska terytorialna hromada,hromada,2022-03-28 03:37:13+00:00,2022-03-28 04:07:20+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-28 03:40:07+00:00,2022-03-28 04:07:13+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-28 03:50:41+00:00,2022-03-28 04:07:05+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-28 03:55:06+00:00,2022-03-28 04:06:59+00:00
+Zaporizka oblast,,,oblast,2022-03-28 04:49:05+00:00,2022-03-28 05:08:43+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-28 06:13:18+00:00,2022-03-28 06:37:18+00:00
+Kharkivska oblast,,,oblast,2022-03-28 06:23:47+00:00,2022-03-28 06:37:10+00:00
+Sumska oblast,,,oblast,2022-03-28 07:00:46+00:00,2022-03-28 07:57:45+00:00
+Donetska oblast,Kramatorskyi raion,Druzhkivska terytorialna hromada,hromada,2022-03-28 07:54:59+00:00,2022-03-28 09:02:09+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-28 07:55:11+00:00,2022-03-28 07:57:38+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-28 08:02:37+00:00,2022-03-28 08:43:50+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-28 08:14:08+00:00,2022-03-28 08:43:42+00:00
+Zhytomyrska oblast,Zhytomyrskyi raion,m. Zhytomyr ta Zhytomyrska terytorialna hromada,hromada,2022-03-28 09:02:26+00:00,2022-03-28 09:09:33+00:00
+Odeska oblast,,,oblast,2022-03-28 09:26:13+00:00,2022-03-28 09:56:27+00:00
+Mykolaivska oblast,,,oblast,2022-03-28 09:32:15+00:00,2022-03-28 10:27:08+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-28 09:32:38+00:00,2022-03-28 10:27:15+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-28 09:40:10+00:00,2022-03-28 10:18:34+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-28 09:42:25+00:00,2022-03-28 10:21:58+00:00
+Cherkaska oblast,,,oblast,2022-03-28 09:44:07+00:00,2022-03-28 10:25:12+00:00
+Vinnytska oblast,,,oblast,2022-03-28 09:44:23+00:00,2022-03-28 10:22:25+00:00
+Kirovohradska oblast,,,oblast,2022-03-28 09:44:46+00:00,2022-03-28 10:25:12+00:00
+Donetska oblast,Kramatorskyi raion,Druzhkivska terytorialna hromada,hromada,2022-03-28 09:46:36+00:00,2022-03-28 10:15:44+00:00
+Donetska oblast,Pokrovskyi raion,Pokrovska terytorialna hromada,hromada,2022-03-28 09:49:02+00:00,2022-03-28 10:01:32+00:00
+Kyiv City,,,oblast,2022-03-28 09:49:07+00:00,2022-03-28 10:22:58+00:00
+Zhytomyrska oblast,,,oblast,2022-03-28 09:49:49+00:00,2022-03-28 10:26:08+00:00
+Rivnenska oblast,,,oblast,2022-03-28 09:50:57+00:00,2022-03-28 10:25:22+00:00
+Khmelnytska oblast,,,oblast,2022-03-28 09:51:00+00:00,2022-03-28 10:25:14+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-28 09:51:12+00:00,2022-03-28 10:29:03+00:00
+Chernihivska oblast,,,oblast,2022-03-28 09:51:28+00:00,2022-03-28 10:27:12+00:00
+Volynska oblast,,,oblast,2022-03-28 09:51:34+00:00,2022-03-28 10:26:42+00:00
+Lvivska oblast,,,oblast,2022-03-28 09:52:36+00:00,2022-03-28 10:27:08+00:00
+Ternopilska oblast,,,oblast,2022-03-28 09:56:07+00:00,2022-03-28 10:28:03+00:00
+Zakarpatska oblast,,,oblast,2022-03-28 09:59:12+00:00,2022-03-28 10:25:54+00:00
+Kharkivska oblast,,,oblast,2022-03-28 09:59:15+00:00,2022-03-28 10:05:19+00:00
+Kyivska oblast,,,oblast,2022-03-28 09:59:25+00:00,2022-03-28 10:32:17+00:00
+Chernivetska oblast,,,oblast,2022-03-28 10:01:01+00:00,2022-03-28 10:26:59+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-28 11:22:30+00:00,2022-03-28 12:20:53+00:00
+Zhytomyrska oblast,,,oblast,2022-03-28 11:46:28+00:00,2022-03-28 13:09:28+00:00
+Kyivska oblast,Buchanskyi raion,Borodianska terytorialna hromada,hromada,2022-03-28 11:50:21+00:00,2022-03-28 13:16:35+00:00
+Kyivska oblast,Buchanskyi raion,Makarivska terytorialna hromada,hromada,2022-03-28 11:50:31+00:00,2022-03-28 13:16:37+00:00
+Kyiv City,,,oblast,2022-03-28 12:06:59+00:00,2022-03-28 14:43:40+00:00
+Kharkivska oblast,,,oblast,2022-03-28 12:10:42+00:00,2022-03-28 12:22:37+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-28 12:15:58+00:00,2022-03-28 14:48:58+00:00
+Kyivska oblast,,,oblast,2022-03-28 13:07:33+00:00,2022-03-28 13:16:48+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-28 13:15:28+00:00,2022-03-28 14:48:17+00:00
+Chernihivska oblast,,,oblast,2022-03-28 13:45:11+00:00,2022-03-28 15:17:39+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Vasylkivska terytorialna hromada,hromada,2022-03-28 13:59:33+00:00,2022-03-28 14:53:01+00:00
+Kyivska oblast,Obukhivskyi raion,m. Vasylkiv ta Vasylkivska terytorialna hromada,hromada,2022-03-28 13:59:33+00:00,2022-03-28 14:53:01+00:00
+Kharkivska oblast,,,oblast,2022-03-28 13:59:38+00:00,2022-03-28 14:47:06+00:00
+Kyivska oblast,Boryspilskyi raion,m. Boryspil ta Boryspilska terytorialna hromada,hromada,2022-03-28 13:59:44+00:00,2022-03-28 14:53:06+00:00
+Kyivska oblast,Brovarskyi raion,m. Brovary ta Brovarska terytorialna hromada,hromada,2022-03-28 13:59:53+00:00,2022-03-28 14:52:48+00:00
+Khersonska oblast,Khersonskyi raion,Oleshkivska terytorialna hromada,hromada,2022-03-28 14:00:11+00:00,2022-03-28 14:02:01+00:00
+Khersonska oblast,Khersonskyi raion,Oleshkivska terytorialna hromada,hromada,2022-03-28 14:02:05+00:00,2022-03-28 14:03:38+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-28 14:02:19+00:00,2022-03-28 14:45:00+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-28 14:34:33+00:00,2022-03-28 15:23:16+00:00
+Kyiv City,,,oblast,2022-03-28 17:22:42+00:00,2022-03-28 18:45:52+00:00
+Zhytomyrska oblast,,,oblast,2022-03-28 17:22:51+00:00,2022-03-28 20:39:57+00:00
+Rivnenska oblast,,,oblast,2022-03-28 17:31:28+00:00,2022-03-28 18:29:51+00:00
+Chernihivska oblast,,,oblast,2022-03-28 17:31:58+00:00,2022-03-29 06:02:21+00:00
+Ternopilska oblast,,,oblast,2022-03-28 17:34:58+00:00,2022-03-28 18:35:17+00:00
+Volynska oblast,,,oblast,2022-03-28 17:37:29+00:00,2022-03-28 18:32:01+00:00
+Kyivska oblast,,,oblast,2022-03-28 17:37:46+00:00,2022-03-28 18:57:13+00:00
+Lvivska oblast,,,oblast,2022-03-28 18:38:30+00:00,2022-03-28 19:10:24+00:00
+Rivnenska oblast,,,oblast,2022-03-28 19:08:29+00:00,2022-03-28 19:20:26+00:00
+Volynska oblast,,,oblast,2022-03-28 19:10:26+00:00,2022-03-28 19:21:37+00:00
+Ternopilska oblast,,,oblast,2022-03-28 19:11:50+00:00,2022-03-28 19:26:18+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-28 19:38:37+00:00,2022-03-28 20:03:21+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-28 19:39:16+00:00,2022-03-28 20:03:31+00:00
+Zaporizka oblast,,,oblast,2022-03-28 19:39:38+00:00,2022-03-28 20:04:50+00:00
+Cherkaska oblast,Umanskyi raion,Umanska terytorialna hromada,hromada,2022-03-28 20:56:46+00:00,2022-03-28 21:01:19+00:00
+Zaporizka oblast,,,oblast,2022-03-28 20:56:58+00:00,2022-03-28 22:28:55+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-28 20:56:59+00:00,2022-03-28 21:01:12+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-28 20:56:59+00:00,2022-03-28 21:01:12+00:00
+Kyiv City,,,oblast,2022-03-28 20:57:01+00:00,2022-03-28 21:00:59+00:00
+Zhytomyrska oblast,,,oblast,2022-03-28 20:58:06+00:00,2022-03-28 21:01:10+00:00
+Vinnytska oblast,,,oblast,2022-03-28 20:58:15+00:00,2022-03-28 21:34:27+00:00
+Cherkaska oblast,,,oblast,2022-03-28 20:58:20+00:00,2022-03-28 21:01:23+00:00
+Mykolaivska oblast,,,oblast,2022-03-28 20:58:44+00:00,2022-03-28 22:30:18+00:00
+Kirovohradska oblast,,,oblast,2022-03-28 20:58:45+00:00,2022-03-28 21:04:07+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-28 20:59:01+00:00,2022-03-28 22:30:11+00:00
+Odeska oblast,,,oblast,2022-03-28 20:59:10+00:00,2022-03-28 21:23:39+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-28 22:13:04+00:00,2022-03-28 22:27:50+00:00
+Donetska oblast,Pokrovskyi raion,Pokrovska terytorialna hromada,hromada,2022-03-28 23:55:03+00:00,2022-03-29 00:39:36+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-29 00:04:23+00:00,2022-03-29 01:02:55+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-29 00:04:35+00:00,2022-03-29 01:03:29+00:00
+Kharkivska oblast,,,oblast,2022-03-29 00:05:01+00:00,2022-03-29 01:12:54+00:00
+Donetska oblast,Pokrovskyi raion,Dobropilska terytorialna hromada,hromada,2022-03-29 00:06:33+00:00,2022-03-29 00:43:37+00:00
+Zaporizka oblast,,,oblast,2022-03-29 00:06:36+00:00,2022-03-29 00:59:38+00:00
+Odeska oblast,,,oblast,2022-03-29 00:10:48+00:00,2022-03-29 01:16:18+00:00
+Sumska oblast,,,oblast,2022-03-29 00:11:23+00:00,2022-03-29 01:38:08+00:00
+Mykolaivska oblast,,,oblast,2022-03-29 00:11:50+00:00,2022-03-29 01:15:10+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-29 00:12:20+00:00,2022-03-29 01:15:00+00:00
+Vinnytska oblast,,,oblast,2022-03-29 00:29:31+00:00,2022-03-29 01:12:14+00:00
+Cherkaska oblast,,,oblast,2022-03-29 00:30:25+00:00,2022-03-29 01:14:17+00:00
+Kirovohradska oblast,,,oblast,2022-03-29 00:30:28+00:00,2022-03-29 00:59:01+00:00
+Volynska oblast,,,oblast,2022-03-29 00:41:36+00:00,2022-03-29 01:48:05+00:00
+Kyiv City,,,oblast,2022-03-29 00:42:30+00:00,2022-03-29 01:30:09+00:00
+Poltavska oblast,,,oblast,2022-03-29 00:42:46+00:00,2022-03-29 01:31:06+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 00:43:05+00:00,2022-03-29 01:33:16+00:00
+Khmelnytska oblast,,,oblast,2022-03-29 00:43:20+00:00,2022-03-29 01:47:09+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-29 00:43:31+00:00,2022-03-29 01:47:12+00:00
+Rivnenska oblast,,,oblast,2022-03-29 00:43:42+00:00,2022-03-29 01:46:26+00:00
+Zakarpatska oblast,,,oblast,2022-03-29 00:44:54+00:00,2022-03-29 01:49:01+00:00
+Lvivska oblast,,,oblast,2022-03-29 00:45:55+00:00,2022-03-29 01:49:33+00:00
+Chernivetska oblast,,,oblast,2022-03-29 00:46:07+00:00,2022-03-29 01:48:59+00:00
+Ternopilska oblast,,,oblast,2022-03-29 00:56:31+00:00,2022-03-29 01:53:14+00:00
+Kyivska oblast,,,oblast,2022-03-29 01:00:34+00:00,2022-03-29 01:40:35+00:00
+Kharkivska oblast,,,oblast,2022-03-29 01:56:58+00:00,2022-03-29 02:40:09+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-29 03:41:24+00:00,2022-03-29 05:22:37+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-29 04:09:26+00:00,2022-03-29 04:21:43+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-29 04:17:59+00:00,2022-03-29 04:24:23+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-29 04:28:50+00:00,2022-03-29 04:46:32+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-29 04:39:13+00:00,2022-03-29 04:48:54+00:00
+Kyiv City,,,oblast,2022-03-29 04:44:32+00:00,2022-03-29 05:40:31+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 04:45:10+00:00,2022-03-29 05:40:28+00:00
+Kyivska oblast,,,oblast,2022-03-29 04:51:12+00:00,2022-03-29 08:11:32+00:00
+Poltavska oblast,Poltavskyi raion,m. Poltava ta Poltavska terytorialna hromada,hromada,2022-03-29 05:30:55+00:00,2022-03-29 05:48:21+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-29 06:58:25+00:00,2022-03-29 08:08:05+00:00
+Donetska oblast,,,oblast,2022-03-29 07:15:26+00:00,2022-03-29 07:49:33+00:00
+Mykolaivska oblast,,,oblast,2022-03-29 07:21:13+00:00,2022-03-29 08:18:53+00:00
+Kyiv City,,,oblast,2022-03-29 08:03:55+00:00,2022-03-29 09:14:00+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 08:04:45+00:00,2022-03-29 09:15:57+00:00
+Chernihivska oblast,,,oblast,2022-03-29 08:05:22+00:00,2022-03-29 08:30:46+00:00
+Kyivska oblast,,,oblast,2022-03-29 08:11:42+00:00,2022-03-29 09:20:21+00:00
+Kharkivska oblast,,,oblast,2022-03-29 08:19:04+00:00,2022-03-29 09:02:21+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-29 08:22:18+00:00,2022-03-29 09:01:47+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-29 09:24:41+00:00,2022-03-29 10:30:47+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 09:53:12+00:00,2022-03-29 12:09:22+00:00
+Kyiv City,,,oblast,2022-03-29 09:55:30+00:00,2022-03-29 12:08:03+00:00
+Kyivska oblast,Buchanskyi raion,Makarivska terytorialna hromada,hromada,2022-03-29 09:55:46+00:00,2022-03-29 12:12:28+00:00
+Vinnytska oblast,,,oblast,2022-03-29 09:56:15+00:00,2022-03-29 10:29:18+00:00
+Volynska oblast,,,oblast,2022-03-29 09:57:53+00:00,2022-03-29 12:08:53+00:00
+Lvivska oblast,,,oblast,2022-03-29 09:58:01+00:00,2022-03-29 10:34:20+00:00
+Cherkaska oblast,,,oblast,2022-03-29 09:58:20+00:00,2022-03-29 10:31:21+00:00
+Poltavska oblast,Lubenskyi raion,m. Lubny ta Lubenska terytorialna hromada,hromada,2022-03-29 09:59:28+00:00,2022-03-29 10:35:38+00:00
+Rivnenska oblast,,,oblast,2022-03-29 09:59:33+00:00,2022-03-29 12:08:50+00:00
+Kirovohradska oblast,,,oblast,2022-03-29 09:59:44+00:00,2022-03-29 10:31:36+00:00
+Khmelnytska oblast,,,oblast,2022-03-29 09:59:46+00:00,2022-03-29 10:30:40+00:00
+Kyivska oblast,,,oblast,2022-03-29 10:00:23+00:00,2022-03-29 12:12:16+00:00
+Ternopilska oblast,,,oblast,2022-03-29 10:01:49+00:00,2022-03-29 12:11:22+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-29 10:02:49+00:00,2022-03-29 10:30:14+00:00
+Kharkivska oblast,,,oblast,2022-03-29 10:05:12+00:00,2022-03-29 10:32:11+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,,district,2022-03-29 10:07:42+00:00,2022-03-29 10:34:23+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-29 10:07:52+00:00,2022-03-29 10:33:34+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-29 10:08:00+00:00,2022-03-29 10:33:39+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-29 10:08:03+00:00,2022-03-29 10:33:45+00:00
+Kharkivska oblast,,,oblast,2022-03-29 10:55:31+00:00,2022-03-29 11:24:57+00:00
+Kharkivska oblast,,,oblast,2022-03-29 12:18:32+00:00,2022-03-29 12:30:26+00:00
+Kyiv City,,,oblast,2022-03-29 12:21:23+00:00,2022-03-29 14:45:31+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 12:21:39+00:00,2022-03-29 14:34:37+00:00
+Volynska oblast,,,oblast,2022-03-29 12:22:47+00:00,2022-03-29 14:37:38+00:00
+Rivnenska oblast,,,oblast,2022-03-29 12:24:10+00:00,2022-03-29 14:36:18+00:00
+Kyivska oblast,,,oblast,2022-03-29 12:25:23+00:00,2022-03-29 14:38:05+00:00
+Ternopilska oblast,,,oblast,2022-03-29 12:27:59+00:00,2022-03-29 14:50:59+00:00
+Cherkaska oblast,,,oblast,2022-03-29 12:58:05+00:00,2022-03-29 14:34:02+00:00
+Kirovohradska oblast,,,oblast,2022-03-29 12:58:26+00:00,2022-03-29 14:34:49+00:00
+Vinnytska oblast,,,oblast,2022-03-29 12:59:59+00:00,2022-03-29 14:30:51+00:00
+Khmelnytska oblast,,,oblast,2022-03-29 13:01:00+00:00,2022-03-29 14:35:38+00:00
+Poltavska oblast,,,oblast,2022-03-29 13:02:19+00:00,2022-03-29 14:28:15+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-29 13:33:30+00:00,2022-03-29 13:49:00+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-29 13:36:08+00:00,2022-03-29 13:49:06+00:00
+Kharkivska oblast,,,oblast,2022-03-29 13:38:46+00:00,2022-03-29 13:46:03+00:00
+Sumska oblast,,,oblast,2022-03-29 13:41:34+00:00,2022-03-29 14:41:35+00:00
+Kharkivska oblast,,,oblast,2022-03-29 13:54:49+00:00,2022-03-29 14:27:35+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-29 13:55:37+00:00,2022-03-29 14:49:05+00:00
+Lvivska oblast,,,oblast,2022-03-29 13:57:15+00:00,2022-03-29 14:49:23+00:00
+Chernivetska oblast,,,oblast,2022-03-29 13:58:31+00:00,2022-03-29 14:48:40+00:00
+Mykolaivska oblast,Pervomaiskyi raion,m. Pervomaisk ta Pervomaiska terytorialna hromada,hromada,2022-03-29 14:22:12+00:00,2022-03-29 14:42:53+00:00
+Mykolaivska oblast,Mykolaivskyi raion,Pervomaiska terytorialna hromada,hromada,2022-03-29 14:22:12+00:00,2022-03-29 14:42:53+00:00
+Mykolaivska oblast,Voznesenskyi raion,m. Voznesensk ta Voznesenska terytorialna hromada,hromada,2022-03-29 14:22:24+00:00,2022-03-29 14:42:42+00:00
+Cherkaska oblast,Zolotoniskyi raion,Voznesenska terytorialna hromada,hromada,2022-03-29 14:22:24+00:00,2022-03-29 14:42:42+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-29 14:22:39+00:00,2022-03-29 14:43:01+00:00
+Zaporizka oblast,,,oblast,2022-03-29 14:48:11+00:00,2022-03-29 15:12:19+00:00
+Kharkivska oblast,,,oblast,2022-03-29 17:08:58+00:00,2022-03-29 17:39:52+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-29 17:16:26+00:00,2022-03-29 17:40:03+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-29 17:17:06+00:00,2022-03-29 17:40:10+00:00
+Poltavska oblast,,,oblast,2022-03-29 17:18:44+00:00,2022-03-29 21:12:11+00:00
+Zaporizka oblast,,,oblast,2022-03-29 17:19:49+00:00,2022-03-29 17:44:44+00:00
+Vinnytska oblast,,,oblast,2022-03-29 17:19:54+00:00,2022-03-29 18:15:17+00:00
+Kirovohradska oblast,,,oblast,2022-03-29 17:23:57+00:00,2022-03-29 18:09:34+00:00
+Cherkaska oblast,,,oblast,2022-03-29 17:24:00+00:00,2022-03-29 18:15:26+00:00
+Kyiv City,,,oblast,2022-03-29 17:24:55+00:00,2022-03-29 18:08:49+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 17:26:19+00:00,2022-03-29 18:09:02+00:00
+Odeska oblast,,,oblast,2022-03-29 17:28:21+00:00,2022-03-29 17:47:02+00:00
+Kyivska oblast,,,oblast,2022-03-29 17:29:06+00:00,2022-03-29 18:12:42+00:00
+Khmelnytska oblast,,,oblast,2022-03-29 17:35:42+00:00,2022-03-29 18:19:25+00:00
+Volynska oblast,,,oblast,2022-03-29 17:35:48+00:00,2022-03-29 18:12:40+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-29 17:36:06+00:00,2022-03-29 18:19:16+00:00
+Rivnenska oblast,,,oblast,2022-03-29 17:36:26+00:00,2022-03-29 18:11:41+00:00
+Zakarpatska oblast,,,oblast,2022-03-29 17:37:22+00:00,2022-03-29 18:20:48+00:00
+Chernivetska oblast,,,oblast,2022-03-29 17:37:28+00:00,2022-03-29 18:24:12+00:00
+Lvivska oblast,,,oblast,2022-03-29 17:38:19+00:00,2022-03-29 18:20:37+00:00
+Ternopilska oblast,,,oblast,2022-03-29 17:39:51+00:00,2022-03-29 18:20:07+00:00
+Sumska oblast,Shostkynskyi raion,,district,2022-03-29 19:14:53+00:00,2022-03-29 21:27:01+00:00
+Vinnytska oblast,,,oblast,2022-03-29 20:04:19+00:00,2022-03-29 21:08:02+00:00
+Kyiv City,,,oblast,2022-03-29 20:05:30+00:00,2022-03-29 21:13:21+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 20:07:14+00:00,2022-03-29 21:12:51+00:00
+Kirovohradska oblast,,,oblast,2022-03-29 20:08:13+00:00,2022-03-29 21:13:35+00:00
+Cherkaska oblast,,,oblast,2022-03-29 20:08:23+00:00,2022-03-29 21:13:24+00:00
+Mykolaivska oblast,,,oblast,2022-03-29 20:09:00+00:00,2022-03-29 21:12:28+00:00
+Kharkivska oblast,,,oblast,2022-03-29 20:09:29+00:00,2022-03-29 21:10:46+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-29 20:10:32+00:00,2022-03-29 21:13:04+00:00
+Zaporizka oblast,,,oblast,2022-03-29 20:10:33+00:00,2022-03-29 21:13:08+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-29 20:10:44+00:00,2022-03-29 21:12:51+00:00
+Odeska oblast,,,oblast,2022-03-29 20:11:03+00:00,2022-03-29 21:12:52+00:00
+Kyivska oblast,,,oblast,2022-03-29 20:11:28+00:00,2022-03-29 20:36:56+00:00
+Khmelnytska oblast,,,oblast,2022-03-29 20:11:40+00:00,2022-03-29 21:15:40+00:00
+Chernivetska oblast,,,oblast,2022-03-29 20:15:36+00:00,2022-03-29 21:18:37+00:00
+Volynska oblast,,,oblast,2022-03-29 20:15:48+00:00,2022-03-29 21:16:15+00:00
+Rivnenska oblast,,,oblast,2022-03-29 20:15:52+00:00,2022-03-29 21:13:50+00:00
+Sumska oblast,,,oblast,2022-03-29 20:15:54+00:00,2022-03-29 21:27:07+00:00
+Ternopilska oblast,,,oblast,2022-03-29 20:20:46+00:00,2022-03-29 21:24:30+00:00
+Lvivska oblast,,,oblast,2022-03-29 20:21:55+00:00,2022-03-29 21:17:46+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-29 20:30:30+00:00,2022-03-29 21:15:48+00:00
+Zakarpatska oblast,,,oblast,2022-03-29 20:34:23+00:00,2022-03-29 21:17:41+00:00
+Kyivska oblast,,,oblast,2022-03-29 20:37:06+00:00,2022-03-29 21:16:24+00:00
+Kyiv City,,,oblast,2022-03-29 22:04:00+00:00,2022-03-29 22:29:48+00:00
+Kyivska oblast,,,oblast,2022-03-29 22:08:39+00:00,2022-03-29 22:34:13+00:00
+Zhytomyrska oblast,,,oblast,2022-03-29 22:09:58+00:00,2022-03-29 22:30:32+00:00
+Kharkivska oblast,,,oblast,2022-03-30 00:11:29+00:00,2022-03-30 00:21:49+00:00
+Donetska oblast,Bakhmutskyi raion,Bakhmutska terytorialna hromada,hromada,2022-03-30 01:05:06+00:00,2022-03-30 01:09:33+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 01:07:01+00:00,2022-03-30 03:13:18+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-30 01:08:57+00:00,2022-03-30 03:13:27+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-30 01:09:27+00:00,2022-03-30 03:13:24+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-30 01:54:09+00:00,2022-03-30 03:06:02+00:00
+Kharkivska oblast,,,oblast,2022-03-30 02:00:15+00:00,2022-03-30 03:06:09+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-30 02:00:59+00:00,2022-03-30 03:05:50+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-30 02:01:36+00:00,2022-03-30 03:06:13+00:00
+Poltavska oblast,,,oblast,2022-03-30 02:02:19+00:00,2022-03-30 03:06:51+00:00
+Kyiv City,,,oblast,2022-03-30 02:14:38+00:00,2022-03-30 03:33:31+00:00
+Zhytomyrska oblast,,,oblast,2022-03-30 02:15:04+00:00,2022-03-30 03:34:34+00:00
+Kyivska oblast,,,oblast,2022-03-30 02:21:47+00:00,2022-03-30 03:37:13+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 03:22:05+00:00,2022-03-30 04:09:41+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-30 03:27:01+00:00,2022-03-30 04:09:48+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-30 03:31:59+00:00,2022-03-30 04:21:42+00:00
+Kyiv City,,,oblast,2022-03-30 03:56:02+00:00,2022-03-30 04:35:10+00:00
+Zhytomyrska oblast,,,oblast,2022-03-30 03:56:47+00:00,2022-03-30 04:35:34+00:00
+Kyivska oblast,,,oblast,2022-03-30 03:58:34+00:00,2022-03-30 04:39:18+00:00
+Kyiv City,,,oblast,2022-03-30 05:05:18+00:00,2022-03-30 05:37:32+00:00
+Zhytomyrska oblast,,,oblast,2022-03-30 05:05:42+00:00,2022-03-30 05:38:13+00:00
+Kyivska oblast,,,oblast,2022-03-30 05:09:25+00:00,2022-03-30 05:41:49+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 05:30:10+00:00,2022-03-30 06:03:19+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-30 05:30:16+00:00,2022-03-30 06:04:13+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-30 07:15:20+00:00,2022-03-30 09:54:38+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 08:03:41+00:00,2022-03-30 08:59:46+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-30 08:03:52+00:00,2022-03-30 08:58:57+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-30 08:11:17+00:00,2022-03-30 09:01:18+00:00
+Vinnytska oblast,,,oblast,2022-03-30 08:23:13+00:00,2022-03-30 08:49:53+00:00
+Kharkivska oblast,,,oblast,2022-03-30 08:35:17+00:00,2022-03-30 09:18:43+00:00
+Kyiv City,,,oblast,2022-03-30 08:41:47+00:00,2022-03-30 08:53:38+00:00
+Zhytomyrska oblast,,,oblast,2022-03-30 08:42:17+00:00,2022-03-30 08:53:38+00:00
+Kyivska oblast,,,oblast,2022-03-30 08:46:21+00:00,2022-03-30 08:57:28+00:00
+Volynska oblast,,,oblast,2022-03-30 08:53:41+00:00,2022-03-30 09:08:28+00:00
+Rivnenska oblast,,,oblast,2022-03-30 08:53:46+00:00,2022-03-30 09:08:35+00:00
+Ternopilska oblast,,,oblast,2022-03-30 08:57:23+00:00,2022-03-30 09:11:41+00:00
+Lvivska oblast,,,oblast,2022-03-30 09:00:24+00:00,2022-03-30 09:30:26+00:00
+Chernihivska oblast,,,oblast,2022-03-30 09:38:26+00:00,2022-03-30 13:00:31+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-30 12:25:17+00:00,2022-03-30 13:26:29+00:00
+Zhytomyrska oblast,,,oblast,2022-03-30 12:53:25+00:00,2022-03-30 15:56:21+00:00
+Kyivska oblast,Buchanskyi raion,Makarivska terytorialna hromada,hromada,2022-03-30 12:56:28+00:00,2022-03-30 15:58:49+00:00
+Kharkivska oblast,,,oblast,2022-03-30 12:58:26+00:00,2022-03-30 13:07:09+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-30 13:09:07+00:00,2022-03-30 13:31:27+00:00
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2022-03-30 13:22:20+00:00,2022-03-30 13:55:01+00:00
+Zaporizka oblast,Zaporizkyi raion,,district,2022-03-30 13:22:29+00:00,2022-03-30 13:51:46+00:00
+Odeska oblast,,,oblast,2022-03-30 13:55:48+00:00,2022-03-30 14:22:30+00:00
+Mykolaivska oblast,,,oblast,2022-03-30 13:56:51+00:00,2022-03-30 15:02:06+00:00
+Zaporizka oblast,Zaporizkyi raion,,district,2022-03-30 14:00:25+00:00,2022-03-30 15:14:38+00:00
+Vinnytska oblast,,,oblast,2022-03-30 14:10:18+00:00,2022-03-30 15:11:48+00:00
+Khmelnytska oblast,,,oblast,2022-03-30 14:12:37+00:00,2022-03-30 15:14:04+00:00
+Kirovohradska oblast,,,oblast,2022-03-30 14:13:11+00:00,2022-03-30 15:14:33+00:00
+Zaporizka oblast,,,oblast,2022-03-30 14:13:13+00:00,2022-03-30 15:14:47+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-30 14:14:19+00:00,2022-03-30 15:15:58+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-30 14:15:20+00:00,2022-03-30 15:15:32+00:00
+Cherkaska oblast,,,oblast,2022-03-30 14:16:02+00:00,2022-03-30 15:14:20+00:00
+Lvivska oblast,,,oblast,2022-03-30 14:25:26+00:00,2022-03-30 15:18:52+00:00
+Kyiv City,,,oblast,2022-03-30 14:26:16+00:00,2022-03-30 15:58:03+00:00
+Rivnenska oblast,,,oblast,2022-03-30 14:26:48+00:00,2022-03-30 15:19:31+00:00
+Poltavska oblast,,,oblast,2022-03-30 14:27:11+00:00,2022-03-30 15:14:11+00:00
+Kharkivska oblast,,,oblast,2022-03-30 14:27:45+00:00,2022-03-30 15:13:33+00:00
+Volynska oblast,,,oblast,2022-03-30 14:27:46+00:00,2022-03-30 15:20:20+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-30 14:28:28+00:00,2022-03-30 15:17:26+00:00
+Ternopilska oblast,,,oblast,2022-03-30 14:28:56+00:00,2022-03-30 15:24:07+00:00
+Kyivska oblast,,,oblast,2022-03-30 14:32:15+00:00,2022-03-30 15:58:47+00:00
+Sumska oblast,,,oblast,2022-03-30 14:32:53+00:00,2022-03-30 15:31:44+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-30 14:35:23+00:00,2022-03-30 15:15:50+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 14:37:20+00:00,2022-03-30 15:17:48+00:00
+Kharkivska oblast,Iziumskyi raion,,district,2022-03-30 15:20:36+00:00,2022-03-30 16:09:40+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 15:22:02+00:00,2022-03-30 15:53:10+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,m. Pershotravensk ta Pershotravenska terytorialna hromada,hromada,2022-03-30 15:22:56+00:00,2022-03-30 16:10:11+00:00
+Kharkivska oblast,,,oblast,2022-03-30 15:24:49+00:00,2022-03-30 16:53:07+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-30 15:24:54+00:00,2022-03-30 15:52:06+00:00
+Dnipropetrovska oblast,Dniprovskyi raion,m. Dnipro ta Dniprovska terytorialna hromada,hromada,2022-03-30 17:11:51+00:00,2022-03-30 18:42:19+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-30 17:19:56+00:00,2022-03-30 18:41:05+00:00
+Poltavska oblast,,,oblast,2022-03-30 17:45:29+00:00,2022-03-30 18:44:57+00:00
+Chernihivska oblast,,,oblast,2022-03-30 17:47:14+00:00,2022-03-31 20:42:30+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 17:56:47+00:00,2022-03-30 18:05:57+00:00
+Kyiv City,,,oblast,2022-03-30 19:17:16+00:00,2022-03-30 20:33:40+00:00
+Kyivska oblast,,,oblast,2022-03-30 19:21:39+00:00,2022-03-30 20:37:34+00:00
+Zhytomyrska oblast,,,oblast,2022-03-30 19:28:02+00:00,2022-03-30 20:34:36+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-30 23:02:55+00:00,2022-03-30 23:26:08+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-31 03:46:15+00:00,2022-03-31 04:12:46+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-31 03:53:09+00:00,2022-03-31 05:52:50+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-31 03:53:14+00:00,2022-03-31 04:12:37+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-31 06:18:26+00:00,2022-03-31 06:25:36+00:00
+Dnipropetrovska oblast,Synelnykivskyi raion,Slovianska terytorialna hromada,hromada,2022-03-31 06:18:34+00:00,2022-03-31 06:25:39+00:00
+Donetska oblast,Kramatorskyi raion,m. Sloviansk ta Slovianska terytorialna hromada,hromada,2022-03-31 06:18:34+00:00,2022-03-31 06:25:39+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-31 06:20:36+00:00,2022-03-31 06:51:54+00:00
+Poltavska oblast,,,oblast,2022-03-31 06:20:54+00:00,2022-03-31 06:51:44+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-31 06:21:44+00:00,2022-03-31 06:52:21+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-31 06:38:28+00:00,2022-03-31 06:54:37+00:00
+Donetska oblast,Kramatorskyi raion,m. Kramatorsk ta Kramatorska terytorialna hromada,hromada,2022-03-31 06:41:57+00:00,2022-03-31 06:54:47+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-31 06:43:01+00:00,2022-03-31 06:54:22+00:00
+Kharkivska oblast,,,oblast,2022-03-31 06:47:37+00:00,2022-03-31 07:24:03+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-31 06:48:14+00:00,2022-03-31 08:04:27+00:00
+Odeska oblast,Rozdilnianskyi raion,Lymanska terytorialna hromada,hromada,2022-03-31 06:58:58+00:00,2022-03-31 07:06:55+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-31 07:02:48+00:00,2022-03-31 07:22:54+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-31 07:03:34+00:00,2022-03-31 07:23:26+00:00
+Mykolaivska oblast,,,oblast,2022-03-31 07:18:20+00:00,2022-03-31 08:03:32+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-31 07:19:36+00:00,2022-03-31 08:03:41+00:00
+Odeska oblast,,,oblast,2022-03-31 07:21:24+00:00,2022-03-31 08:09:43+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-31 07:30:38+00:00,2022-03-31 08:18:17+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-31 07:34:00+00:00,2022-03-31 08:19:00+00:00
+Volynska oblast,,,oblast,2022-03-31 09:24:54+00:00,2022-03-31 09:53:16+00:00
+Rivnenska oblast,,,oblast,2022-03-31 09:25:48+00:00,2022-03-31 09:51:49+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-31 09:32:26+00:00,2022-03-31 10:02:27+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-31 09:33:41+00:00,2022-03-31 10:02:47+00:00
+Zaporizka oblast,,,oblast,2022-03-31 09:34:18+00:00,2022-03-31 10:04:56+00:00
+Odeska oblast,,,oblast,2022-03-31 09:37:21+00:00,2022-03-31 10:04:46+00:00
+Poltavska oblast,,,oblast,2022-03-31 09:37:23+00:00,2022-03-31 10:03:31+00:00
+Kharkivska oblast,,,oblast,2022-03-31 09:39:10+00:00,2022-03-31 10:03:10+00:00
+Mykolaivska oblast,,,oblast,2022-03-31 09:40:21+00:00,2022-03-31 11:52:15+00:00
+Sumska oblast,,,oblast,2022-03-31 09:40:30+00:00,2022-03-31 10:14:38+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-31 09:40:43+00:00,2022-03-31 11:52:37+00:00
+Donetska oblast,,,oblast,2022-03-31 09:41:40+00:00,2022-03-31 10:07:43+00:00
+Khmelnytska oblast,Khmelnytskyi raion,m. Starokostiantyniv ta Starokostiantynivska terytorialna hromada,hromada,2022-03-31 09:47:05+00:00,2022-03-31 11:24:07+00:00
+Zhytomyrska oblast,,,oblast,2022-03-31 10:01:59+00:00,2022-03-31 11:47:05+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-03-31 11:27:49+00:00,2022-03-31 14:26:56+00:00
+Donetska oblast,,,oblast,2022-03-31 11:31:09+00:00,2022-03-31 12:13:32+00:00
+Mykolaivska oblast,,,oblast,2022-03-31 12:55:51+00:00,2022-03-31 14:23:15+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-31 12:56:02+00:00,2022-03-31 14:23:39+00:00
+Vinnytska oblast,,,oblast,2022-03-31 13:01:32+00:00,2022-03-31 13:58:09+00:00
+Zaporizka oblast,,,oblast,2022-03-31 13:03:41+00:00,2022-03-31 14:32:50+00:00
+Sumska oblast,,,oblast,2022-03-31 13:10:11+00:00,2022-03-31 13:49:46+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-31 13:10:27+00:00,2022-03-31 14:29:03+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-31 13:11:36+00:00,2022-03-31 14:30:19+00:00
+Poltavska oblast,,,oblast,2022-03-31 13:14:25+00:00,2022-03-31 14:30:12+00:00
+Donetska oblast,,,oblast,2022-03-31 13:15:07+00:00,2022-03-31 14:26:50+00:00
+Kharkivska oblast,,,oblast,2022-03-31 13:40:54+00:00,2022-03-31 13:41:25+00:00
+Kyiv City,,,oblast,2022-03-31 13:42:06+00:00,2022-03-31 14:37:23+00:00
+Kyivska oblast,,,oblast,2022-03-31 13:45:59+00:00,2022-03-31 14:42:29+00:00
+Kharkivska oblast,,,oblast,2022-03-31 14:29:55+00:00,2022-03-31 14:44:15+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-31 14:49:06+00:00,2022-03-31 15:25:11+00:00
+Zaporizka oblast,,,oblast,2022-03-31 14:49:48+00:00,2022-03-31 15:28:14+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-31 14:50:30+00:00,2022-03-31 15:26:01+00:00
+Odeska oblast,,,oblast,2022-03-31 14:52:40+00:00,2022-03-31 15:30:41+00:00
+Mykolaivska oblast,,,oblast,2022-03-31 14:54:17+00:00,2022-03-31 16:10:50+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-31 14:54:43+00:00,2022-03-31 16:10:58+00:00
+Poltavska oblast,,,oblast,2022-03-31 15:45:40+00:00,2022-03-31 16:08:22+00:00
+Kirovohradska oblast,,,oblast,2022-03-31 15:46:30+00:00,2022-03-31 16:08:55+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-31 16:16:57+00:00,2022-03-31 16:55:45+00:00
+Kyiv City,,,oblast,2022-03-31 17:35:18+00:00,2022-03-31 18:17:12+00:00
+Zhytomyrska oblast,,,oblast,2022-03-31 17:35:45+00:00,2022-03-31 18:18:02+00:00
+Kyivska oblast,,,oblast,2022-03-31 17:39:55+00:00,2022-03-31 18:23:11+00:00
+Odeska oblast,,,oblast,2022-03-31 18:51:04+00:00,2022-03-31 19:18:13+00:00
+Vinnytska oblast,,,oblast,2022-03-31 18:52:44+00:00,2022-03-31 19:25:27+00:00
+Mykolaivska oblast,,,oblast,2022-03-31 18:53:20+00:00,2022-04-01 03:19:08+00:00
+Mykolaivska oblast,Mykolaivskyi raion,m. Mykolaiv ta Mykolaivska terytorialna hromada,hromada,2022-03-31 18:53:44+00:00,2022-04-01 03:19:21+00:00
+Kyiv City,,,oblast,2022-03-31 18:53:57+00:00,2022-03-31 20:03:54+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-31 18:54:37+00:00,2022-03-31 19:33:37+00:00
+Kharkivska oblast,,,oblast,2022-03-31 18:54:52+00:00,2022-03-31 19:28:32+00:00
+Poltavska oblast,,,oblast,2022-03-31 18:54:59+00:00,2022-03-31 20:05:39+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-31 18:55:16+00:00,2022-03-31 19:33:56+00:00
+Zhytomyrska oblast,,,oblast,2022-03-31 18:55:41+00:00,2022-03-31 20:04:48+00:00
+Cherkaska oblast,,,oblast,2022-03-31 18:55:51+00:00,2022-03-31 20:10:19+00:00
+Kirovohradska oblast,,,oblast,2022-03-31 18:55:53+00:00,2022-03-31 20:05:17+00:00
+Zaporizka oblast,,,oblast,2022-03-31 18:56:08+00:00,2022-03-31 19:34:36+00:00
+Kyivska oblast,,,oblast,2022-03-31 18:59:05+00:00,2022-03-31 22:19:14+00:00
+Sumska oblast,,,oblast,2022-03-31 19:00:12+00:00,2022-03-31 20:08:38+00:00
+Donetska oblast,,,oblast,2022-03-31 19:03:05+00:00,2022-03-31 20:09:22+00:00
+Ivano-Frankivska oblast,,,oblast,2022-03-31 19:16:07+00:00,2022-03-31 20:15:16+00:00
+Khmelnytska oblast,,,oblast,2022-03-31 19:17:22+00:00,2022-03-31 20:09:19+00:00
+Rivnenska oblast,,,oblast,2022-03-31 19:17:51+00:00,2022-03-31 20:09:41+00:00
+Zakarpatska oblast,,,oblast,2022-03-31 19:18:24+00:00,2022-03-31 20:10:15+00:00
+Volynska oblast,,,oblast,2022-03-31 19:18:42+00:00,2022-03-31 20:12:24+00:00
+Lvivska oblast,,,oblast,2022-03-31 19:18:51+00:00,2022-03-31 20:17:42+00:00
+Chernivetska oblast,,,oblast,2022-03-31 19:18:56+00:00,2022-03-31 20:10:57+00:00
+Ternopilska oblast,,,oblast,2022-03-31 19:22:59+00:00,2022-03-31 20:15:40+00:00
+Vinnytska oblast,,,oblast,2022-03-31 19:36:27+00:00,2022-03-31 19:56:07+00:00
+Volynska oblast,,,oblast,2022-03-31 20:14:28+00:00,2022-03-31 20:16:01+00:00
+Kyiv City,,,oblast,2022-03-31 21:31:42+00:00,2022-03-31 22:14:41+00:00
+Zhytomyrska oblast,,,oblast,2022-03-31 21:32:50+00:00,2022-03-31 22:16:11+00:00
+Kirovohradska oblast,,,oblast,2022-03-31 21:33:52+00:00,2022-03-31 22:15:21+00:00
+Zaporizka oblast,,,oblast,2022-03-31 21:34:27+00:00,2022-03-31 22:07:53+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-03-31 21:35:51+00:00,2022-03-31 21:49:43+00:00
+Sumska oblast,,,oblast,2022-03-31 21:36:07+00:00,2022-03-31 21:58:26+00:00
+Donetska oblast,Kramatorskyi raion,Cherkaska terytorialna hromada,hromada,2022-03-31 21:38:00+00:00,2022-03-31 22:16:32+00:00
+Cherkaska oblast,Cherkaskyi raion,m. Cherkasy ta Cherkaska terytorialna hromada,hromada,2022-03-31 21:38:00+00:00,2022-03-31 22:16:32+00:00
+Cherkaska oblast,,,oblast,2022-03-31 21:38:04+00:00,2022-03-31 22:16:36+00:00
+Chernihivska oblast,,,oblast,2022-03-31 21:39:22+00:00,2022-04-01 02:00:41+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-03-31 21:39:56+00:00,2022-03-31 21:49:38+00:00
+Vinnytska oblast,,,oblast,2022-03-31 21:42:28+00:00,2022-03-31 22:12:23+00:00
+Poltavska oblast,Kremenchutskyi raion,m. Kremenchuk ta Kremenchutska terytorialna hromada,hromada,2022-03-31 21:42:42+00:00,2022-03-31 22:16:56+00:00
+Dnipropetrovska oblast,,,oblast,2022-03-31 21:43:16+00:00,2022-03-31 22:03:55+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-03-31 21:44:09+00:00,2022-03-31 22:04:29+00:00
+Odeska oblast,,,oblast,2022-03-31 21:48:38+00:00,2022-03-31 22:05:43+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-04-01 02:31:46+00:00,2022-04-01 02:41:40+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-04-01 02:34:38+00:00,2022-04-01 03:01:18+00:00
+Kharkivska oblast,,,oblast,2022-04-01 05:43:40+00:00,2022-04-01 06:07:00+00:00
+Kharkivska oblast,,,oblast,2022-04-01 10:14:10+00:00,2022-04-01 10:38:32+00:00
+Donetska oblast,Pokrovskyi raion,,district,2022-04-01 12:07:51+00:00,2022-04-01 13:13:13+00:00
+Donetska oblast,Kramatorskyi raion,,district,2022-04-01 12:09:40+00:00,2022-04-01 12:19:09+00:00
+Donetska oblast,Bakhmutskyi raion,,district,2022-04-01 12:10:06+00:00,2022-04-01 12:51:49+00:00
+Vinnytska oblast,,,oblast,2022-04-01 12:22:53+00:00,2022-04-01 13:00:05+00:00
+Cherkaska oblast,,,oblast,2022-04-01 12:25:01+00:00,2022-04-01 12:50:23+00:00
+Kirovohradska oblast,,,oblast,2022-04-01 12:25:58+00:00,2022-04-01 12:50:43+00:00
+Zaporizka oblast,,,oblast,2022-04-01 12:26:12+00:00,2022-04-01 12:52:03+00:00
+Dnipropetrovska oblast,,,oblast,2022-04-01 12:26:44+00:00,2022-04-01 13:16:07+00:00
+Dnipropetrovska oblast,Kryvorizkyi raion,m. Kryvyi Rih ta Kryvorizka terytorialna hromada,hromada,2022-04-01 12:27:38+00:00,2022-04-01 13:18:49+00:00
+Poltavska oblast,,,oblast,2022-04-01 12:50:35+00:00,2022-04-01 13:08:59+00:00
+Kharkivska oblast,,,oblast,2022-04-01 12:50:35+00:00,2022-04-01 13:09:21+00:00
+Kirovohradska oblast,,,oblast,2022-04-01 12:55:05+00:00,2022-04-01 13:09:56+00:00
+Cherkaska oblast,,,oblast,2022-04-01 12:55:11+00:00,2022-04-01 13:09:16+00:00
+Zaporizka oblast,,,oblast,2022-04-01 12:57:23+00:00,2022-04-01 13:16:49+00:00
+Vinnytska oblast,,,oblast,2022-04-01 16:35:42+00:00,2022-04-01 17:03:32+00:00
+Kyiv City,,,oblast,2022-04-01 16:35:53+00:00,2022-04-01 17:04:19+00:00
+Zhytomyrska oblast,,,oblast,2022-04-01 16:36:39+00:00,2022-04-01 17:05:06+00:00
+Cherkaska oblast,,,oblast,2022-04-01 16:36:50+00:00,2022-04-01 17:05:34+00:00
+Kharkivska oblast,,,oblast,2022-04-01 16:38:21+00:00,2022-04-01 17:30:45+00:00
+Kyivska oblast,,,oblast,2022-04-01 16:38:25+00:00,2022-04-01 17:06:20+00:00
+Kirovohradska oblast,,,oblast,2022-04-01 16:38:41+00:00,2022-04-01 17:05:48+00:00
+Odeska oblast,,,oblast,2022-04-01 16:39:18+00:00,2022-04-01 17:10:52+00:00
+Chernihivska oblast,,,oblast,2022-04-01 16:45:20+00:00,2022-04-01 17:09:01+00:00
+Lvivska oblast,,,oblast,2022-04-01 16:59:16+00:00,2022-04-01 17:28:05+00:00
+Rivnenska oblast,,,oblast,2022-04-01 16:59:24+00:00,2022-04-01 17:23:57+00:00
+Ivano-Frankivska oblast,,,oblast,2022-04-01 16:59:25+00:00,2022-04-01 17:25:48+00:00
+Khmelnytska oblast,,,oblast,2022-04-01 17:00:22+00:00,2022-04-01 17:25:53+00:00
+Volynska oblast,,,oblast,2022-04-01 17:00:34+00:00,2022-04-01 17:25:14+00:00
+Ternopilska oblast,,,oblast,2022-04-01 17:03:36+00:00,2022-04-01 17:29:30+00:00
+Zakarpatska oblast,,,oblast,2022-04-01 17:08:55+00:00,2022-04-01 17:27:11+00:00
+Chernivetska oblast,,,oblast,2022-04-01 17:09:01+00:00,2022-04-01 17:31:28+00:00

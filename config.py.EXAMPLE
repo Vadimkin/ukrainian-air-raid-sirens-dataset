@@ -1,5 +1,3 @@
 # From https://my.telegram.org/apps
 API_ID = 12345
 API_HASH = 'FILL_ME_IN'
-
-CHANNEL_NAME = 'UkraineAlarmSignal'
