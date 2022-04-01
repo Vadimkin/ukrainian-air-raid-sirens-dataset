@@ -1,0 +1,147 @@
+Vinnytska oblast
+  Vinnytskyi raion
+  Mohyliv-Podilskyi raion
+  Zhmerynskyi raion
+  Haisynskyi raion
+  Tulchynskyi raion
+  Khmilnytskyi raion
+Volynska oblast
+  Lutskyi raion
+  Kovelskyi raion
+  Volodymyr-Volynskyi raion
+  Kamin-Kashyrskyi raion
+Dnipropetrovska oblast
+  Kryvorizkyi raion
+  Pavlohradskyi raion
+  Kamianskyi raion
+  Synelnykivskyi raion
+  Novomoskovskyi raion
+  Dniprovskyi raion
+  Nikopolskyi raion
+Donetska oblast
+  Pokrovskyi raion
+  Kramatorskyi raion
+  Bakhmutskyi raion
+  Volnovaskyi raion
+  Mariupolskyi raion
+  Donetskyi raion
+  Kalmiuskyi raion
+  Horlivskyi raion
+Zhytomyrska oblast
+  Berdychivskyi raion
+  Zhytomyrskyi raion
+  Novohrad-Volynskyi raion
+  Korostenskyi raion
+Zakarpatska oblast
+  Uzhhorodskyi raion
+  Berehivskyi raion
+  Tiachivskyi raion
+  Khustskyi raion
+  Rakhivskyi raion
+  Mukachivskyi raion
+Zaporizka oblast
+  Berdianskyi raion
+  Zaporizkyi raion
+  Polohivskyi raion
+  Vasylivskyi raion
+  Melitopolskyi raion
+Ivano-Frankivska oblast
+  Verkhovynskyi raion
+  Ivano-Frankivskyi raion
+  Kaluskyi raion
+  Nadvirnianskyi raion
+  Kolomyiskyi raion
+  Kosivskyi raion
+Kyivska oblast
+  Brovarskyi raion
+  Fastivskyi raion
+  Buchanskyi raion
+  Bilotserkivskyi raion
+  Obukhivskyi raion
+  Boryspilskyi raion
+  Vyshhorodskyi raion
+Kirovohradska oblast
+  Kropyvnytskyi raion
+  Holovanivskyi raion
+  Oleksandriiskyi raion
+  Novoukrainskyi raion
+Luhanska oblast
+  Starobilskyi raion
+  Svativskyi raion
+  Sievierodonetskyi raion
+  Shchastynskyi raion
+Lvivska oblast
+  Chervonohradskyi raion
+  Lvivskyi raion
+  Sambirskyi raion
+  Drohobytskyi raion
+  Zolochivskyi raion
+  Stryiskyi raion
+  Yavorivskyi raion
+Mykolaivska oblast
+  Pervomaiskyi raion
+  Bashtanskyi raion
+  Mykolaivskyi raion
+  Voznesenskyi raion
+Odeska oblast
+  Odeskyi raion
+  Podilskyi raion
+  Berezivskyi raion
+  Bolhradskyi raion
+  Bilhorod-Dnistrovskyi raion
+  Rozdilnianskyi raion
+  Izmailskyi raion
+Poltavska oblast
+  Poltavskyi raion
+  Myrhorodskyi raion
+  Kremenchutskyi raion
+  Lubenskyi raion
+Rivnenska oblast
+  Varaskyi raion
+  Rivnenskyi raion
+  Sarnenskyi raion
+  Dubenskyi raion
+Sumska oblast
+  Romenskyi raion
+  Sumskyi raion
+  Shostkynskyi raion
+  Okhtyrskyi raion
+  Konotopskyi raion
+Ternopilska oblast
+  Ternopilskyi raion
+  Chortkivskyi raion
+  Kremenetskyi raion
+Kharkivska oblast
+  Iziumskyi raion
+  Kharkivskyi raion
+  Lozivskyi raion
+  Bohodukhivskyi raion
+  Kupianskyi raion
+  Chuhuivskyi raion
+  Krasnohradskyi raion
+Khersonska oblast
+  Kakhovskyi raion
+  Beryslavskyi raion
+  Skadovskyi raion
+  Khersonskyi raion
+  Henicheskyi raion
+Khmelnytska oblast
+  Khmelnytskyi raion
+  Shepetivskyi raion
+  Kamianets-Podilskyi raion
+Cherkaska oblast
+  Umanskyi raion
+  Cherkaskyi raion
+  Zvenyhorodskyi raion
+  Zolotoniskyi raion
+Chernivetska oblast
+  Vyzhnytskyi raion
+  Chernivetskyi raion
+  Dnistrovskyi raion
+Chernihivska oblast
+  Nizhynskyi raion
+  Chernihivskyi raion
+  Prylutskyi raion
+  Novhorod-Siverskyi raion
+  Koriukivskyi raion
+Kyiv City
