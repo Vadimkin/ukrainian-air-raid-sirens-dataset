@@ -11,8 +11,6 @@ jobs:
         uses: actions/setup-python@v1
         with:
           python-version: '3.x'
-      - name: Debug step
-        run: echo "Value is ${{secrets.API_ID}}"
       - name: Install requirements
         run: pip install -r requirements.txt
       - name: Copy config file
@@ -26,7 +24,4 @@ jobs:
           git push origin ${GITHUB_REF##*/}
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-          API_ID: ${{secrets.API_ID}}
-          API_HASH: ${{secrets.API_HASH}}
-          BOT_TOKEN: ${{secrets.BOT_TOKEN}}
           username: github-actions
