@@ -47,8 +47,8 @@ def patch_flat_list(normalized_state_names):
 def parse_message(message: Message):
     first_line = message.message.split('\n')[0]
 
-    is_activated = "Повітряна тривога в" in first_line
-    is_deactivated = "Відбій тривоги в" in first_line
+    is_activated = "🔴" in first_line
+    is_deactivated = ("🟢" in first_line) or ("🟡" in first_line)
 
     if not is_activated and not is_deactivated:
         return None, None, []
@@ -79,12 +79,12 @@ def update_state(message: Message, location_tuple: tuple, is_activated: bool) ->
     record = None
     # Only one single edge case, but still a case
     if not is_activated and location['enabled_at']:
-        level = "hromada" if community else "district" if district else "oblast"
+        level = "hromada" if community else "raion" if district else "oblast"
 
         record = {
-            'state': state,
-            'district': district,
-            'community': community,
+            'oblast': state,
+            'raion': district,
+            'hromada': community,
             'level': level,
             'started_at': location['enabled_at'],
             'finished_at': message.date,
@@ -101,13 +101,13 @@ def update_state(message: Message, location_tuple: tuple, is_activated: bool) ->
 
 
 def write_csv(air_raid_data: list):
-    keys_to_transliterate = ['state', 'district', 'community']
+    keys_to_transliterate = ['oblast', 'raion', 'hromada']
     special_rules = {
         "м. Київ": "Kyiv City",
     }
 
     with open(final_filename, 'w', newline='') as csvfile:
-        fieldnames = ['state', 'district', 'community', 'level', 'started_at', 'finished_at']
+        fieldnames = ['oblast', 'raion', 'hromada', 'level', 'started_at', 'finished_at']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()

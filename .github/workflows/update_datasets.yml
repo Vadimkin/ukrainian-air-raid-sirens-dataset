@@ -1,0 +1,35 @@
+name: Update datasets
+
+on:
+  schedule:
+    # At 19:00 UTC https://crontab.guru
+    - cron: '03 19 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Copy config file
+        run: cp config.py.EXAMPLE config.py
+      - name: Download and build reports
+        run: python process.py
+        env:
+          API_ID: ${{secrets.API_ID}}
+          API_SESSION_STRING: ${{secrets.API_SESSION_STRING}}
+          API_HASH: ${{secrets.API_HASH}}
+          BOT_TOKEN: ${{secrets.BOT_TOKEN}}
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: "github_actions"
+          message: 'Add new data'
