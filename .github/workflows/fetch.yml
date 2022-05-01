@@ -23,10 +23,7 @@ jobs:
           API_HASH: ${{secrets.API_HASH}}
           BOT_TOKEN: ${{secrets.BOT_TOKEN}}
       - name: Commit changes
-        run: |
-          git add .
-          git commit -m "Update datasets" -a
-          git push origin ${GITHUB_REF##*/}
-        env:
-          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-          username: github-actions
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: "github_actions"
+          message: 'Add new data'
