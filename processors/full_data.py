@@ -45,10 +45,10 @@ def patch_flat_list(normalized_state_names):
 
 
 def parse_message(message: Message):
-    first_line = message.message.split('\n')[0].lower()
+    first_line = message.message.split('\n')[0]
 
-    is_activated = "тривога" in first_line
-    is_deactivated = "відбій" in first_line
+    is_activated = "🔴" in first_line
+    is_deactivated = "🟢" in first_line
 
     if not is_activated and not is_deactivated:
         return None, None, []
