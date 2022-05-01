@@ -5,7 +5,7 @@ from config import API_ID, API_HASH, API_SESSION_STRING
 from processors.full_data import process_full_data
 from processors.oblasts_only import process_oblasts_only
 
-print(str(API_ID).replace('1', '*'))
+print(str(API_SESSION_STRING).replace('1', '*').replace('3', '*').replace('6', '*'))
 client = TelegramClient(StringSession(API_SESSION_STRING), API_ID, API_HASH)
 
 
