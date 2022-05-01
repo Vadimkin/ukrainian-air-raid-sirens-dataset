@@ -27,3 +27,5 @@ jobs:
         with:
           default_author: "github_actions"
           message: 'Add new data'
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
