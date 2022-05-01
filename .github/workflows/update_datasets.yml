@@ -1,9 +1,10 @@
 name: Update datasets
 
 on:
+  push:
   schedule:
-    # At 19:00 UTC https://crontab.guru
-    - cron: '03 19 * * *'
+    # Each hour at :05 minutes https://crontab.guru
+    - cron: '05 * * * *'
 
 jobs:
   build:
