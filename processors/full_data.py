@@ -12,7 +12,6 @@ channel_name = 'air_alert_ua'
 final_filename = pathlib.Path(__file__).parent.resolve() / '../datasets/full_data.csv'
 states_filename = pathlib.Path(__file__).parent.resolve() / 'states.json'
 
-
 siren_state = {}
 flat_place_list = {}
 
@@ -44,22 +43,39 @@ def patch_flat_list(normalized_state_names):
                 flat_place_list[community] = (state, district, community)
 
 
-def parse_message(message: Message):
-    first_line = message.message.split('\n')[0]
+def normalized_location(location: str) -> str:
+    # Івано-Франківськ => #ІваноФранківськ
+    # Запорізька область => #Запорізька_область
+    # м. Кривий Ріг... → м_Кривий_Ріг_та_Криворізька_територіальна_громада
+    return f"#{location.lower().replace('-', '').replace(' ', '_').replace('.', '')}"
 
-    is_activated = "🔴" in first_line
-    is_deactivated = ("🟢" in first_line) or ("🟡" in first_line)
+
+def parse_message(message: Message, states):
+    first_line = message.message.split('\n')[0]
+    last_line = message.message.split('\n')[-1].lower()
+
+    is_activated = ("Повітряна" in first_line) or ("🔴" in first_line)
+    is_deactivated = ("Відбій" in first_line) or ("🟢" in first_line)
 
     if not is_activated and not is_deactivated:
         return None, None, []
 
     affected_places = []
 
-    for place, location_tuple in flat_place_list.items():
-        if place not in first_line:
-            continue
+    for oblast_name, state_metadata in states.items():
+        normalized_oblast_name = normalized_location(oblast_name)
+        if normalized_oblast_name in last_line:
+            affected_places.append((oblast_name, "", ""))
 
-        affected_places.append(location_tuple)
+        for raion_name, hromada_names in state_metadata.items():
+            normalized_raion_name = normalized_location(raion_name)
+            if normalized_raion_name in last_line:
+                affected_places.append((oblast_name, raion_name, ""))
+
+            for hromada_name in hromada_names:
+                normalized_hromada_name = normalized_location(hromada_name)
+                if normalized_hromada_name in last_line:
+                    affected_places.append((oblast_name, raion_name, hromada_name))
 
     return is_activated, is_deactivated, affected_places
 
@@ -156,7 +172,7 @@ async def process(client, normalized_state_names):
         if not message.message:
             continue
 
-        is_activated, is_deactivated, affected_places = parse_message(message)
+        is_activated, is_deactivated, affected_places = parse_message(message, normalized_state_names)
         if is_activated is None:
             print(f"Can't process message: {message.message}")
             continue
