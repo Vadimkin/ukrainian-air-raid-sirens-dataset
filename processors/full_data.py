@@ -48,7 +48,7 @@ def parse_message(message: Message):
     first_line = message.message.split('\n')[0]
 
     is_activated = "🔴" in first_line
-    is_deactivated = "🟢" in first_line
+    is_deactivated = ("🟢" in first_line) or ("🟡" in first_line)
 
     if not is_activated and not is_deactivated:
         return None, None, []
