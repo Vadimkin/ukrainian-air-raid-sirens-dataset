@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: '3.x'
       - name: Debug step
-        run: echo "Hash is ${{secrets.API_HASH}}"
+        run: echo "Value is ${{secrets.API_ID}}"
       - name: Install requirements
         run: pip install -r requirements.txt
       - name: Copy config file
