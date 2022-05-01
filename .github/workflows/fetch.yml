@@ -1,0 +1,30 @@
+name: Fetch Data
+on:
+  pull_request
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Copy config file
+        run: cp config.py.EXAMPLE config.py
+      - name: Download and build reports
+        run: python process.py
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Update datasets" -a
+          git push origin ${GITHUB_REF##*/}
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          API_ID: ${{secrets.API_ID}}
+          API_HASH: ${{secrets.API_HASH}}
+          BOT_TOKEN: ${{secrets.BOT_TOKEN}}
+          username: github-actions
