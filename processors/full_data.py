@@ -13,7 +13,6 @@ final_filename = pathlib.Path(__file__).parent.resolve() / '../datasets/full_dat
 states_filename = pathlib.Path(__file__).parent.resolve() / 'states.json'
 
 siren_state = {}
-flat_place_list = {}
 
 
 def get_normalized_states():
@@ -32,15 +31,6 @@ def get_normalized_states():
                 normalized_states[state['stateName']][district['districtName']].append(community['communityName'])
 
     return normalized_states
-
-
-def patch_flat_list(normalized_state_names):
-    for state in normalized_state_names:
-        flat_place_list[state] = (state, None, None)
-        for district in normalized_state_names[state]:
-            flat_place_list[district] = (state, district, None)
-            for community in normalized_state_names[state][district]:
-                flat_place_list[community] = (state, district, community)
 
 
 def normalized_location(location: str) -> str:
@@ -193,5 +183,4 @@ async def process(client, normalized_state_names):
 
 async def process_full_data(client):
     normalized_states = get_normalized_states()
-    patch_flat_list(normalized_states)
     await process(client, normalized_states)
