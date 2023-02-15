@@ -7,7 +7,7 @@ from telethon.tl.types import Message
 
 channel_name = 'UkraineAlarmSignal'
 
-final_filename = pathlib.Path(__file__).parent.resolve() / '../datasets/oblasts_only.csv'
+final_filename = pathlib.Path(__file__).parent.resolve() / '../datasets/volunteer_data_uk.csv'
 
 # Order matters (Київська > Київ)
 city_keywords = {
