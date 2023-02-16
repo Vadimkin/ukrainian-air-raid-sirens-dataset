@@ -14,12 +14,8 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 # UK means ukrainian language code, not United Kingdom :)
-data_uk_file_path = (
-    pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_uk.csv"
-)
-data_en_file_path = (
-    pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_en.csv"
-)
+data_uk_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_uk.csv"
+data_en_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_en.csv"
 
 
 class OfficialAirAlertProcessor:
@@ -85,9 +81,7 @@ class OfficialAirAlertProcessor:
             logger.error("Can't parse %s, skipping...", message.message)
             return
 
-        oblast_name, raion_name, hromada_name, level = self.hash_states_by_name[
-            hashed_location
-        ]
+        oblast_name, raion_name, hromada_name, level = self.hash_states_by_name[hashed_location]
 
         if is_activated:
             if current_alert := self.active_alerts_by_location.get(hashed_location):
@@ -119,9 +113,7 @@ class OfficialAirAlertProcessor:
     def is_ignored_message(message: Message) -> bool:
         return "Тестовий Регіон" in message.message
 
-    def parse_message(
-        self, message: Message
-    ) -> tuple[Optional[str], Optional[bool], Optional[bool]]:
+    def parse_message(self, message: Message) -> tuple[Optional[str], Optional[bool], Optional[bool]]:
         """
         :return: tuple (hashed location name, is_enabled, is_disabled)
         """
@@ -171,12 +163,7 @@ class OfficialAirAlertProcessor:
         # м. Кривий Ріг... → м_Кривий_Ріг_та_Криворізька_територіальна_громада
 
         hashtag_value = (
-            location.lower()
-            .replace("-", "")
-            .replace(" ", "_")
-            .replace(".", "")
-            .replace("'", "")
-            .replace("’", "")
+            location.lower().replace("-", "").replace(" ", "_").replace(".", "").replace("'", "").replace("’", "")
         )
         return f"#{hashtag_value}"
 
@@ -209,18 +196,54 @@ class OfficialAirAlertProcessor:
                     # Other hromadas located far away from battlefield.
                     hromada_special_rules = {
                         # hromada: (raion, oblast)
-                        "Широківська територіальна громада": ("Баштанський район", "Миколаївська область"),
-                        "Воскресенська територіальна громада": ("Миколаївський район", "Миколаївська область"),
-                        "Софіївська територіальна громада": ("Баштанський район", "Миколаївська область"),
-                        "Костянтинівська територіальна громада": ("Миколаївський район", "Миколаївська область"),
-                        "Привільненська територіальна громада": ("Баштанський район", "Миколаївська область"),
-                        "Горохівська територіальна громада": ("Баштанський район", "Миколаївська область"),
-                        "Гребінківська територіальна громада": ("Полтавська область", "Лубенський район"),
-                        "Покровська територіальна громада": ("Покровський район", "Донецька область"),
-                        "Лиманська територіальна громада": ("Краматорський район", "Донецька область"),
-                        "Олександрівська територіальна громада": ("Вознесенський район", "Миколаївська область"),
-                        "Золочівська територіальна громада": ("Богодухівський район", "Харківська область"),
-                        "Українська територіальна громада": ("Обухівський район", "Київська область"),
+                        "Широківська територіальна громада": (
+                            "Баштанський район",
+                            "Миколаївська область",
+                        ),
+                        "Воскресенська територіальна громада": (
+                            "Миколаївський район",
+                            "Миколаївська область",
+                        ),
+                        "Софіївська територіальна громада": (
+                            "Баштанський район",
+                            "Миколаївська область",
+                        ),
+                        "Костянтинівська територіальна громада": (
+                            "Миколаївський район",
+                            "Миколаївська область",
+                        ),
+                        "Привільненська територіальна громада": (
+                            "Баштанський район",
+                            "Миколаївська область",
+                        ),
+                        "Горохівська територіальна громада": (
+                            "Баштанський район",
+                            "Миколаївська область",
+                        ),
+                        "Гребінківська територіальна громада": (
+                            "Полтавська область",
+                            "Лубенський район",
+                        ),
+                        "Покровська територіальна громада": (
+                            "Покровський район",
+                            "Донецька область",
+                        ),
+                        "Лиманська територіальна громада": (
+                            "Краматорський район",
+                            "Донецька область",
+                        ),
+                        "Олександрівська територіальна громада": (
+                            "Вознесенський район",
+                            "Миколаївська область",
+                        ),
+                        "Золочівська територіальна громада": (
+                            "Богодухівський район",
+                            "Харківська область",
+                        ),
+                        "Українська територіальна громада": (
+                            "Обухівський район",
+                            "Київська область",
+                        ),
                     }
 
                     if hromada_name in hromada_special_rules:

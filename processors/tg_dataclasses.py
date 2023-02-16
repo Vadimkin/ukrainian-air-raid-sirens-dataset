@@ -4,27 +4,28 @@ from typing import Literal, Optional
 
 from translitua import translit
 
-PLACE_LEVEL = Literal['oblast', 'raion', 'hromada']
+PLACE_LEVEL = Literal["oblast", "raion", "hromada"]
 
 
 @dataclass
 class OfficialAirRaidAlertChannelAlert:
     """Class for keeping track of an item in inventory."""
+
     oblast: str
     raion: str
     hromada: str
     level: PLACE_LEVEL
     started_at: datetime
     finished_at: Optional[datetime] = None
-    source: Literal['official', 'volunteer'] = "official"
+    source: Literal["official", "volunteer"] = "official"
 
-    def dict(self, lang: str = 'uk'):
-        if lang == 'uk':
+    def dict(self, lang: str = "uk"):
+        if lang == "uk":
             return {k: str(v) for k, v in asdict(self).items()}
 
         transliterated = {}
 
-        keys_to_transliterate = ['oblast', 'raion', 'hromada']
+        keys_to_transliterate = ["oblast", "raion", "hromada"]
         special_rules = {
             # Official:
             "м. Київ": "Kyiv City",
@@ -44,3 +45,28 @@ class OfficialAirRaidAlertChannelAlert:
             transliterated[k] = str(v)
 
         return transliterated
+
+
+@dataclass
+class ETryvogaChannelAlert:
+    region: str
+    started_at: datetime
+    finished_at: Optional[datetime] = None
+    naive: bool = False
+
+    def dict(self, lang: str = "uk") -> dict[str, str]:
+        if lang == "uk":
+            return {k: str(v) for k, v in asdict(self).items()}
+
+        result = {}
+
+        for k, v in asdict(self).items():
+            if k == "region":
+                if v == "Київ":
+                    result[k] = "Kyiv City"
+                else:
+                    result[k] = translit(v)
+            else:
+                result[k] = str(v)
+
+        return result

@@ -1,0 +1,4 @@
+[tool.black]
+# https://black.readthedocs.io/en/stable/installation_and_usage.html
+line-length = 120  # default is 88
+
