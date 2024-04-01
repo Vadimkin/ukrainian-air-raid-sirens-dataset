@@ -41270,6 +41270,7 @@ Kyiv City,,,oblast,2024-03-30 17:11:21+00:00,2024-03-30 17:32:08+00:00,official
 Sumska oblast,,,oblast,2024-03-30 17:12:00+00:00,2024-03-30 17:41:26+00:00,official
 Kyivska oblast,,,oblast,2024-03-30 17:13:50+00:00,2024-03-30 17:32:08+00:00,official
 Kharkivska oblast,,,oblast,2024-03-30 17:38:14+00:00,2024-03-30 21:05:14+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2024-03-30 17:53:04+00:00,2024-03-31 03:21:14+00:00,official
 Poltavska oblast,,,oblast,2024-03-30 17:58:55+00:00,2024-03-30 19:12:58+00:00,official
 Sumska oblast,,,oblast,2024-03-30 18:46:41+00:00,2024-03-30 21:04:50+00:00,official
 Cherkaska oblast,,,oblast,2024-03-30 18:54:41+00:00,2024-03-30 20:03:20+00:00,official
@@ -41277,6 +41278,7 @@ Kyivska oblast,,,oblast,2024-03-30 20:01:32+00:00,2024-03-30 20:36:55+00:00,offi
 Dnipropetrovska oblast,,,oblast,2024-03-30 20:04:44+00:00,2024-03-30 21:37:40+00:00,official
 Donetska oblast,,,oblast,2024-03-30 20:05:10+00:00,2024-03-30 21:56:35+00:00,official
 Zaporizka oblast,,,oblast,2024-03-30 20:05:22+00:00,2024-03-30 21:39:11+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Marhanets ta Marhanetska terytorialna hromada,hromada,2024-03-30 20:05:26+00:00,2024-03-31 04:06:06+00:00,official
 Khersonska oblast,,,oblast,2024-03-30 20:09:37+00:00,2024-03-30 23:08:07+00:00,official
 Mykolaivska oblast,,,oblast,2024-03-30 20:10:07+00:00,2024-03-30 23:08:51+00:00,official
 Kirovohradska oblast,,,oblast,2024-03-30 20:11:31+00:00,2024-03-30 21:00:43+00:00,official
@@ -41289,8 +41291,119 @@ Poltavska oblast,,,oblast,2024-03-30 21:17:57+00:00,2024-03-30 21:36:35+00:00,of
 Kirovohradska oblast,,,oblast,2024-03-30 21:18:10+00:00,2024-03-30 21:34:58+00:00,official
 Kyivska oblast,,,oblast,2024-03-30 21:19:57+00:00,2024-03-30 21:34:37+00:00,official
 Kyiv City,,,oblast,2024-03-30 21:20:01+00:00,2024-03-30 21:33:34+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,Chervonohryhorivska terytorialna hromada,hromada,2024-03-30 22:22:28+00:00,2024-03-31 07:00:06+00:00,official
+Donetska oblast,,,oblast,2024-03-30 22:35:41+00:00,2024-03-31 03:39:16+00:00,official
 Dnipropetrovska oblast,,,oblast,2024-03-30 23:17:23+00:00,2024-03-31 00:02:12+00:00,official
 Zaporizka oblast,,,oblast,2024-03-30 23:18:09+00:00,2024-03-31 00:02:14+00:00,official
 Khersonska oblast,,,oblast,2024-03-30 23:29:01+00:00,2024-03-31 00:06:11+00:00,official
 Mykolaivska oblast,,,oblast,2024-03-30 23:29:20+00:00,2024-03-31 00:06:32+00:00,official
 Kirovohradska oblast,,,oblast,2024-03-30 23:41:57+00:00,2024-03-30 23:51:47+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 00:34:38+00:00,2024-03-31 03:39:02+00:00,official
+Poltavska oblast,,,oblast,2024-03-31 01:13:26+00:00,2024-03-31 03:38:19+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 01:13:29+00:00,2024-03-31 03:38:32+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 01:13:30+00:00,2024-03-31 03:39:55+00:00,official
+Kyiv City,,,oblast,2024-03-31 01:32:23+00:00,2024-03-31 01:36:51+00:00,official
+Cherkaska oblast,,,oblast,2024-03-31 01:33:15+00:00,2024-03-31 03:38:21+00:00,official
+Vinnytska oblast,,,oblast,2024-03-31 01:33:16+00:00,2024-03-31 03:38:28+00:00,official
+Kirovohradska oblast,,,oblast,2024-03-31 01:33:35+00:00,2024-03-31 03:38:24+00:00,official
+Zhytomyrska oblast,,,oblast,2024-03-31 01:33:36+00:00,2024-03-31 03:38:43+00:00,official
+Khersonska oblast,,,oblast,2024-03-31 01:33:36+00:00,2024-03-31 03:39:34+00:00,official
+Kyivska oblast,,,oblast,2024-03-31 01:33:38+00:00,2024-03-31 03:38:28+00:00,official
+Mykolaivska oblast,,,oblast,2024-03-31 01:33:44+00:00,2024-03-31 03:40:16+00:00,official
+Odeska oblast,,,oblast,2024-03-31 01:33:51+00:00,2024-03-31 03:40:47+00:00,official
+Chernihivska oblast,,,oblast,2024-03-31 01:34:02+00:00,2024-03-31 03:38:32+00:00,official
+Sumska oblast,,,oblast,2024-03-31 01:35:27+00:00,2024-03-31 03:39:00+00:00,official
+Kyiv City,,,oblast,2024-03-31 01:38:12+00:00,2024-03-31 03:37:17+00:00,official
+Ternopilska oblast,,,oblast,2024-03-31 02:00:38+00:00,2024-03-31 03:26:59+00:00,official
+Ivano-Frankivska oblast,,,oblast,2024-03-31 02:00:50+00:00,2024-03-31 03:27:18+00:00,official
+Volynska oblast,,,oblast,2024-03-31 02:00:51+00:00,2024-03-31 03:27:21+00:00,official
+Zakarpatska oblast,,,oblast,2024-03-31 02:00:52+00:00,2024-03-31 03:27:13+00:00,official
+Khmelnytska oblast,,,oblast,2024-03-31 02:00:53+00:00,2024-03-31 03:27:56+00:00,official
+Lvivska oblast,,,oblast,2024-03-31 02:01:17+00:00,2024-03-31 03:27:50+00:00,official
+Chernivetska oblast,,,oblast,2024-03-31 02:01:28+00:00,2024-03-31 03:27:27+00:00,official
+Rivnenska oblast,,,oblast,2024-03-31 02:02:04+00:00,2024-03-31 03:28:34+00:00,official
+Poltavska oblast,,,oblast,2024-03-31 04:02:43+00:00,2024-03-31 04:49:39+00:00,official
+Sumska oblast,,,oblast,2024-03-31 04:03:00+00:00,2024-03-31 04:50:36+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 04:04:50+00:00,2024-03-31 04:50:21+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 04:05:16+00:00,2024-03-31 04:51:14+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2024-03-31 04:37:18+00:00,2024-03-31 04:51:18+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Marhanets ta Marhanetska terytorialna hromada,hromada,2024-03-31 05:48:26+00:00,2024-03-31 07:00:18+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2024-03-31 06:02:50+00:00,2024-03-31 06:59:59+00:00,official
+Donetska oblast,Pokrovskyi raion,Pokrovska terytorialna hromada,hromada,2024-03-31 06:06:49+00:00,2024-03-31 07:00:03+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 06:15:11+00:00,2024-03-31 07:18:59+00:00,official
+Donetska oblast,,,oblast,2024-03-31 06:15:14+00:00,2024-03-31 08:40:45+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 06:21:07+00:00,2024-03-31 07:18:59+00:00,official
+Kyivska oblast,,,oblast,2024-03-31 06:35:26+00:00,2024-03-31 06:35:37+00:00,official
+Kirovohradska oblast,,,oblast,2024-03-31 06:35:29+00:00,2024-03-31 07:00:02+00:00,official
+Mykolaivska oblast,,,oblast,2024-03-31 06:35:31+00:00,2024-03-31 07:00:22+00:00,official
+Khersonska oblast,,,oblast,2024-03-31 06:36:04+00:00,2024-03-31 07:00:29+00:00,official
+Odeska oblast,,,oblast,2024-03-31 06:37:26+00:00,2024-03-31 07:01:03+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 06:55:26+00:00,2024-03-31 08:06:41+00:00,official
+Donetska oblast,Pokrovskyi raion,Pokrovska terytorialna hromada,hromada,2024-03-31 08:06:57+00:00,2024-03-31 09:30:06+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2024-03-31 08:32:09+00:00,2024-03-31 09:31:31+00:00,official
+Donetska oblast,,,oblast,2024-03-31 08:51:14+00:00,2024-03-31 08:56:30+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,Chervonohryhorivska terytorialna hromada,hromada,2024-03-31 09:13:27+00:00,2024-03-31 09:54:26+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Marhanets ta Marhanetska terytorialna hromada,hromada,2024-03-31 09:14:29+00:00,2024-03-31 09:30:10+00:00,official
+Donetska oblast,,,oblast,2024-03-31 09:56:32+00:00,2024-03-31 12:29:28+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 10:00:42+00:00,2024-03-31 11:11:11+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2024-03-31 10:19:21+00:00,2024-03-31 10:56:44+00:00,official
+Donetska oblast,Pokrovskyi raion,Pokrovska terytorialna hromada,hromada,2024-03-31 10:19:29+00:00,2024-03-31 14:36:58+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Marhanets ta Marhanetska terytorialna hromada,hromada,2024-03-31 10:19:31+00:00,2024-03-31 10:19:38+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Marhanets ta Marhanetska terytorialna hromada,hromada,2024-03-31 10:19:42+00:00,2024-03-31 14:37:29+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 10:32:02+00:00,2024-03-31 11:07:28+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 10:32:17+00:00,2024-03-31 11:07:51+00:00,official
+Odeska oblast,,,oblast,2024-03-31 10:39:03+00:00,2024-03-31 11:03:12+00:00,official
+Mykolaivska oblast,,,oblast,2024-03-31 10:40:27+00:00,2024-03-31 11:01:53+00:00,official
+Khersonska oblast,,,oblast,2024-03-31 10:40:53+00:00,2024-03-31 11:01:51+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,Myrivska terytorialna hromada,hromada,2024-03-31 10:42:29+00:00,2024-03-31 14:51:43+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,m. Nikopol ta Nikopolska terytorialna hromada,hromada,2024-03-31 11:11:39+00:00,2024-03-31 14:37:02+00:00,official
+Khersonska oblast,,,oblast,2024-03-31 11:44:20+00:00,2024-03-31 12:01:56+00:00,official
+Odeska oblast,,,oblast,2024-03-31 11:44:55+00:00,2024-03-31 12:02:12+00:00,official
+Mykolaivska oblast,,,oblast,2024-03-31 11:45:40+00:00,2024-03-31 12:01:51+00:00,official
+Dnipropetrovska oblast,Nikopolskyi raion,Chervonohryhorivska terytorialna hromada,hromada,2024-03-31 11:47:53+00:00,2024-03-31 14:53:56+00:00,official
+Cherkaska oblast,,,oblast,2024-03-31 12:12:53+00:00,2024-03-31 12:27:10+00:00,official
+Kirovohradska oblast,,,oblast,2024-03-31 12:13:06+00:00,2024-03-31 12:27:18+00:00,official
+Mykolaivska oblast,,,oblast,2024-03-31 12:13:13+00:00,2024-03-31 12:27:40+00:00,official
+Khersonska oblast,,,oblast,2024-03-31 12:13:39+00:00,2024-03-31 12:27:40+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 12:14:09+00:00,2024-03-31 12:29:17+00:00,official
+Donetska oblast,,,oblast,2024-03-31 12:32:42+00:00,2024-03-31 14:18:06+00:00,official
+Poltavska oblast,,,oblast,2024-03-31 13:07:36+00:00,2024-03-31 14:17:55+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 13:07:38+00:00,2024-03-31 14:18:25+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 13:07:40+00:00,2024-03-31 14:18:37+00:00,official
+Sumska oblast,,,oblast,2024-03-31 13:08:01+00:00,2024-03-31 14:17:57+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 13:08:22+00:00,2024-03-31 14:19:02+00:00,official
+Mykolaivska oblast,,,oblast,2024-03-31 13:08:46+00:00,2024-03-31 14:18:14+00:00,official
+Khersonska oblast,,,oblast,2024-03-31 13:08:57+00:00,2024-03-31 14:18:14+00:00,official
+Cherkaska oblast,,,oblast,2024-03-31 13:25:56+00:00,2024-03-31 13:56:39+00:00,official
+Kirovohradska oblast,,,oblast,2024-03-31 13:26:15+00:00,2024-03-31 14:18:07+00:00,official
+Kyiv City,,,oblast,2024-03-31 13:32:24+00:00,2024-03-31 13:56:20+00:00,official
+Kyivska oblast,,,oblast,2024-03-31 13:33:13+00:00,2024-03-31 13:56:40+00:00,official
+Sumska oblast,,,oblast,2024-03-31 14:20:34+00:00,2024-03-31 14:44:04+00:00,official
+Cherkaska oblast,,,oblast,2024-03-31 14:20:41+00:00,2024-03-31 14:36:19+00:00,official
+Kirovohradska oblast,,,oblast,2024-03-31 14:20:49+00:00,2024-03-31 14:36:31+00:00,official
+Poltavska oblast,,,oblast,2024-03-31 14:23:31+00:00,2024-03-31 14:43:46+00:00,official
+Poltavska oblast,,,oblast,2024-03-31 14:45:19+00:00,2024-03-31 15:16:51+00:00,official
+Chernihivska oblast,,,oblast,2024-03-31 14:46:12+00:00,2024-03-31 15:18:05+00:00,official
+Sumska oblast,,,oblast,2024-03-31 14:47:03+00:00,2024-03-31 15:17:07+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 14:49:23+00:00,2024-03-31 15:42:13+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 14:49:26+00:00,2024-03-31 15:41:29+00:00,official
+Donetska oblast,,,oblast,2024-03-31 14:49:48+00:00,2024-03-31 15:42:40+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 14:50:08+00:00,2024-03-31 15:42:31+00:00,official
+Kyiv City,,,oblast,2024-03-31 14:50:26+00:00,2024-03-31 15:16:25+00:00,official
+Kyivska oblast,,,oblast,2024-03-31 14:51:05+00:00,2024-03-31 15:16:50+00:00,official
+Cherkaska oblast,,,oblast,2024-03-31 14:51:06+00:00,2024-03-31 15:16:47+00:00,official
+Kirovohradska oblast,,,oblast,2024-03-31 14:51:22+00:00,2024-03-31 15:17:02+00:00,official
+Donetska oblast,,,oblast,2024-03-31 15:52:08+00:00,2024-03-31 16:56:44+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 18:50:20+00:00,2024-03-31 20:31:27+00:00,official
+Sumska oblast,,,oblast,2024-03-31 18:55:49+00:00,2024-03-31 19:59:50+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 21:02:51+00:00,2024-03-31 21:44:13+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 21:03:09+00:00,2024-03-31 21:17:00+00:00,official
+Poltavska oblast,,,oblast,2024-03-31 21:29:04+00:00,2024-03-31 21:31:03+00:00,official
+Sumska oblast,,,oblast,2024-03-31 21:29:22+00:00,2024-03-31 21:43:48+00:00,official
+Kharkivska oblast,,,oblast,2024-03-31 21:31:12+00:00,2024-03-31 22:32:38+00:00,official
+Poltavska oblast,,,oblast,2024-03-31 22:01:04+00:00,2024-03-31 22:31:39+00:00,official
+Dnipropetrovska oblast,,,oblast,2024-03-31 22:01:06+00:00,2024-03-31 22:33:23+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 22:01:25+00:00,2024-03-31 22:35:54+00:00,official
+Kirovohradska oblast,,,oblast,2024-03-31 22:01:37+00:00,2024-03-31 22:32:03+00:00,official
+Zaporizka oblast,,,oblast,2024-03-31 23:09:56+00:00,2024-04-01 00:03:57+00:00,official
+Kharkivska oblast,,,oblast,2024-04-01 00:29:33+00:00,2024-04-01 00:57:33+00:00,official
