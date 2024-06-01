@@ -221,7 +221,9 @@ class VolunteerEtryvogaProcessor:
             fieldnames = ["region", "started_at", "finished_at", "naive"]
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-            writer.writeheader()
+            if mode == "w":
+                writer.writeheader()
+
             for record in self.completed_alerts:
                 writer.writerow(record.dict(lang=lang))
 

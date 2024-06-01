@@ -110,7 +110,9 @@ class OfficialAirAlertProcessor:
             ]
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-            writer.writeheader()
+            if mode == "w":
+                writer.writeheader()
+
             for record in self.completed_alerts:
                 writer.writerow(record.dict(lang=lang))
 
