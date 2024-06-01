@@ -1,7 +1,9 @@
 import csv
 import datetime
 import logging
+import os
 import pathlib
+import pickle
 from typing import Optional
 
 from telethon.tl.types import Message
@@ -16,6 +18,8 @@ logger.setLevel(logging.DEBUG)
 data_uk_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/volunteer_data_uk.csv"
 data_en_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/volunteer_data_en.csv"
 
+last_processed_id_path = pathlib.Path(__file__).parent.resolve() / "pkl" / "volunteer_last_processed_id.txt"
+pkl_file_path = pathlib.Path(__file__).parent.resolve() / "pkl" / "volunteer_active_alerts.pkl"
 
 # Order matters (Київська > Київ)
 city_keywords = {
@@ -149,14 +153,21 @@ class VolunteerEtryvogaProcessor:
     active_alerts_by_location: dict[str, ETryvogaChannelAlert] = {}
     completed_alerts: list[ETryvogaChannelAlert] = []
 
+    last_processed_id: int = 0
+
     def __init__(self, client):
         self.client = client
+
+        self.load_active_alerts()
+        self.load_last_processed_id()
 
     async def process(self):
         previous_day = None
 
+        logging.info("Starting processing volunteer channel messages from %s", self.last_processed_id)
+
         # TODO Fetch latest days from .csv file and just append it
-        async for message in self.client.iter_messages(self.channel_name, reverse=True):
+        async for message in self.client.iter_messages(self.channel_name, reverse=True, min_id=self.last_processed_id):
             if not previous_day or previous_day != message.date.date():
                 previous_day = message.date.date()
                 logger.info("Processing day %s", previous_day)
@@ -166,13 +177,41 @@ class VolunteerEtryvogaProcessor:
 
             self.process_message(message)
 
+            self.last_processed_id = message.id
+
+        logging.info("Finished processing volunteer channel messages at %s", self.last_processed_id)
         self.write()
+
+    def load_active_alerts(self):
+        if not os.path.exists(pkl_file_path):
+            return
+
+        with open(pkl_file_path, "rb") as f:
+            self.active_alerts_by_location = pickle.load(f)
+
+    def dump_active_alerts(self):
+        with open(pkl_file_path, "wb") as f:
+            pickle.dump(self.active_alerts_by_location, f)
+
+    def load_last_processed_id(self):
+        if not os.path.exists(last_processed_id_path):
+            return
+
+        with open(last_processed_id_path, "r") as f:
+            self.last_processed_id = int(f.read())
+
+    def dump_last_processed_id(self):
+        with open(last_processed_id_path, "w") as f:
+            f.write(str(self.last_processed_id))
 
     def write(self):
         self.completed_alerts.sort(key=lambda x: x.started_at)
 
         self.write_to_file(lang="uk")
         self.write_to_file(lang="en")
+
+        self.dump_active_alerts()
+        self.dump_last_processed_id()
 
     def write_to_file(self, lang: str = "uk"):
         file_path = data_uk_file_path if lang == "uk" else data_en_file_path

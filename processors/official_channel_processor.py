@@ -2,7 +2,9 @@ import csv
 import datetime
 import json
 import logging
+import os.path
 import pathlib
+import pickle
 from typing import Optional
 
 from telethon.tl.types import Message
@@ -17,6 +19,9 @@ logger.setLevel(logging.DEBUG)
 data_uk_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_uk.csv"
 data_en_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_en.csv"
 
+last_processed_id_path = pathlib.Path(__file__).parent.resolve() / "pkl" / "official_last_processed_id.txt"
+pkl_file_path = pathlib.Path(__file__).parent.resolve() / "pkl" / "official_active_alerts.pkl"
+
 
 class OfficialAirAlertProcessor:
     channel_name = "air_alert_ua"
@@ -28,16 +33,22 @@ class OfficialAirAlertProcessor:
     active_alerts_by_location: dict[str, OfficialAirRaidAlertChannelAlert] = {}
     completed_alerts: list[OfficialAirRaidAlertChannelAlert] = []
 
+    last_processed_id: int = 0
+
     def __init__(self, client):
         self.client = client
 
         self.load_states()
+        self.load_active_alerts()
+        self.load_last_processed_id()
 
     async def process(self):
         previous_day = None
 
+        logging.info("Starting processing official channel messages from %s", self.last_processed_id)
+
         # TODO Fetch latest days from .csv file and just append it
-        async for message in self.client.iter_messages(self.channel_name, reverse=True):
+        async for message in self.client.iter_messages(self.channel_name, reverse=True, min_id=self.last_processed_id):
             if not previous_day or previous_day != message.date.date():
                 previous_day = message.date.date()
                 logger.info("Processing day %s", previous_day)
@@ -47,13 +58,41 @@ class OfficialAirAlertProcessor:
 
             self.process_message(message)
 
+            self.last_processed_id = message.id
+
+        logging.info("Finished processing official channel messages at %s", self.last_processed_id)
         self.write()
+
+    def load_active_alerts(self):
+        if not os.path.exists(pkl_file_path):
+            return
+
+        with open(pkl_file_path, "rb") as f:
+            self.active_alerts_by_location = pickle.load(f)
+
+    def dump_active_alerts(self):
+        with open(pkl_file_path, "wb") as f:
+            pickle.dump(self.active_alerts_by_location, f)
+
+    def load_last_processed_id(self):
+        if not os.path.exists(last_processed_id_path):
+            return
+
+        with open(last_processed_id_path, "r") as f:
+            self.last_processed_id = int(f.read())
+
+    def dump_last_processed_id(self):
+        with open(last_processed_id_path, "w") as f:
+            f.write(str(self.last_processed_id))
 
     def write(self):
         self.completed_alerts.sort(key=lambda x: x.started_at)
 
         self.write_to_file(lang="uk")
         self.write_to_file(lang="en")
+
+        self.dump_active_alerts()
+        self.dump_last_processed_id()
 
     def write_to_file(self, lang: str = "uk"):
         file_path = data_uk_file_path if lang == "uk" else data_en_file_path
@@ -75,6 +114,8 @@ class OfficialAirAlertProcessor:
                 writer.writerow(record.dict(lang=lang))
 
     def process_message(self, message: Message):
+        logger.info("Processing message %s", message.message)
+
         hashed_location, is_activated, is_deactivated = self.parse_message(message)
 
         if not is_activated and not is_deactivated:
