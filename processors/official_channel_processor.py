@@ -97,7 +97,8 @@ class OfficialAirAlertProcessor:
     def write_to_file(self, lang: str = "uk"):
         file_path = data_uk_file_path if lang == "uk" else data_en_file_path
 
-        with open(file_path, "w", newline="") as csvfile:
+        mode = "a" if os.path.exists(file_path) else "w"
+        with open(file_path, mode, newline="") as csvfile:
             fieldnames = [
                 "oblast",
                 "raion",
