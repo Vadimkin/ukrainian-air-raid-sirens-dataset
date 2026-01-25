@@ -5,17 +5,17 @@ import logging
 import os.path
 import pathlib
 import pickle
-from typing import Optional
+from typing import Optional, List
 
 from telethon.tl.types import Message
 
+from .legacy_states import get_new_name
 from .tg_dataclasses import OfficialAirRaidAlertChannelAlert, PLACE_LEVEL
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
-# UK means ukrainian language code, not United Kingdom :)
 data_uk_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_uk.csv"
 data_en_file_path = pathlib.Path(__file__).parent.resolve() / "../datasets/official_data_en.csv"
 
@@ -119,45 +119,46 @@ class OfficialAirAlertProcessor:
     def process_message(self, message: Message):
         logger.info("Processing message %s", message.message)
 
-        hashed_location, is_activated, is_deactivated = self.parse_message(message)
+        hashed_locations, is_activated, is_deactivated = self.parse_message(message)
 
         if not is_activated and not is_deactivated:
             logger.error("Can't parse %s, skipping...", message.message)
             return
 
-        oblast_name, raion_name, hromada_name, level = self.hash_states_by_name[hashed_location]
+        for hashed_location in hashed_locations:
+            oblast_name, raion_name, hromada_name, level = self.hash_states_by_name[hashed_location]
 
-        if is_activated:
-            if current_alert := self.active_alerts_by_location.get(hashed_location):
-                # Looks like it was started some time ago, but there are no message when alert was completed
-                more_than_3_hours_difference = (message.date - current_alert.started_at) > datetime.timedelta(hours=3)
-                if more_than_3_hours_difference:
-                    # Looks like it was not marked as completed, but another alert was started
-                    # otherwise just rewrite this alert
-                    current_alert.finished_at = current_alert.started_at + datetime.timedelta(hours=1)
-                    self.completed_alerts.append(current_alert)
+            if is_activated:
+                if current_alert := self.active_alerts_by_location.get(hashed_location):
+                    # Looks like it was started some time ago, but there are no message when alert was completed
+                    more_than_3_hours_difference = (message.date - current_alert.started_at) > datetime.timedelta(hours=3)
+                    if more_than_3_hours_difference:
+                        # Looks like it was not marked as completed, but another alert was started
+                        # otherwise just rewrite this alert
+                        current_alert.finished_at = current_alert.started_at + datetime.timedelta(hours=1)
+                        self.completed_alerts.append(current_alert)
 
-            alert = OfficialAirRaidAlertChannelAlert(
-                started_at=message.date,
-                oblast=oblast_name,
-                raion=raion_name,
-                hromada=hromada_name,
-                level=level,
-            )
-            self.active_alerts_by_location[hashed_location] = alert
+                alert = OfficialAirRaidAlertChannelAlert(
+                    started_at=message.date,
+                    oblast=oblast_name,
+                    raion=raion_name,
+                    hromada=hromada_name,
+                    level=level,
+                )
+                self.active_alerts_by_location[hashed_location] = alert
 
-        if is_deactivated:
-            if alert := self.active_alerts_by_location.get(hashed_location):
-                alert.finished_at = message.date
-                self.completed_alerts.append(alert)
+            if is_deactivated:
+                if alert := self.active_alerts_by_location.get(hashed_location):
+                    alert.finished_at = message.date
+                    self.completed_alerts.append(alert)
 
-                del self.active_alerts_by_location[hashed_location]
+                    del self.active_alerts_by_location[hashed_location]
 
     @staticmethod
     def is_ignored_message(message: Message) -> bool:
         return "Тестовий Регіон" in message.message
 
-    def parse_message(self, message: Message) -> tuple[Optional[str], Optional[bool], Optional[bool]]:
+    def parse_message(self, message: Message) -> tuple[Optional[List[str]], Optional[bool], Optional[bool]]:
         """
         :return: tuple (hashed location name, is_enabled, is_disabled)
         """
@@ -165,6 +166,12 @@ class OfficialAirAlertProcessor:
         # 🟢 17:02 Відбій тривоги в Донецька область.
         # 🟡 06:22 Відбій тривоги в Дніпропетровська область
         #          (тривога ще триває у якомусь районі)
+        # 🟢 12:33 Відбій тривоги в
+        #          • Мелітопольський район
+        #          • Василівський район
+        #          • Пологівський район
+        #          • Бердянський район
+        #          • Запорізький район
 
         if self.is_ignored_message(message):
             logger.error("Message %s is ignored", message.message)
@@ -180,10 +187,14 @@ class OfficialAirAlertProcessor:
             # Special rule for https://t.me/air_alert_ua/5538
             last_line = "#м_херсон_та_херсонська_територіальна_громада"
 
-        if not self.hash_states_by_name.get(last_line):
-            # TODO Raise an exception someday
-            logger.error("Can't process %s", last_line)
-            return None, None, None
+        # Split last line by spaces and take only first part
+        # #Херсонський_район #Бериславський_район #Скадовський_район #Каховський_район #Генічеський_район
+        hashtag_locations = last_line.split(" ")
+        for hashtag_location in hashtag_locations:
+            if not self.hash_states_by_name.get(hashtag_location):
+                # TODO Raise an exception someday
+                logger.error("Can't process %s", hashtag_location)
+                return None, None, None
 
         is_activated = ("Повітряна" in first_line) or ("🔴" in first_line)
         is_deactivated = ("Відбій" in first_line) or ("🟢" in first_line)
@@ -198,7 +209,7 @@ class OfficialAirAlertProcessor:
             )
             return None, None, None
 
-        return last_line, is_activated, is_deactivated
+        return hashtag_locations, is_activated, is_deactivated
 
     @staticmethod
     def location_to_hashtag(location: str) -> str:
@@ -224,16 +235,32 @@ class OfficialAirAlertProcessor:
 
             for raion in state["districts"]:
                 raion_name = raion["districtName"]
+
+                maybe_renamed_raion = get_new_name(state_name, raion_name)
+                maybe_renamed_raion_name = maybe_renamed_raion[0] if maybe_renamed_raion else None
+
                 hashed_raion_name = self.location_to_hashtag(raion_name)
                 self.hash_states_by_name[hashed_raion_name] = (
                     state_name,
-                    raion_name,
+                    maybe_renamed_raion_name or raion_name,
                     "",
                     "raion",
                 )
 
+                # Special fix for renamed raions
+                if maybe_renamed_raion_name:
+                    hashed_renamed_raion_name = self.location_to_hashtag(maybe_renamed_raion_name)
+                    self.hash_states_by_name[hashed_renamed_raion_name] = (
+                        state_name,
+                        maybe_renamed_raion_name,
+                        "",
+                        "raion",
+                    )
+
                 for hromada in raion["communities"]:
                     hromada_name = hromada["communityName"]
+                    maybe_renamed_hromada = get_new_name(state_name, raion_name, hromada_name)
+                    maybe_renamed_hromada_name = maybe_renamed_hromada[1] if maybe_renamed_hromada else None
                     hashed_hromada_name = self.location_to_hashtag(hromada_name)
 
                     # There are hromadas with duplicated names, so adding only hromadas where sirens were used at least once.
@@ -302,6 +329,16 @@ class OfficialAirAlertProcessor:
                         self.hash_states_by_name[hashed_hromada_name] = (
                             state_name,
                             raion_name,
-                            hromada_name,
+                            maybe_renamed_hromada_name or hromada_name,
                             "hromada",
                         )
+
+                        # Special fix for renamed hromadas
+                        if maybe_renamed_hromada_name:
+                            hashed_renamed_hromada_name = self.location_to_hashtag(maybe_renamed_hromada_name)
+                            self.hash_states_by_name[hashed_renamed_hromada_name] = (
+                                state_name,
+                                maybe_renamed_raion_name or raion_name,
+                                maybe_renamed_hromada_name,
+                                "hromada",
+                            )

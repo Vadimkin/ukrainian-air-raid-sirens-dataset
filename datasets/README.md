@@ -11,12 +11,10 @@ You may see `official_data_en.csv` (🇬🇧) and `official_data_uk.csv` (🇺�
 They're identical but in different language.
 
 Official dataset contains information from 15th of March 2022 – it's the first day when siren record occurs.
+Since December, 2025th there is mostly air raid alerts on raion (district) level ([see post in the media](https://texty.org.ua/fragments/116501/v-ukrayini-zaprovadzhuyetsya-novyj-pidxid-do-oholoshennya-povitryanyx-tryvoh-svyrydenko/)), before sirens were applied to the whole oblast (region). You may find them on [wikipedia](https://en.wikipedia.org/wiki/Raions_of_Ukraine).
+On some .geojson files they're Subnational Administrative Boundaries (Admin 2: 139 Raion (District))
 
-I'll extend soon with implementation from other sources from 24th of Feb until 15th of March 2022.
-
-Official alerts has `source=official`, data from volunteers has `source=volunteer` (currently 0 records).
-
-### Volunteer
+### Volunteer datasets
 
 Data by volunteers are stored in `volunteer_data_uk.csv` (🇺🇦) and `volunteer_data_en.csv` (🇬🇧).
 
